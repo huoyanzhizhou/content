@@ -2133,7 +2133,7 @@
                         contrary has been the case.</p>
                 </div>
                 <div type="item">
-                    <head> SHOCKING MURDER AT ALEXANDRIA.</head>
+                    <head>SHOCKING MURDER AT ALEXANDRIA.</head>
                     <p>A marder of a peculiarly atrocious character was committed in the Karmous
                         quarter of Alexandria last Saturday afternoon. A young Greek went to the
                         residence of his aunt whom he knew kept her savings, amounting to about
@@ -2650,10 +2650,10 @@
                                 <persName>Johnstone</persName>, <persName>Drago Andres</persName>,
                                 <persName>U. Rosenbaum</persName>, <persName>G.
                             Stephanim</persName>.</p>
-                    </div>
+                    </div></div>
                     <div type="item" feature="shippingMovements">
                         <head>SHIPPING MOVEMENTS</head>
-                        <head> ALEXANDRIA HARBOUR.</head>
+                        <head>ALEXANDRIA HARBOUR.</head>
                         <p>
                             <hi rend="bold">ARRIVALS</hi>
                         </p>
@@ -2688,7 +2688,6 @@
                         <p>September 30. </p>
                         <p>Ocean Prince, Brit. s. capt. Kegg, Malta and Manchester.</p>
                     </div>
-                </div>
                 <div type="item" xml:lang="fr">
                     <head>Administration des Chemins de Fer de l’Etat Egyptien AVIS</head>
                     <p>L’Administration a l’honneur de porter à la connaissance du Pablic qu'elle
@@ -3417,8 +3416,6 @@
                             <cell>"</cell>
                             <cell><measure unit="fcs">668 –</measure></cell>
                         </row>
-
-
                         <row>
                             <cell>Land Bank of Egypt</cell>
                             <cell>"</cell>
@@ -6254,7 +6251,7 @@
                             and information</hi> apply to the offices at Cairo, Alexandria
                         Damanhour, Tantah, Zagazig, or Saida Zenab. </p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

@@ -1521,7 +1521,6 @@
 				<cb n="1"/>
 				<div type="section" feature="local">
 					<head>LOCAL AND GENERAL</head>
-			
 				<div type="item">
 					<head>Cattle Plague.</head>
 					<p>Bovine typhus has made its appearance in the Ghirgeh district.</p>
@@ -1921,7 +1920,7 @@
 						heard a policeman shout The policeman then rushed in front of him and caught
 						him by the coat. He said “Sibuh” (Drop it) and removed the man’s hands. He
 						could not see whether Mr. Teakle was pushed as people interposed. Mahout
-						Osman oame to him and said, “You had better move across the road” and “The
+						Osman came to him and said, “You had better move across the road” and “The
 						police are always rude like this.” He started, looked back, and saw the
 						policeman in the way of accused. Accused then came across. The rest of his
 						evidence agreed in the main with accused's, save for his statement that
@@ -2010,13 +2009,13 @@
 						the influence of one man.”</p>
 				</div>
 				<div type="item">
-					<head> THE SUCRERIES CASE. </head>
+					<head>THE SUCRERIES CASE. </head>
 					<p>The“instruotion”in the Sucreries case closed this morning, and the conseil
 						d’instruction will meet to consider the instruction and give its decision on
 						May 16.</p>
 				</div>
 				<div type="item">
-					<head> PUBLIC WORKS CONTRACTS. </head>
+					<head>PUBLIC WORKS CONTRACTS. </head>
 					<p>The following tenders have been accepted by the Public Works Ministry :—</p>
 					<p>Adjudications of April 17 : for enlarging Bilbeis drain, Sharkieh, Mr. Congos
 						for L.E. 3,447 ; for construction of building for 2nd Irrigation Circle at
@@ -2030,12 +2029,12 @@
 						1, 828 mills, per ton.</p>
 				</div>
 				<div type="item">
-					<head> THE PLAGUE.</head>
+					<head>THE PLAGUE.</head>
 					<p>Yesterday’s plague bulletin records three fresh cases at Deshna and a death
 						at Samalout.</p>
 				</div>
 				<div type="section" feature="steamerMovements">
-					<head> STEAMER MOVEMENTS.</head>
+					<head>STEAMER MOVEMENTS.</head>
 					<p>The Florio-Rubattino SS. Perseo left Messina last night, and is due at
 						Alexandria on Saturday morning. She will leave again for Meesina, Naples,
 						Leghorn, and Genoa on Monday at 3 p. m.</p>
@@ -2090,8 +2089,8 @@
 					<p>Pour peu que cela continue, nous aurons bientôt atteint le minimum constaté
 						d’ordinaire en décembre.</p>
 				</div>
-				<div type="item">
-					<head>Circulaire H. De Tries et Boutigny</head>
+				<div type="item" feature="circulaire">
+                    <head>Circulaire H. De Tries et Boutigny</head>
 
 					<p>NOTES ET CRITIQUES</p>
 					<p>Le Caire, mercredi 9 Mai.</p>
@@ -2249,7 +2248,7 @@
 				<cb n="3"/>
 				<div type="item">
 
-					<head> The Nile Cold Storage Company, Ltd. ANNUAL GENERAL MEETING.</head>
+					<head>The Nile Cold Storage Company, Ltd. ANNUAL GENERAL MEETING.</head>
 					<p>NOTICE IS HEREBY GIVEN that the ANNUAL GENERAL MEETING of the Nile Cold
 						Storage Company, Limited, will be held at the Continental Hotel, Cairo,
 						Egypt, on Saturday, the 19 th day of May, 1906, at 5 o’clock in the
@@ -2294,7 +2293,7 @@
 					<p>Cairo, Egypt. 27896-2-1</p>
 				</div>
 				<div type="section" feature="shippingMovements">
-					<head> SHIPPING MOVEMENTS.</head>
+					<head>SHIPPING MOVEMENTS.</head>
 					<p>ALEXANDRIA HARBOUR.</p>
 					<p>DEPARTURES.</p>
 					<p>May 9.</p>
@@ -3997,6 +3996,7 @@
 						<row role="label">
 							<cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
 						</row>
+						<!--values are copied from template-->
 						<row>
 							<cell>Novembre</cell>
 							<cell>Tal.</cell>
@@ -5168,113 +5168,8 @@
 			</div>
 			<pb n="6"/>
             <div type="page" n="6">
-				<div type="item" feature="exportManifests">
+				<div type="item" feature="exportManifests" status="empty">
 					<head>Export Manifests</head>
-					<table rows="15" cols="3" xml:id="deg-ta-exma01">
-						<head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
-							by the S.S. "Rameses," sailed on the <date when="1905-06-30">30th
-								June</date>:</head>
-						<row>
-							<cell>E. Toriel &amp; fils,</cell>
-							<cell><measure>44</measure></cell>
-							<cell>bales cotton</cell>
-						</row>
-						<row>
-							<cell>Cattaui fr. &amp; Co.,</cell>
-							<cell><measure>106</measure></cell>
-							<cell>,, ,,</cell>
-						</row>
-						<row>
-							<cell>Walker &amp; Meimarachi Ltd,</cell>
-							<cell><measure>300</measure></cell>
-							<cell>empty casks</cell>
-						</row>
-						<row>
-							<cell>E. Barber &amp; Son</cell>
-							<cell><measure>71</measure></cell>
-							<cell>empty casks</cell>
-						</row>
-						<row>
-							<cell>John B. Caffari</cell>
-							<cell><measure>173</measure></cell>
-							<cell>empty casks</cell>
-						</row>
-						<row>
-							<cell>M. L. Carasso,</cell>
-							<cell><measure>1</measure></cell>
-							<cell>case cigarettes</cell>
-						</row>
-						<row>
-							<cell>N. Soussa frères,</cell>
-							<cell><measure>1</measure></cell>
-							<cell>,, ,,</cell>
-						</row>
-						<row>
-							<cell>Alexandria Bonded Warehouse,</cell>
-							<cell><measure>1</measure></cell>
-							<cell>,, ,,</cell>
-						</row>
-						<row>
-							<cell>B. Hazan &amp; Co.,</cell>
-							<cell><measure>3</measure></cell>
-							<cell>,, ,,</cell>
-						</row>
-						<row>
-							<cell>C. N. Tocos &amp; Co.,</cell>
-							<cell><measure>1</measure></cell>
-							<cell>,, ,,</cell>
-						</row>
-						<row>
-							<cell>Sucreries &amp; Raff. d'Egypte,</cell>
-							<cell><measure>2000</measure></cell>
-							<cell>bags sugar</cell>
-						</row>
-						<row>
-							<cell>John B. Caffari,</cell>
-							<cell><measure>5</measure></cell>
-							<cell>packages tobacco</cell>
-						</row>
-						<row>
-							<cell>E. Hatoun,</cell>
-							<cell><measure>3</measure></cell>
-							<cell>cases curios</cell>
-						</row>
-						<row>
-							<cell>Mrs. Richmond,</cell>
-							<cell><measure>3</measure></cell>
-							<cell>packages effects</cell>
-						</row>
-						<row>
-							<cell>A. B. Burns,</cell>
-							<cell><measure>2</measure></cell>
-							<cell>,, ,,</cell>
-						</row>
-						<row>
-							<cell>W. Snow Esq.,</cell>
-							<cell><measure>6</measure></cell>
-							<cell>,, ,,</cell>
-						</row>
-						<row>
-							<cell>Thos. Cook &amp; Son,</cell>
-							<cell><measure>7</measure></cell>
-							<cell>,, ,,</cell>
-						</row>
-						<row>
-							<cell>C. H. Baldwin,</cell>
-							<cell><measure>12</measure></cell>
-							<cell>,, ,,</cell>
-						</row>
-						<row>
-							<cell>J. Setton &amp; Co.,</cell>
-							<cell><measure>2</measure></cell>
-							<cell>cases furniture</cell>
-						</row>
-						<row>
-							<cell>Various,</cell>
-							<cell><measure>11</measure></cell>
-							<cell>packages sundries</cell>
-						</row>
-					</table>
 				</div>
 				<div type="item">
 					<head>Egyptian State Railways &amp; Telegraphs</head>
@@ -5783,7 +5678,7 @@
 					</table>
 				</div>
 				<div type="item">
-					<head> National Bank of Egypt.</head>
+					<head>National Bank of Egypt.</head>
 					<p>5th ISSUE.</p>
 					<p>NOTICE is hereby given that the Bearer Warrants are now ready and will be
 						delivered in exchange for Scrip Certificates on and after the 10th inst.</p>
@@ -5798,7 +5693,7 @@
 					<p>Le Caire, le 7 Mai 1906. 27875-2. <hi rend="bold">a</hi> 2</p>
 				</div>
 				<div type="item">
-					<head> Royal Insurance Company. </head>
+					<head>Royal Insurance Company. </head>
 					<p>NOTICE,</p>
 					<p>Messrs. Haselden and Co., Egyptian Agents for the Royal Insurance Company of
 						Liverpool, hereby beg to inform their clients that having regard to the
@@ -5823,7 +5718,7 @@
 						27888-4-1</p>
 				</div>
 				<div type="item">
-					<head> Egyptian Delta Light. Railways, Ltd,</head>
+					<head>Egyptian Delta Light. Railways, Ltd,</head>
 					<p>The Agent and General Manager, P. 0. Box No . 659 Cairo, is prepared to
 						consider offers for the purchase of 2,000 barrels of Portland Cement
 						Dufossez Henri Brand now in Stores at Zifteh Barrage.27891-3 1</p>
@@ -5916,7 +5811,7 @@
 						Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
 							31-12.905</measure></p>
 					<table rows="4" cols="16">
-						<head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+						<head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
 						<row>
 							<cell>Bab-el-Louck...Dep.</cell>
 							<cell>6.20</cell>

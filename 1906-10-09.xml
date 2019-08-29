@@ -23,7 +23,7 @@
             <sourceDesc>
                 <bibl>
                     <title>The Egyptian Gazette</title>
-                    <date when="1906-10-09"><name>Tuesday</name>, October 09, 1906</date>
+                    <date when="1906-10-09"><name>Tuesday</name>, October 9, 1906</date>
                     <extent><measure unit="pages" quantity="6">6</measure> pages</extent>
                 </bibl>
             </sourceDesc>
@@ -1385,7 +1385,7 @@
                     <p>V. J. FLEURENT, Cairo</p>
                     <p>F. MICALLEF, Sole Agent, 11 Bab Midan, Alexandria</p>
                 </div>
-                <div type="section" element="weather">
+                <div type="section" feature="weather">
                     <head>DAILY WEATHER REPORT</head>
                     <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
                     <div type="subsection">
@@ -1710,8 +1710,8 @@
             <div type="page" n="3">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="section" element="local">
-                    <head> LOCAL AND GENERAL. </head>
+                <div type="section" feature="local">
+                    <head>LOCAL AND GENERAL. </head>
                     <div type="item">
                     <head>The Cherif Estates.</head>
                     <p>The Mixed Tribunal has appointed Mohamed Bey Rassim at judicial trustee of
@@ -1849,8 +1849,8 @@
                             are observed, and we imagine that the newspaper correspondent who gave
                             the news has mistaken outlying pickets for speical guards.</p>
                     </div>
-                    <div type="item">
-                        <head> THE KHEDIVE.</head>
+                    <div type="item" feature="khedive">
+              <head>THE KHEDIVE.</head>
                         <p>H.H. the Khedive came in from Montazah to Ras-el-Rin this morning, and
                             granted a private audience to T.H. Prince Abbas Pasha Halim and Prince
                             Kamal-ed-Din Pasha, his HIghness's brothers-in-law.</p>
@@ -1863,7 +1863,7 @@
                             the Sirdar, will have an audience of his Highness.</p>
                     </div>
                     <div type="item">
-                        <head> KHEDIVIAL LAW SCHOOL.</head>
+                        <head>KHEDIVIAL LAW SCHOOL.</head>
                         <p>As already announced, M.Granoulin has been appointed "Substitu: in the
                             Contentieux of the Finance Minsitry, with the salary attached to his
                             previous post. According to the Mukattam, however, it is rumoured that
@@ -1878,7 +1878,7 @@
                             Englishman not being found.</p>
                     </div>
                     <div type="item">
-                        <head> THE NATIONAL UNIVERSITY.</head>
+                        <head>THE NATIONAL UNIVERSITY.</head>
                         <p>Four members of the Abasza family have together subscribed the sum of
                             L.E. 700 for the proposed National University. Said Mohamed, a merchant
                             of Gamaleih, Cairo, offers L.E. 1,500, Ali Bey Sherif, L.E. 300, Ali Bey
@@ -1889,7 +1889,7 @@
                             expressed his desire to subscribe P.T. 50.</p>
                     </div>
                     <div type="item">
-                        <head> MR. BLUNT'S ESTATE.</head>
+                        <head>MR. BLUNT'S ESTATE.</head>
                         <p>It is stated that Mr. Wilfrid Scawen Blunt is contemplating the sale of
                             his estate of Matarieh.</p>
                         <p>Mr. Blunt is full of literary energy at the present time. In the October
@@ -1906,8 +1906,8 @@
                             Piggott is arriving about the middle of November. There are no important
                             cases fown for hearing at Alexandria.</p>
                     </div>
-                    <div type="item">
-                        <head>STEAMER MOVEMENTS.</head>
+                    <div type="item" feature="steamerMovements">
+                    <head>STEAMER MOVEMENTS.</head>
                         <p>The Moss liner Menepthah sailed from Malta yesterdays afternoon, and is
                             due here on Friday at daybreak with passengers, mails, and general
                             cargo.</p>
@@ -1980,7 +1980,7 @@
                             of the Army Council.</p>
                     </div>
                     <div type="item">
-                        <head> EGYPT AND CENTRAL EUROPE.</head>
+                        <head>EGYPT AND CENTRAL EUROPE.</head>
                         <p>The new Continental express service between Egypt and Central Europe is
                             to begin shortly.</p>
                         <p>Particularly importance is attached by Germany to the working of this
@@ -2086,7 +2086,7 @@
                         <p>Port Said, October 8.</p>
                     </div>
                     <div type="item">
-                        <head> EGYPTIAN POLICY FOR CUBA.</head>
+                        <head>EGYPTIAN POLICY FOR CUBA.</head>
                         <p>The British position in Egypt has always had a great interest for
                             President Roosevelt and the course of policy and action suggested by it
                             willin all probability be followed in Cuba. This is believed will be
@@ -2217,7 +2217,7 @@
                             "Once a flambean now an ash."</p>
                     </div>
                 </div>
-                <div type="section" element="social">
+                <div type="section" feature="social">
                     <head>PERSONAL AND SOCIAL.</head>
                     <p>Hassan Pasha mohensen, who arrived at Alexandria yesterday by the Austrian
                         Lloyd's S.S. Semiramis from Trieste has greatly benefitted in health during
@@ -2366,7 +2366,7 @@
                         courant.</p>
                     <dateline>Le Caire, 8 Octobre.</dateline>
                 </div>
-                <div type="item">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>(Aujourd hui a midi et demie.)</p>
                     <p>L'Agricole, la National Bank, les Nungovich Hotels, les Estates et le
@@ -2390,11 +2390,11 @@
                         traitees.</p>
                 </div>
                 <cb n="2"/>
-                <div type="section" element="passList">
+                <div type="section" feature="passList">
                     <head>PASSENGER LISTS.</head>
                     <div type="item">
                         <p>ARRIVALS.</p>
-                        <p>Arrived per Norddeutscher Lloyd 8.8. Hohcnzbllem yesterday: - </p>
+                        <p>Arrived per Norddeutscher Lloyd S.S. Hohcnzbllem yesterday: - </p>
                         <p> Mr. Tli. Aicard, Mme Alcard, Mr. Jacques Aghion, Mrs. Aghion.Mrs. B.
                             Aghion, Mrs. B. M. Aghion, Mr. K Agar llolwirtcs, Mr. V, Agar Roburten,
                             Mr. Arif Bey, Mr. Agi Greiss Bey, Mr. and Mrs. Adda, Mr. Anhoury, C'apt.
@@ -2522,7 +2522,7 @@
                     <p> *Less one per mille brokerage.</p>
                 </div>
                 <cb n="3"/>
-                <div type="section" element="shippingMovements">
+                <div type="section" feature="shippingMovements">
                     <head>ALEXANDRIA HARBOUR.</head>
                     <p>ARRIVALS.</p>
                     <p>October 8.</p>
@@ -2543,7 +2543,7 @@
                     <p>Cambric, Brit. s. capt. Peck, Constantinople, in ballast.</p>
                     <p>Salonique, Ott. S. capt. Vrihoropoulo, Salonica, in ballast. </p>
                 </div>
-                <div type="item" element="comingEvents">
+                <div type="item" feature="comingEvents">
                     <head>Calendar of Coming Events</head>
                     <table cols="2" xml:id="deg-ta-coce01">
                         <row role="label">
@@ -4349,7 +4349,7 @@
             <div type="page" n="5">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="section" element="wire">
+                <div type="section" feature="wire">
                     <head>"OPEN DOOR" IN FAR EAST.</head>
                     <div type="item">
                         <head>OCCUPATION OUTSIDE MUKEN.</head>
@@ -4456,7 +4456,7 @@
                     <p><measure type="indexNo">24-11-9</measure></p>
                 </div>
                 <cb n="2"/>
-                <div type="section" element="letters">
+                <div type="section" feature="letters">
                     <head>LETTERS TO THE EDITOR.</head>
                     <p>We do not hold ourselves responsbiel for the opinions expressed by our
                         coresspondents in a spirit of fair play to all to permit - within certain
@@ -4560,7 +4560,7 @@
                     </div>
                 </div>
                 <cb n="3"/>
-                <div type="item">
+                <div type="item" feature="shareMarket">
                     <head>MONEY AND SHARE MARKET.</head>
                     <p>(From our Financial Correspondent)</p>
                     <p>London, September 28</p>
@@ -4804,7 +4804,7 @@
                         For Further particular apply to the Manager "Egyptian Gazette."</p>
                 </div>
                 <cb n="5"/>
-                <div type="section" element="sport">
+                <div type="section" feature="sport">
                     <head>SPORT AND PLAY.</head>
                     <div type="item">
                         <head>KHEDIVIAL YACHT CLUB.</head>
@@ -4822,7 +4822,7 @@
                         <p>All members of the Yacht Club are cordially invited. No other invitations
                             will be given.</p>
                     </div>
-                    <div type="section" element="prepaidAdvertisements">
+                    <div type="section" feature="prepaidAdvertisements">
                         <head>Cheap Prepaid Advertisements</head>
                         <p>Under this heading advertisements are inserted at the following rates
                             :—</p>
@@ -6210,7 +6210,7 @@
                             information</hi> apply to the offices at Cairo, Alexandria Damanhour, Tantah
                         or Zagazig. <measure type="indexNo">21416 31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

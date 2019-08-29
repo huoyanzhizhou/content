@@ -1361,10 +1361,7 @@
             </div>
             <pb n="2"/>
             <div type="page" n="2">
-                
                     <head>THE EGYPTIAN GAZETTE, Saturday, August 5, 1905</head>
-                
-              
                     <cols n="3"/>
                     <cb n="1"/>
                     <div type="advert" xml:id="deg-ad-ric01">
@@ -1389,7 +1386,7 @@
                         <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                             use.</p>
                         <table>
-                            <head> Sole Agents in Egypt and Soudan for</head>
+                            <head>Sole Agents in Egypt and Soudan for</head>
                             <row>
                                 <cell>J. Calvet &amp; Co.</cell>
                                 <cell>Bordeaux.</cell>
@@ -1877,7 +1874,6 @@
                             </row>
                         </table>
                     </div>
-                
             </div>
             <pb n="3"/>
             <div type="page" n="3">
@@ -1886,7 +1882,6 @@
                 </div><cols n="6"/>
                     <cb n="1"/>
                 <div type="section" feature="wire">
-                    
                     <div type="item">
                         <head>THE WAR.</head>
 
@@ -2163,7 +2158,7 @@
                             coast range.</p>
                     </div>
                     <div type="item">
-                        <head> HEDJAZ RAILWAY.</head>
+                        <head>HEDJAZ RAILWAY.</head>
                         <p>Field Marshal Hakki Pasha, A. D. C. to the Sultan, Nazim Pasha, Governor
                             of Syria, Field Marshal Raif Pasha, Hamdi Bey, and several of the German
                             officials employed upon the Hedjaz Railway, recently paid a visit to
@@ -2334,7 +2329,7 @@
                             Ml’e M. Cantoni Mr. G. Giovanelli Mr. S. Greggio.</p>
                     </div>
                     <cb n="6"/>
-                    <div type="item">
+                    <div type="item" feature="chroniqueFinanciere">
                         <head>CHRONIQUE FINANCIERE</head>
                         <p>Le mouvement aaoentionnel des conrs s’est moors aooentud au commencement
                             de cette temaine ; vers la fin oependant une reaction partielle s’est
@@ -2375,9 +2370,9 @@
                             l’annee conrante set en forte demandepntre 9 19/82 et 9 5/8, apraa avoir
                             touche dans le oourant de la semaine le prix de 9 23/32.</p>
                         <p>De 1020 la Fondateur Agricole monte à 1045.</p>
-                        <p>De 824 Faction Credit Fonoier flechit à 818 ponr reprendre en clAtnre k
+                        <p>De 824 Faction Credit Foncier flechit à 818 ponr reprendre en clAtnre k
                             820 aoheteurs. Chaqne Part de Fondateur ayant droit de souscription à 50
-                            actions de la nonvelle emis- sion Credit Fonoier à 810, le ooun de oette
+                            actions de la nonvelle emis- sion Credit Foncier à 810, le ooun de oette
                             valenr a passe rapidemant de 8200 à 9000 francs, soit 800 franos de
                             hauase.</p>
                         <p>La Frivilegiee Tramways flechit à un moment ioDne de 155 à 168, mais alls
@@ -2411,7 +2406,7 @@
                         <p>Bien qne le projet Pesmazoglo ait 6t6 vote en deuxikme leotnre, la Banqne
                             d’Athknes qui avait dlbutd à 130 1/4 teaotionne josqu’k 127 3/4 sur
                             d’importantes realisations.</p>
-                        <p>L’Obligation Credit Fonoier fluotue entre 315 et 318 et finit à 316
+                        <p>L’Obligation Credit Foncier fluotue entre 315 et 318 et finit à 316
                             1/2.</p>
                         <p>Le Trust et l’lnvestment fluotuent entre 1 5/16 et 1 11/32 sans affaires
                             important^</p>
@@ -2430,10 +2425,7 @@
                 </div>
             <pb n="4"/>
             <div type="page" n="4">
-                
                     <head>THE EGYPTIAN GAZETTE, Saturday, August 5, 1905</head>
-                
-             
                     <cols n="6"/>
                     <cb n="1"/>
                     <div type="item">
@@ -2644,7 +2636,7 @@
                             possesses.</p>
                     </div>
                     <div type="item">
-                        <head> MISUNDERSTOOD.</head>
+                        <head>MISUNDERSTOOD.</head>
                         <p>Russia persists in the statement that her army in Manchuria is still
                             anxious and willing to fight. Impartial observers returned from the
                             front tell us that officers and privates alike are panting for peace,
@@ -2854,13 +2846,10 @@
                             give Inclusive f.o.b. estimates when desired.</p>
                         <p>TOTTENHAM COURT ROAD LONDON ENGLAND</p>
                     </div>
-                
             </div>
             <pb n="5"/>
             <div type="page" n="5">
-               
                     <head>THE EGYPTIAN GAZETTE, Saturday, August 5, 1905</head>
-                
                     <cols n="6"/>
                     <cb n="1"/>
                     <!-- T. A. Spartali & Co. template link is not working -->
@@ -4094,14 +4083,10 @@
                             </row>
                         </table>
                     </div>
-                
             </div>
             <pb n="6"/>
             <div type="page" n="6">
-                
                     <head>THE EGYPTIAN GAZETTE, Saturday, August 5, 1905</head>
-                
-              
                     <cols n="6"/>
                     <cb n="1"/>
                     <div type="advert" xml:id="deg-ad-inv01">
@@ -6373,14 +6358,11 @@
                             </row>
                         </table>
                     </div>
-                
             </div>
             <pb n="7"/>
             <div type="page" n="7">
 
                     <head>THE EGYPTIAN GAZETTE, Saturday, August 5, 1905</head>
-                
-            
                     <cols n="6"/>
                     <cb n="1"/>
                     <div type="advert" xml:id="deg-ad-alf01">
@@ -6401,7 +6383,7 @@
                         <p>Also at Alexandria and Tantah.</p>
                         <p>RELIABLE BRITISH GOODS.</p>
                     </div>
-                    <div type="item">
+                    <div type="item" feature="londonLetter">
                         <head>OUR LONDON LETTER.</head>
                         <p>(From our Correspondent.)</p>
                         <p>London, July 28.</p>
@@ -6755,7 +6737,6 @@
                                 “Egyptian Gazette' offices. 25888-</p>
                         </div>
                         <div type="item">
-                            
                             <p>ADVERTISING AGENTS.—The best public Advertising sites in Alexandria
                                 belong to G. Vestri &amp; Co., Advt. Agents, 8t Catherine's Square.
                                 Special rates for permanent clients, Moderate terms. Prompt despatch.
@@ -6844,14 +6825,10 @@
                             FOUNTAIN PENS, &amp;c., &amp;c.</p>
                         <p>Davies Bryan &amp; Co., Cairo &amp; Alexandria.</p>
                     </div>
-                
             </div>
             <pb n="8"/>
             <div type="page" n="8">
-                
                     <head>THE EGYPTIAN GAZETTE, Saturday, August 5, 1905</head>
-                
-              
                     <cols n="3"/>
                     <cb n="1"/>
                     <!-- Need "The Union Discount Company of London, LTD." template -->
@@ -7682,7 +7659,7 @@
                             Cairo, Alexandria Damanhour, Tantah or Zagazig. <measure type="indexNo"
                                 >21416 31-12.905</measure></p>
                         <table rows="4" cols="16">
-                            <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                            <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                             <row>
                                 <cell>Bab-el-Louck...Dep.</cell>
                                 <cell>6.20</cell>
@@ -8228,7 +8205,6 @@
                             vente aux gares du Caire, d'Alexandrie, de Tantah, de Damanhour de
                             Kafr-Zayat et de Zagazig. Prix numéro du jour, 1 P.T.</p>
                     </div>
-                
             </div>
         </body>
     </text>

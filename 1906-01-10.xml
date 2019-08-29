@@ -1278,7 +1278,6 @@
                         classification. </p>
                 </div>
                 <cb n="3"/>
-               
                 <div type="item">
                     <head>NILE SERVICE COMBINE. NEW STEAMERS ORDERED. HAMBURG-ANGLO-AMERICAN NILE
                         CO.</head>
@@ -1414,7 +1413,6 @@
                         to-day from Fiume.</p>
                 </div>
                 <cb n="5"/>
-                
                 <div type="item">
                     <head>DEATH OF LORD RITCHIE. FATAL PARALYTIC STROKE. BIOGRAPHICAL NOTICE.</head>
                     <p>London, January 9.</p>
@@ -1467,7 +1465,7 @@
                         elected to be entitled territorially after his birthplace, Dundee</p>
                 </div>
                 <div type="item">
-                    <head> KING’S ROYAL RIFLES. </head>
+                    <head>KING’S ROYAL RIFLES. </head>
                     <p>The warrant officers, staff sergeants, and sergeants of the King’s Royal
                         Rifle Corps are giving a quadrille party at the Sergeants’ Mess at Abbassieh
                         on Friday, 12th inst., to mark the occasion of the anniversary of the wreck
@@ -1485,7 +1483,7 @@
                         were present on the occasion. </p>
                 </div>
                 <div type="item" feature="bandPerformance">
-                    <head> BAND PERFORMANCE. </head>
+                    <head>BAND PERFORMANCE. </head>
                     <p>By kind permission of Lienut-Colonel R. C. C. Cox, commandiog, and officers
                         2nd Batt. Royal Inniskilling Fusiliers, the band, will per- form the
                         following selection of mosic on the terrace, Grand Continental Hotel,
@@ -1559,7 +1557,7 @@
                 </div>
                 <cb n="1"/><div type="section" feature="wire">
                 <div type="item">
-                    <head> MOROCCO question. AMICABLE SOLUTION PROBABLE ITALY IN A QUANDARY </head>
+                    <head>MOROCCO question. AMICABLE SOLUTION PROBABLE ITALY IN A QUANDARY </head>
                     <p>London, January 9.</p>
                     <p>Commencing on the White Book, the Press considers that it indicates that an
                         amicable solution is probable, though doubts are express- ed as to German
@@ -1628,7 +1626,7 @@
                         Manchuria. (R.)</p>
                 </div>
                 <div type="item">
-                    <head> FRENCH CHAMBER M. DOUMER ELECTED PRESIDENT. </head>
+                    <head>FRENCH CHAMBER M. DOUMER ELECTED PRESIDENT. </head>
                     <p>Paris, January 9.</p>
                     <p>The Chamber has re-assembled, and elected M. Doumer as President. This is
                         regarded as increasing the prospect of his being elected to succeed M.
@@ -1650,7 +1648,6 @@
                     <p>Baron von Richthofen has had a stroke of apoplexy. ( Havas)</p>
                 </div></div>
                 <cb n="2"/>
-               
                 <div type="item">
                     <head>EGYPTOLOGY ALEXANDRIA ARCHÆOLOGICAL SOCIETY.</head>
                     <p>No. 7 of the new series of the “Bulletin de la Société Archeologiqne
@@ -1747,7 +1744,6 @@
                         Ptolemy Alleges, which mentions the city officials. </p>
                 </div>
                 <cb n="3"/>
-                
                 <div type="item">
                     <p>Registration. 1906</p>
                     <p>NOTICE is hereby given that all British subjects residing within the
@@ -1758,7 +1754,7 @@
                         registration certificates 27055-6-6 By Order</p>
                 </div>
                 <div type="item">
-                    <head> NAVY CONTRACTS PORT SAID and SUEZ. </head>
+                    <head>NAVY CONTRACTS PORT SAID and SUEZ. </head>
                     <p>TENDERS are hereby invited for new Contracts for the supply of Fresh Beef,
                         Mutton, Vegetables, Soft Bread, and Water to His Majesty’s Ships at Port
                         Said and Suez for twelve months from lat. April 1906.</p>
@@ -1842,7 +1838,6 @@
                         No. 139.</p>
                     <p>Alexandria: 29, Cherif Pasha Street. Telephone No. 661.</p>
                 </div>
-                
                 <cb n="5"/>
 
                 <div type="item">
@@ -1910,7 +1905,6 @@
                     <p>3. Etre munis de bons certificats.</p>
                     <p>25735-7-4-906</p>
                 </div>
-                
                 <cols n="3"/><cb n="3"/>
                 <div type="advert" xml:id="deg-ad-msp01">
                     <head>MCLAREN'S STEAM PLOUGHS</head>
@@ -1959,7 +1953,6 @@
                     <p>Makers of ROBINSON’S PATENT GROATS.</p>
                 </div><cols n="6"/>
                 <cb n="5"/>
-                
                 <!--hotel advertisement missing-->
                 <!--charles evans-->
                 <!--Hotel Europe-->
@@ -2501,7 +2494,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -2748,115 +2741,10 @@
                     </table>
                 </div>
                 <!--edit calendar-->
-                <div type="item" feature="exportManifests">
+                <div type="item" feature="exportManifests" status="empty">
                     <head>Export Manifests</head>
-                    <table rows="15" cols="3" xml:id="deg-ta-exma01">
-                        <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
-                            by the S.S. "Rameses," sailed on the <date when="1905-06-30">30th
-                                June</date>:</head>
-                        <row>
-                            <cell>E. Toriel &amp; fils,</cell>
-                            <cell><measure>44</measure></cell>
-                            <cell>bales cotton</cell>
-                        </row>
-                        <row>
-                            <cell>Cattaui fr. &amp; Co.,</cell>
-                            <cell><measure>106</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Walker &amp; Meimarachi Ltd,</cell>
-                            <cell><measure>300</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>E. Barber &amp; Son</cell>
-                            <cell><measure>71</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari</cell>
-                            <cell><measure>173</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>M. L. Carasso,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>case cigarettes</cell>
-                        </row>
-                        <row>
-                            <cell>N. Soussa frères,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Alexandria Bonded Warehouse,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>B. Hazan &amp; Co.,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. N. Tocos &amp; Co.,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Sucreries &amp; Raff. d'Egypte,</cell>
-                            <cell><measure>2000</measure></cell>
-                            <cell>bags sugar</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari,</cell>
-                            <cell><measure>5</measure></cell>
-                            <cell>packages tobacco</cell>
-                        </row>
-                        <row>
-                            <cell>E. Hatoun,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>cases curios</cell>
-                        </row>
-                        <row>
-                            <cell>Mrs. Richmond,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>packages effects</cell>
-                        </row>
-                        <row>
-                            <cell>A. B. Burns,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>W. Snow Esq.,</cell>
-                            <cell><measure>6</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Thos. Cook &amp; Son,</cell>
-                            <cell><measure>7</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. H. Baldwin,</cell>
-                            <cell><measure>12</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>J. Setton &amp; Co.,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>cases furniture</cell>
-                        </row>
-                        <row>
-                            <cell>Various,</cell>
-                            <cell><measure>11</measure></cell>
-                            <cell>packages sundries</cell>
-                        </row>
-                    </table>
+                    <!--edit export manifest. spills into 2 columns-->
                 </div>
-                <!--edit export manifest. spills into 2 columns-->
                 <cb n="2"/>
                 <cols n="6"/>
                 <!--missing shipping movements-->
@@ -5152,7 +5040,7 @@
                 <!--spartali missing-->
                 <cb n="2"/>
                 <cols n="6"/>
-                <div type="item">
+                <div type="item" feature="parisLetter">
                     <head>Our Paris Letter</head>
                     <p>(From our Correspondent).</p>
                     <p>Paris. January 2.</p>
@@ -6042,8 +5930,6 @@
                             <p>Beautiful new hotel.</p>
                             <p>First class. Electric light. Central heating and every modern
                                 comfort.</p>
-
-
                         </div>
                         <div type="item" scope="advertisement">
                             <head>Paris HOTEL BELLEVUE.</head>

@@ -1000,7 +1000,7 @@
                     <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and Soudan for</head>
+                        <head>Sole Agents in Egypt and Soudan for</head>
                         <row>
                             <cell>J. Calvet &amp; Co.</cell>
                             <cell>Bordeaux.</cell>
@@ -1828,7 +1828,6 @@
                     <p>We do not hold ourselves responsible for the opinions expressed by our
                         correspondents, but we wish, in a spirit, of fair play to all, to permit
                         —within certain necessary</p>
-                
                 <div type="item">
                     <head>ERRATUM.</head>
                     <p>To THE EDITOR OF THE EGYPTIAN GAZETTE.</p>
@@ -2995,14 +2994,10 @@
                     <p>Telephone; No. 559.</p>
                     <p>24528-15-3-905</p>
                 </div>
-
-
-
             </div>
             <pb n="5"/>
             <div type="page" n="5"> <cb n="1"/>
                 <div type="section" feature="homePapers">
-                   
                     <head>MATTERS OF MOMENT.</head>
                     <p>PITH OF THE PRESS COMMENTS.</p>
                     <p>THE SULTAN CLIMBS DOWN.</p>
@@ -3585,7 +3580,7 @@
                       <head>BULLETIN DB LA BOURSE</head>
                     <p>(AaionrdM d midi et demie) Comme o’est frkquemment le oas le samedi, le
                         marohk a ktk oalme aveo transactions olair- semkes. Les Aotions Credit
-                        Fonoier reprennent de 816 à 817, la Banque d’Athknes de 129 à 129 1/4, les
+                        Foncier reprennent de 816 à 817, la Banque d’Athknes de 129 à 129 1/4, les
                         Cotton Mills de 5/6 à 5/9, l’Anglo- Amerioan Nile de 5 7/16 à 5 9/16,
                         l’Ordinary Ehedirial Mail de 23 à 23/9 et l’Alexandria Water de 1170 à 1175.
                         Par oontre, la Bkhkra flkehit de 43 à 42 7/8. L’lnvestment -est kgalemcnt
@@ -5585,6 +5580,7 @@
                             <row role="label">
                                 <cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
                             </row>
+                            <!--values are copied from template-->
                             <row>
                                 <cell>Novembre</cell>
                                 <cell>Tal.</cell>
@@ -5757,7 +5753,7 @@
             </div>
             <pb n="7"/>
             <div type="page" n="7">
-                <div type="item">
+                <div type="item" feature="londonLetter">
                     <head>OUR LONDON LETTER,</head>
                     <p>(FROM A CORRESPONDENT.)</p>
                     <p>London, September 8. The world breathes freely again, knowing that the treaty
@@ -6049,7 +6045,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

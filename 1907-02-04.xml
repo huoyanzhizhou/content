@@ -13,7 +13,7 @@
             <editionStmt>
                 <edition>
                     <date when="2018-01-17">January 17, 2018></date>
-                    <gloss>1</gloss>
+                    <gloss>3</gloss>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -1742,9 +1742,6 @@
                     <p><hi rend="italic">Exigez toujours l'Emulsion avec cette marque : "le
                             Pécheur", marque du procédé Scott !</hi></p>
                 </div>
-
-
-
                 <div type="item" scope="newspaper" xml:id="deg-el-egsa01">
                     <head>THE EGYPTIAN GAZETTE.</head>
                     <p>SUBSCRIPTIONS.—Alexandria, Cairo, and the Interior of Egypt (including
@@ -1885,56 +1882,54 @@
                         period of consoli¬dation, we are told, though necessary, need not be of long
                         duration, and already vast projects.</p>
                 </div>
-
-
             </div>
             <div type="page" n="3">
                 <cols n="3"/>
                 <cb n="1"/>
 
-                <div type="section" element="local">
+                <div type="section" feature="local">
 
                     <head>LOCAL AND GENERAL.</head>
 
                     <div type="item">
 
-                        <head> Plague Credit </head>
+                        <head>Plague Credit </head>
                         <p>The Public Health Department has applied for a credit of L.E. 10,000 to
                             fight the plague in Egypt</p>
                     </div>
                     <div type="item">
-                        <head> New Foundlings’ Home. </head>
+                        <head>New Foundlings’ Home. </head>
                         <p>The Wak's Administration has allotted L E. 6,000 of Wakfe revenae for the
                             creation of a. new foundlings' home in Cairo.</p>
                     </div>
                     <div type="item">
-                        <head> The Artesian Boring and Prospecting Co. </head>
+                        <head>The Artesian Boring and Prospecting Co. </head>
                         <p>We learn that this company, which is in­creasing its capital to £100.000
                             by a new issue, has secured the services of Mr. F. M. Binger, manager of
                             the Bank of Salonica, as a member of its board.</p>
                     </div>
                     <div type="item">
-                        <head> Stabbing Affray. </head>
+                        <head>Stabbing Affray. </head>
                         <p>In the course of a drunken brawl in the Attarin quarter yesterday between
                             three Ar­menians, one of them stabbed the two others. One of his
                             victims, a British subject, is not expected to live</p>
                     </div>
                     <div type="item">
-                        <head> Village Murder. </head>
+                        <head>Village Murder. </head>
                         <p>Our Damanhour Correspondent telegraphs' that the agent of Boghos Pasha
                             Nubar was murdered yesterday at <placeName>Markib</placeName> village.
                             Two Europeans have been arrested on suspicion of being the authors of
                             the crime.</p>
                     </div>
                     <div type="item">
-                        <head> Coal Imports. </head>
+                        <head>Coal Imports. </head>
                         <p>For the month of January, the total import of coal into Alexandria was
                             61,468 tons, made up as follows : — Welsh, 29,373 ; Newcastle, 17,637 ;
                             Scotch, 2,474 ; Yorkshire, 8,427 ; other qualities, 3,557. Daring
                             January 1906 the total was 71,655 tons.</p>
                     </div>
                     <div type="item">
-                        <head> Benefit Performance. </head>
+                        <head>Benefit Performance. </head>
                         <p>A special performance of 'Tosca' wiil be given at the <placeName>Zizinia
                                 Theatre</placeName> on Sunday next in aid of the Italian free night
                             schools. The performance will be under the patronage of the Italian
@@ -1947,7 +1942,7 @@
                             date.</p>
                     </div>
                     <div type="item">
-                        <head> All Saints' Church, Ramleh. </head>
+                        <head>All Saints' Church, Ramleh. </head>
                         <p>Aba meeting of voters held on the 2nd inst., the Rev. E. H. Blyth, at
                             present Chaplain at Suez, was appointed Chaplain of All Saints,’ Ramleh,
                             from 1st May next. At the same meeting Messrs. G.B. Alderson, H. B. F.
@@ -1955,7 +1950,7 @@
                             1907.</p>
                     </div>
                     <div type="item">
-                        <head> Sleeping Care. </head>
+                        <head>Sleeping Care. </head>
                         <p>The <orgName>Egyptian State Railways</orgName> announce that, commencing
                             from Sunday, 10th February, until further notice, the sleeping-car
                             service on Cairo-Alexandria night trains Nos. 33 and 34, leaving Cairo
@@ -1964,7 +1959,7 @@
                             piastres for the journey by these trains.</p>
                     </div>
                     <div type="item">
-                        <head> Damanhour Industrial School. </head>
+                        <head>Damanhour Industrial School. </head>
                         <p>A committee has been formed at Damanhour to collect funds for the
                             industrial school which i Prince Hussein Pasha Kamel has proposed to
                             create there The members of the committee are Ibrahim Bey Nassar, wekil
@@ -1976,7 +1971,7 @@
                             Pasha Izzet, £150 ; Aziz Pasha lrzat, £150.</p>
                     </div>
                     <div type="item">
-                        <head> Ambassador and Chancellor. </head>
+                        <head>Ambassador and Chancellor. </head>
                         <p>The most distinguished of early British diplomatists, <persName>Sir Henry
                                 Wotton</persName>, Kt. (1568- 1639), whilst passing through Germany
                             on his way to Venice and staying at Augsburg, wrote in his post’s album
@@ -2015,7 +2010,7 @@
                 <cols n="6"/>
                 <cb n="2"/>
                 <div type="item">
-                    <head> FEHIM PASHA. </head>
+                    <head>FEHIM PASHA. </head>
                     <head>TERRORISING CONSTANTINOPLE</head>
                     <dateline>Constantinople, February 8.</dateline>
                     <p>Baron Marschall de Beiberstein was received in audience by the Sultan. The
@@ -2080,7 +2075,7 @@
                 </div>
 
                 <div type="item">
-                    <head> THE SEASON UP-RIVER. </head>
+                    <head>THE SEASON UP-RIVER. </head>
                     <p>Assouan has never had a more brilliant season than the present. For the last
                         week the three hotels of the Upper Egypt Hotels conference have been full,
                         and, judging by the nu¬merous orders coming in daily, will remain so' for
@@ -2101,9 +2096,6 @@
                         present in Alexandria, has paid an official visit to the acting Governor of
                         Alexandria, accompanied by the Swedish Vice-Consul. </p>
                 </div>
-
-
-
                 <cb n="3"/>
                 <div type="item">
                     <head>THE POST OFFICE FRAUDS</head>
@@ -2158,7 +2150,7 @@
                         on the celerity with which they followed up the indications they received
                         from Europe.</p>
                 </div>
-                <div type="section" element="social">
+                <div type="section" feature="social">
                     <head>PERSONAL AND SOCIAL</head>
                     <p>Among the passengers who arrived by the Hohenzollern to day were Lord Faber,
                         Baron de Zoylen de Nyevelt,Baron George de Reuter, Comte de Gramedo, Mr. and
@@ -2173,21 +2165,18 @@
                     <p>Sir H. Pinching, Direotor General of the Public Health Department, will*
                         probably represent the Egyptian Government at the International Conference
                         to be held at Berlin in September next.</p>
-                    
-                        <p>Sir Walter Mieville, K.C.M.G., left Alex- andria by the midday express
-                            to-day en route for Khartoum, accompanied by Simond Bey. </p>
-                    
-                        <p>The salary of M. P. Bernardi, Khedivial Counsellor at the Contentieux of
-                            the Ministry of the Interior, has been increased to LE 1,750, to date
-                            from January 1.</p>
-                    
-                        <p>A special tram will leave Bulkley for Alex- andria. stopping at all
-                            stations, at 2 a.m., after Mrs. Percy Carver’s dance to-morrow
-                            night.</p>
-                   
+
+                    <p>Sir Walter Mieville, K.C.M.G., left Alex- andria by the midday express to-day
+                        en route for Khartoum, accompanied by Simond Bey. </p>
+
+                    <p>The salary of M. P. Bernardi, Khedivial Counsellor at the Contentieux of the
+                        Ministry of the Interior, has been increased to LE 1,750, to date from
+                        January 1.</p>
+
+                    <p>A special tram will leave Bulkley for Alex- andria. stopping at all stations,
+                        at 2 a.m., after Mrs. Percy Carver’s dance to-morrow night.</p>
+
                 </div>
-
-
                 <cb n="4"/>
                 <div type="item">
                     <head>SAVOY HOTEL.</head>
@@ -2268,7 +2257,7 @@
                         S.S. Rou- mauia, which left Alexandria on Thursday last. The vessel
                         sustained damage which will require two mouths’ repairs.</p>
                 </div>
-                <div type="item" element="steamerMovements">
+                <div type="item" feature="steamerMovements">
                     <head>STEAMER MOVEMENTS</head>
                     <p>The Cunard S.S. sailed direct for Liverpool on Saturday afternoon . lull
                         car,go, including 3,187 bales cotton.</p>
@@ -2338,8 +2327,8 @@
                 </div>
                 <div type="item">
                     <head>OPERA HOUSE STRIKE. </head>
-                    <p>The strike of the fourteen musicians at the Khedivial Opera House, Cairo,
-                        is the talk of the Capital. According to their version, they had counted on
+                    <p>The strike of the fourteen musicians at the Khedivial Opera House, Cairo, is
+                        the talk of the Capital. According to their version, they had counted on
                         extra earnings to make ends meet, such, for instance, as a series of classic
                         concerts at the Cercle Artistique. M. Poncet objected; whence the defection.
                         The Cairote Press deals with the question from points of view characteristic
@@ -2435,93 +2424,97 @@
                         staged. The Brocken scene, the Greek scene, the “Si gira, si gira” chorus,
                         all have their absurd side; but so have many great operas. Anyone who heard
                         M. Zuccani do the “Tannhauser” overture in waltz time will acknowledge that.
-                        Signor Lucenti, by the way is from La Scala, and
-                        is considered to be on of the three finest basses in Italy. The “Abbas is
-                        treating ns well, in that several others of the troupe are prominent
-                        performers at Milan, Naples, and other great opera towns. </p>
+                        Signor Lucenti, by the way is from La Scala, and is considered to be on of
+                        the three finest basses in Italy. The “Abbas is treating ns well, in that
+                        several others of the troupe are prominent performers at Milan, Naples, and
+                        other great opera towns. </p>
                 </div>
             </div>
             <div type="page" n="4">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="section" element="wire">
-                    <head> TELEGRAMS. </head>
+                <div type="section" feature="wire">
+                    <head>TELEGRAMS. </head>
                     <head>U S. A. AND JAPAN,</head>
-                    <head>WILD TALK OF WAR.</head>
-                    <dateline>WASHINGTON, February 2.</dateline>
-                    <p>Several American newspapers are printing the wildest articles regarding the
-                        prospect of a war with Japan, despite the assurance of <persName>Mr.
-                            Taft</persName> that such talk was absurd. It is alleged by them that
-                        Japan has practically presented an ultimatum. A circumstantial bat
-                        unauthor¬ised report of <persName>President Roosevelt's</persName> speech to
-                        the Californian Congressmen, published represents the President as urging
-                        the neces ity for the immediate removal of the canses of friction without
-                        awaiting the decision of ’he Courts of the school questtion, on the ground
-                        that war with proud, brave Japan would be very different from war with
-                        Spain. They add that the Japanese are unlike Europeans, and would not
-                        exhanst the resources of diplomacy but strike quickly and without any
-                        warning.</p>
-                    <p>The officials condemn the revival of the war talk as utterly unwarranted and
-                        tending to hinder a rational settlement, now in progress, being arrived at.
-                        ( Reuter)</p>
-                </div>
+                    <div type="item">
+                        <head>WILD TALK OF WAR.</head>
+                        <dateline>WASHINGTON, February 2.</dateline>
+                        <p>Several American newspapers are printing the wildest articles regarding
+                            the prospect of a war with Japan, despite the assurance of <persName>Mr.
+                                Taft</persName> that such talk was absurd. It is alleged by them
+                            that Japan has practically presented an ultimatum. A circumstantial bat
+                            unauthor¬ised report of <persName>President Roosevelt's</persName>
+                            speech to the Californian Congressmen, published represents the
+                            President as urging the neces ity for the immediate removal of the
+                            canses of friction without awaiting the decision of ’he Courts of the
+                            school questtion, on the ground that war with proud, brave Japan would
+                            be very different from war with Spain. They add that the Japanese are
+                            unlike Europeans, and would not exhanst the resources of diplomacy but
+                            strike quickly and without any warning.</p>
+                        <p>The officials condemn the revival of the war talk as utterly unwarranted
+                            and tending to hinder a rational settlement, now in progress, being
+                            arrived at. ( Reuter)</p>
 
-                <div type="wireReport">
-                    <head>THE CAPITULATIONS.</head>
-                    <head>"TIMES” ON THE RUSSIAN AFFAIR.</head>
-                    <dateline>LONDON, February 2.</dateline>
-                    <p>The the action of <persName>Lord Cromer</persName> in refusing to pre¬vent
-                        the surrender of the Russian dynamiters, which, it says, is the only course
-                        possible while the Capitulations exist. The Capitulations, however, are a
-                        survival of a state of society which has completely passed away and the
-                        incident may cause the opponents of their Antichristian abolition to
-                        reflect. </p>
-                </div>
-                <div type="wireReport">
-                    <head>REFORM OF HOUSE OF LORDS</head>
-                    <dateline>LONDON, February 3.</dateline>
-                    <p>L<persName>ord Crewe</persName>, speaking at Stoke-on-Trent said that the
-                        question of the reform of the House of Lords has not been shelved, the
-                        Government would soon made definite propo¬sals with regard to the subject.
-                        (Reuter)</p>
-                </div>
-                <div type="wireReport">
-                    <head>GERMAN ELECTIONS</head>
-                    <dateline>BERLIN, February 3.</dateline>
-                    <p>The results of 12 second ballots which took place in Germany yesterday are as
-                        follows . The Socialists had three losses, the Coiner, vatives one, the
-                        National-Liberals two gains, the Radicals one, and the Conservatives
-                        one.</p>
-                </div>
-                <div type="wireReport">
-                    <head>ADMIRALTY APPOINTMENT</head>
-                    <dateline>LONDON, February 3.</dateline>
-                    <p><persName>Mr. Charier Thomas</persName>, Assistant Secretary, has been
-                        elected Permanent Secretary to the Admiralty, in succession to <persName>Sir
-                            E. MacGregor</persName>. (Reuter) </p>
-                </div>
-                <div type="wireReport">
-                    <head>AMALGAMATION OF SQUADRONS- </head>
-                    <dateline>LONDON, February 3.</dateline>
-                    <p>The Observer” understands that the pro¬posed amalgamation of the Cape and
-                        East India squadrons has been dropped. This is believed to be partly in
-                        Consequence of the delay of the warships in reaching Kingston. (Reuter) </p>
-                </div>
-                <div type="wireReport">
-                    <head>PLAGUE AT JEDDAH.</head>
-                    <dateline>JEDDAH, February 2.</dateline>
-                    <p>Seventeen deaths from plague have taken place since January 8. (Havas)</p>
-                </div>
-                <div type="wireReport">
-                    <head>DISASTROUS AVALANCHE.</head>
-                    <dateline>TARBES, February 2.</dateline>
-                    <p>An avalanche has destroyed the casino of Bareges and twenty houses, many
-                        people being killed. (Havas}</p>
-                </div>
-                <div type="wireReport">
-                    <head>INTERNATIONAL FOOTBALL.</head>
-                    <dateline>LONDON. February 2.</dateline>
-                    <p>Football. Rigby. Scotland beat Wales by 6 points to 3. ( Reuter)</p>
+                    </div>
+                    <div type="wireReport">
+                        <head>THE CAPITULATIONS.</head>
+                        <head>"TIMES” ON THE RUSSIAN AFFAIR.</head>
+                        <dateline>LONDON, February 2.</dateline>
+                        <p>The the action of <persName>Lord Cromer</persName> in refusing to
+                            pre¬vent the surrender of the Russian dynamiters, which, it says, is the
+                            only course possible while the Capitulations exist. The Capitulations,
+                            however, are a survival of a state of society which has completely
+                            passed away and the incident may cause the opponents of their
+                            Antichristian abolition to reflect. </p>
+                    </div>
+                    <div type="wireReport">
+                        <head>REFORM OF HOUSE OF LORDS</head>
+                        <dateline>LONDON, February 3.</dateline>
+                        <p>L<persName>ord Crewe</persName>, speaking at Stoke-on-Trent said that the
+                            question of the reform of the House of Lords has not been shelved, the
+                            Government would soon made definite propo¬sals with regard to the
+                            subject. (Reuter)</p>
+                    </div>
+                    <div type="wireReport">
+                        <head>GERMAN ELECTIONS</head>
+                        <dateline>BERLIN, February 3.</dateline>
+                        <p>The results of 12 second ballots which took place in Germany yesterday
+                            are as follows . The Socialists had three losses, the Coiner, vatives
+                            one, the National-Liberals two gains, the Radicals one, and the
+                            Conservatives one.</p>
+                    </div>
+                    <div type="wireReport">
+                        <head>ADMIRALTY APPOINTMENT</head>
+                        <dateline>LONDON, February 3.</dateline>
+                        <p><persName>Mr. Charier Thomas</persName>, Assistant Secretary, has been
+                            elected Permanent Secretary to the Admiralty, in succession to
+                                <persName>Sir E. MacGregor</persName>. (Reuter) </p>
+                    </div>
+                    <div type="wireReport">
+                        <head>AMALGAMATION OF SQUADRONS- </head>
+                        <dateline>LONDON, February 3.</dateline>
+                        <p>The Observer” understands that the pro¬posed amalgamation of the Cape and
+                            East India squadrons has been dropped. This is believed to be partly in
+                            Consequence of the delay of the warships in reaching Kingston. (Reuter)
+                        </p>
+                    </div>
+                    <div type="wireReport">
+                        <head>PLAGUE AT JEDDAH.</head>
+                        <dateline>JEDDAH, February 2.</dateline>
+                        <p>Seventeen deaths from plague have taken place since January 8.
+                            (Havas)</p>
+                    </div>
+                    <div type="wireReport">
+                        <head>DISASTROUS AVALANCHE.</head>
+                        <dateline>TARBES, February 2.</dateline>
+                        <p>An avalanche has destroyed the casino of Bareges and twenty houses, many
+                            people being killed. (Havas}</p>
+                    </div>
+                    <div type="wireReport">
+                        <head>INTERNATIONAL FOOTBALL.</head>
+                        <dateline>LONDON. February 2.</dateline>
+                        <p>Football. Rigby. Scotland beat Wales by 6 points to 3. ( Reuter)</p>
+                    </div>
                 </div>
                 <div type="item">
                     <head>Maspero Freres, Ltd.</head>
@@ -2545,10 +2538,10 @@
                     </p>
                 </div>
                 <cb n="2"/>
-                <div type="section" element="wire">
-                    <div type="item">
-                        <head>TELEGRAMS.</head>
-                    </div>
+                <div type="section" feature="wire">
+                    
+                    <head>TELEGRAMS.</head>
+                    
                     <div type="wireReport">
                         <head>THE KING IN PARIS.</head>
                     </div>
@@ -2599,7 +2592,7 @@
                             are being sent forward. (Reuter)</p>
                     </div>
                 </div>
-                <div type="item" element="visitList">
+                <div type="item" feature="visitList">
                     <head>VISITORS’ LISTS</head>
                     <head>SAVOY HOTEL, LUXOR.</head>
                     <p>Mrs. Axley and suite, Mr M. Andruszewski with party and suite, Mrs. Ashton,
@@ -2640,7 +2633,7 @@
                         Mrs. C. Rood, Miss Rose Hartwell, Miss Mary Kimball.</p>
                 </div>
                 <cb n="3"/>
-                <div type="section" element="sport">
+                <div type="section" feature="sport">
                     <div type="item">
                         <head>HELOUAN SPORTING CLUB.</head>
                         <p>The following are the results of last Friday's racing :—</p>
@@ -2929,7 +2922,7 @@
                     <p>Le Caire, le ler Fevrier 1907.</p>
                 </div>
                 <cb n="5"/>
-                <div type="section" element="prepaidAdvertisements">
+                <div type="section" feature="prepaidAdvertisements">
                     <head>Cheap Prepaid Advertisements</head>
                     <p>Under this heading advertisements are inserted at the following rates :—</p>
                     <table rows="4" cols="4">
@@ -3226,10 +3219,8 @@
                     <p>11. Question relative a la reglementation des poids.</p>
                     <p>12. Affaires judioiaires.</p>
                 </div>
-
-
                 <cb n="3"/>
-                <div type="item" element="army">
+                <div type="item" feature="army">
                     <head>ARMY NOTES.</head>
                     <p>( FROM OUR OWN CORRESPONDENTS.)</p>
                     <p>London, January 25.</p>
@@ -3481,34 +3472,38 @@
             <div type="page" n="6">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="section" element="bulletinBourse">
+                <div type="section" feature="bulletinBourse">
                     <head>BULLETIN DB LA BOURSE</head>
                     <byline>(Aujourdhui a midi et demie)</byline>
-                    <p>Bien que l'attention ait retenue ce matin par les reglements de fin de moir,
-                        il y a eu cependant un mouvewent dechanges assez actif en Nile Land,
-                        Nungovich Hotels Ritz, Arditi et Levico. </p>
-                    <p>Las Ritz s'avancent a 1 25/32. s Arditi sont demandes a 1 11/32 les actions
-                        et 22 livres lew parts de fondatenrs. La Lunghis s’insorit a 1 11/32
-                        acheteurs egalemente et la Levico a 15/16 L’United a peu traitee. Elle cote
-                        environ 1 7/32 et 9 livres la part de fondatenr.</p>
-                    <p>La Nile Land, aprez avoir depase 23 livres oldtore 22 5/8 3/4. Li hausse et
-                        attribute a la vente par cette societe de sa propriete de Kasr-el-Aly sur
-                        lsqaelle elle aurait realise on enorme benefice. Il s’agirait de 80.00O
-                        metres achetes a 2 livres environ et vendus a 15 livres le metre.</p>
-                    <p>Demande croissante en Union Funciere qui savance a 6 3/8 achetenra. Das cours
-                        beancoup plus eleves sont preveus breve echeance</p>
-                    <p>En hausse egalemente la Privlege Biere d’ Alexandria 230, l’Obligition Credit
-                        Foncier a 348 l’anoienne et 272 1/2 la nouveile, la Banque d’Athenes a 136
-                        1/2, les Nungovich a 24 3/8. la Delta Land a 4 19/32, la Land Bank a 9 3/16
-                        la Buildinig Lands a 6 5/16, et la Port Said Salt a 15/6.</p>
-                    <p>Par contre, la National Bank flechit a 28 1/16, les Privileges a Tramways a
-                        199 et les Dividends a 360, lea Privileges Bieree da Caire a 128, la Salt
-                        and Soda a 22/9, les Lots Taros k 156 la Cassa di Sonto a 283, l'Ur- bair e
-                        a 7 15/16, et la part de fondatenr Comp- toir a 95.</p>
-                    <p>Sur le rests aucan changement a signaler. La tendance pour la semaine parait
-                        etre excellente, sauf evenement imprevu.</p>
                     <div type="item">
-                        <head>Circulaire H. De Vries et Boutigny</head>
+                        <p>Bien que l'attention ait retenue ce matin par les reglements de fin de
+                            moir, il y a eu cependant un mouvewent dechanges assez actif en Nile
+                            Land, Nungovich Hotels Ritz, Arditi et Levico. </p>
+                        <p>Las Ritz s'avancent a 1 25/32. s Arditi sont demandes a 1 11/32 les
+                            actions et 22 livres lew parts de fondatenrs. La Lunghis s’insorit a 1
+                            11/32 acheteurs egalemente et la Levico a 15/16 L’United a peu traitee.
+                            Elle cote environ 1 7/32 et 9 livres la part de fondatenr.</p>
+                        <p>La Nile Land, aprez avoir depase 23 livres oldtore 22 5/8 3/4. Li hausse
+                            et attribute a la vente par cette societe de sa propriete de Kasr-el-Aly
+                            sur lsqaelle elle aurait realise on enorme benefice. Il s’agirait de
+                            80.00O metres achetes a 2 livres environ et vendus a 15 livres le
+                            metre.</p>
+                        <p>Demande croissante en Union Funciere qui savance a 6 3/8 achetenra. Das
+                            cours beancoup plus eleves sont preveus breve echeance</p>
+                        <p>En hausse egalemente la Privlege Biere d’ Alexandria 230, l’Obligition
+                            Credit Foncier a 348 l’anoienne et 272 1/2 la nouveile, la Banque
+                            d’Athenes a 136 1/2, les Nungovich a 24 3/8. la Delta Land a 4 19/32, la
+                            Land Bank a 9 3/16 la Buildinig Lands a 6 5/16, et la Port Said Salt a
+                            15/6.</p>
+                        <p>Par contre, la National Bank flechit a 28 1/16, les Privileges a Tramways
+                            a 199 et les Dividends a 360, lea Privileges Bieree da Caire a 128, la
+                            Salt and Soda a 22/9, les Lots Taros k 156 la Cassa di Sonto a 283,
+                            l'Ur- bair e a 7 15/16, et la part de fondatenr Comp- toir a 95.</p>
+                        <p>Sur le rests aucan changement a signaler. La tendance pour la semaine
+                            parait etre excellente, sauf evenement imprevu.</p>
+                    </div>
+                    <div type="item" feature="circulaire">
+                    <head>Circulaire H. De Vries et Boutigny</head>
                         <head>NOTES ET CRITIQUES</head>
                         <p>La Caire Samadi 2 Fevrier 1907. Le taox de I’escompte libre a Londres est
                             remonte hier de 1/8 a 4 3/4 a cent. An Stock Exchange, le Consolide
@@ -3523,11 +3518,9 @@
                             obligations anciennes da Credit Fancier diverses antres valours; mais la
                             coture a </p>
                         <p/>
-
-
                     </div>
                     <cb n="2"/>
-                    <div type="item" element="shippingMovements">
+                    <div type="item" feature="shippingMovements">
                         <head>SHIPPING MOVEMENTS.</head>
                         <head>Alexandria Harbour</head>
                         <head>ARRIVALS</head>
@@ -3554,8 +3547,6 @@
                         <p>Oceana, Germ. s Capt. Meyer, Naples, Grace &amp; Co.</p>
                         <p>Margit Groedel, Brit. s. Capt. Holtom, Blyth, Barber &amp; Son.</p>
                         <p>February 3.</p>
-
-
                         <p>Departures.</p>
                         <p>Feb. 1.</p>
                         <p>Nilo, Ital. s. Capt. Pilo, Brindisi and. Venice. Belgravia Brit. s. Capt.
@@ -3620,8 +3611,6 @@
                         <p>A la Banque de Bruxelles, à Bruxelles.</p>
 
                     </div>
-
-
                     <div type="item">
                         <head>The New Egyptian Company, Ltd.</head>
                         <head>NOTICE</head>
@@ -6154,7 +6143,7 @@
                     <p>La Daira procédera à l’ouverture des offres Dimanche 10 Février 1907. Elle se
                         réserve le droit d’accepter ou de refuser n’importe quelle offre.</p>
                 </div>
-                
+
                 <div type="item">
                     <head>NOTICE</head>
                     <p>There will be two appointments for Doctors in the Sudan Medical Department
@@ -6224,7 +6213,7 @@
                         forward it together with the other documents.</p>
                     <dateline>Alexandria, January 29, 1907.</dateline>
                 </div>
-                <div type="item">
+                <div type="section" xml:lang="fr" feature="bureauPlacement">
                     <head><orgName>Société Internationale des Employés</orgName></head>
                     <p>D’ALEXANDRIE.</p>
                     <p>SIEGE SOCIAL RUE PINI EL METALLIN NO. 30 ET RUE HAMMAM EL ZAHAB NO I AU J KR
@@ -6589,8 +6578,6 @@
                         Casino <measure>30.4.906</measure></p>
                 </div>
             </div>
-
-
         </body>
     </text>
 </TEI>

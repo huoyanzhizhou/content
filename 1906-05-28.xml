@@ -1460,10 +1460,8 @@
             </div>
             <pb n="2"/>
             <div type="page" n="2">
-               
                     <cols n="3"/>
                     <cb n="1"/>
-                
                 <div type="advert" xml:id="deg-ad-ric01">
                     <head>Royal Insurance Coy</head>
                     <p>FIRE AND LIFE.</p>
@@ -6082,7 +6080,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.906</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.40</cell>

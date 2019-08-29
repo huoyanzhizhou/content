@@ -1281,7 +1281,6 @@
                         Management. Moderate charges. Patronized by officer of Army of Occupation.
                         Concerts twice daily.</p>
                 </div>
-                
             </div>
             <pb n="4"/>
             <div type="page" n="4">
@@ -2398,6 +2397,7 @@
                         <row role="label">
                             <cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
                         </row>
+                        <!--values are copied from template-->
                         <row>
                             <cell>Novembre</cell>
                             <cell>Tal.</cell>
@@ -3808,16 +3808,12 @@
                         </row>
                     </table>
                 </div>
-
-                
             </div>
             <pb n="5"/>
             <div type="page" n="5">
-                
             </div>
             <pb n="6"/>
             <div type="page" n="6">
-                
             </div>
         </body>
     </text>

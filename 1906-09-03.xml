@@ -1383,7 +1383,6 @@
             </div>
             <pb n="2"/>
             <div type="page" n="2">
-              
                     <cols n="3"/>
                     <cb n="1"/>
                     <div type="advert" xml:id="deg-ad-ric01">
@@ -1610,7 +1609,6 @@
                         <p>Exigez toujours l'Emulsion avec cette margue: "le Picheur" marque du
                             procede Scott!</p>
                     </div>
-                
                 <cols n="6"/>
                 <cb n="5"/>
                 <div type="section" feature="weather">
@@ -6521,7 +6519,7 @@
                             and information</hi> apply to the offices at Cairo, Alexandria
                         ,Damanhour, Tantah, Zagazig, or Saida Zenab. </p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

@@ -13,7 +13,7 @@
             <editionStmt>
                 <edition>
                     <date when="2018-02-19">February 19, 2018></date>
-                    <gloss>1</gloss>
+                    <gloss>3</gloss>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -37,8 +37,6 @@
                     <head>THE EGYPTIAN GAZETTE</head>
                     <head type="sub">No. <measure quantity="7678">7,679</measure>] ALEXANDRIA,
                         TUESDAY, FEBRUARY 5, 1907. [EIGHT PAGES P.T. 1. </head>
-
-
                     <div type="advert" xml:id="deg-ad-etc01">
                         <head>The Eastern Telegraph Company, Limited.</head>
                         <p>This Company's system of submarine telegraph <lb/>cables is the most
@@ -1183,7 +1181,7 @@
                     <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and the Sudan for</head>
+                        <head>Sole Agents in Egypt and the Sudan for</head>
                         <row>
                             <cell>J. Calvet &amp; Co.</cell>
                             <cell>Bordeaux</cell>
@@ -1575,7 +1573,7 @@
                     <p>ASSOUAN, near the GRAND HOTEL, ASSOUAN.</p>
                 </div>
                 <div type="advert" xml:id="deg-ad-tas02">
-                    <head> CARPETS. </head>
+                    <head>CARPETS. </head>
                     <p>TURKEY PERSIA</p>
                     <p>T. A.SPARTALI &amp; Co</p>
                     <p>Largest manufacturers in the world of Oriental carpets, all hand made </p>
@@ -1769,14 +1767,12 @@
                         TASCO, Proprietor, also proprietor of Grand Hotel Karoun, Fayoum. </p>
                 </div>
             </div>
-
-
             <div type="page" n="3">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="section" element="local">
-                    <div type="item">
-                        <head>LOCAL AND GENERAL</head>
+                <div type="section" feature="local">
+                    <div type="section" feature="local">
+                    <head>LOCAL AND GENERAL</head>
                         <p>Alhambra Theatre</p>
                         <p>On the occasion of the carnival, a masked ball will be given at the
                             Alhambra on Saturday and Sunday, as well as on Shrove Tuesday. </p>
@@ -1958,8 +1954,8 @@
                         elves admirably adapted for the work, making it impossible to dispense with
                         the delay and expense of blasting operations. </p>
                 </div>
-                <div type="item">
-                    <head>BAND PERFORMANCE.</head>
+                <div type="item" feature="bandPerformance">
+              <head>BAND PERFORMANCE.</head>
                     <p>By kind permission of Colonel R.C.C. Cox, commanding, and officers 2nd Batt.
                         Royal Inniskilling Fusiliers, the band will perform the following program of
                         music on the terrace of the National Hotel tomorrow from 4 to 6 p.m. :—</p>
@@ -2063,7 +2059,7 @@
                         spot, and it is some satisfaction Io know that the work is to be began at
                         once.</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="steamerMovements">
                     <head>STEAMER MOVEMENTS.</head>
                     <p>Tho Ellerman liner Fabian sailed from Malta last evening, and is doe here on
                         Friday morning with a general cargo.</p>
@@ -2345,13 +2341,13 @@
                             </row>
                         </table></p>
                 </div>
-                <div type="item" element="notesPortSaid">
+                <div type="item" feature="notesPortSaid">
                     <head>NOTES FROM PORT SAID</head>
                     <p>(FROM OUR CORRESPONDENT.)</p>
                     <p>Port Said, Monday.</p>
                     <p>The R. M. S. Isis arrived hare this afternoon from England after having
                         undergone repairs and will take her usual ran with the Brindisi mail next
-                        week. The 8.8. Peninsular, which has been carrying the mails doing the
+                        week. The S.S. Peninsular, which has been carrying the mails doing the
                         absence of the Isis, will, after transferring the mail on Wednesday,
                         continue her journey to Bombay, where she will resume her usual run.</p>
                     <p>There was a ‘Bachelors’ Ball" at the Eastern Exchange last Friday. This boing
@@ -2363,10 +2359,10 @@
                         was kept up till after 4.80 a.m.</p>
                 </div>
                 <cb n="5"/>
-                <div type="section" element="letters">
-                    <div type="item">
+                <div type="section" feature="letters">
+                    
                         <head>LETTERS TO THE EDITOR</head>
-                    </div>
+                    
                     <div type="item">
 
                         <head>VICTORIA COLLEGE.</head>
@@ -2466,7 +2462,7 @@
                         contribute personally to the programme.</p>
                 </div>
                 <cb n="6"/>
-                <div type="item" element="social">
+                <div type="item" feature="social">
                     <head>PERSONAL AND SOCIAL</head>
                     <p>The <persName>Duke of Norfolk</persName>, who is arriving in . Egypt
                         immediately with the Duchess of Nor¬folk, has never been greatly given to
@@ -2503,7 +2499,7 @@
                         will stay for several weeks in the Capital.</p>
 
                 </div>
-                <div type="item" element="passList">
+                <div type="item" feature="passList">
                     <head>PASSENGER LIST</head>
                     <p>ARRIVALS</p>
                     <p>Per S.S. Hofei, arrived yesterday Item Marseilles and Naples</p>
@@ -2558,8 +2554,8 @@
                 <cols n="6"/>
                 <cb n="1"/>
                 <div type="section">
-                    <div type="item">
-                        <head>TELEGRAMS.</head>
+                    <div type="section" feature="wire">
+                    <head>TELEGRAMS.</head>
                     </div>
                     <div type="item">
                         <head>USA AND JAPAN</head>
@@ -2674,7 +2670,7 @@
                         Telegrams:"ROTFORM, LONDON."</p>
                 </div>
                 <cb n="2"/>
-                <div type="section" element="visitList">
+                <div type="section" feature="visitList">
                     <div type="item">
                         <head>VISITORS' LIST</head>
                         <p>SAVOY HOTEL, CAIRO</p>
@@ -2702,7 +2698,7 @@
                             Camara, Mrs. Eduard Wahn, Mrs. Whiston, Capt. Geo. Bridges, Mrs. Stone,
                             Mr. and Mrs. Augustus Durant, Mrs. Schönberger, Mr. and Mrs. Albert.
                             Kaskel, Miss Eleonor Kaskol, Miss Blytli, Mrs. Wynne, Geheimarath and
-                            Mrs. Herzberg, Mile. d'Adda, Mmo and Mile. Emil Sursock, Mr. Achille
+                            Mrs. Herzberg, Mlle. d'Adda, Mmo and Mile. Emil Sursock, Mr. Achille
                             Fould, Miss Rosa¬lia Spang, Mr. and Mine Cordonnier, Mr. and Mine
                             Muranyi, Mrs. Montgommery Carr, Mr. II N. Gutmunu. Mrs. J. Ii. and Miss
                             Love, Mr. Emil Vogt, Mr, Fritz Hcfti; Mrs. C. G. Rodgers, Mrs. Lowell,
@@ -2840,7 +2836,7 @@
                     <p>F. MICALLEF, Sole Agent, 11 Bab Midan, Alexandria</p>
                 </div>
                 <cb n="4"/>
-                <div type="section" element="sport">
+                <div type="section" feature="sport">
                     <div type="item">
                         <head>FOOTBALL</head>
                         <p>CAIRO SHIELD (SECOND ROUND)</p>
@@ -2880,7 +2876,7 @@
                             an uninteresting game ending in a draw.</p>
                     </div>
                 </div>
-                <div type="item" element="letters">
+                <div type="item" feature="letters">
                     <head>AN UNUSUAL INCIDENT </head>
                     <p>To THE EDITOR OF THE "EGYPTIAN GAZETTE.</p>
                     <p>Sir, allow me space in your paper for the following. I was a spectator at the
@@ -2894,7 +2890,7 @@
                         In mv opinion, the referee’s decisions wore correct.—I am, etc , J. MAGEE,
                         R.</p>
                 </div>
-                <div type="item" element="comingEvents">
+                <div type="item" feature="comingEvents">
                     <head>Calendar of Coming Events</head>
                     <table cols="2" xml:id="deg-ta-coce01">
                         <row role="label">
@@ -3108,7 +3104,7 @@
                     <p>Sold by all chemists and druggists at P.T. 13 the box and P.T. 70 for six
                         boxes. </p>
                 </div>
-                <div type="section" element="weather">
+                <div type="section" feature="weather">
                     <head>DAILY WEATHER REPORT</head>
                     <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
                     <div type="subsection">
@@ -3335,9 +3331,6 @@
                     <p>Cairo &amp; Alexandria.</p>
                 </div>
             </div>
-
-
-
             <div type="page" n="5">
                 <cols n="4"/>
                 <cb n="1"/>
@@ -3655,7 +3648,7 @@
                     <p>Der Bankdirektor Felix Jüp zu Berlin ist aus dem Vorstände engeob' den.</p>
                     <p>Kaiserlich Deutsches Konsulat: Alexanrdien, deu 4 Febrnar, 1907</p>
                 </div>
-                <div type="section" element="prepaidAdvertisements">
+                <div type="section" feature="prepaidAdvertisements">
                     <head>Cheap Prepaid Advertisements</head>
                     <p>Under this heading advertisements are inserted at the following rates :—</p>
                     <table rows="4" cols="4">
@@ -3835,8 +3828,6 @@
                         prosecution.</p>
                 </div>
             </div>
-
-
             <div type="page" n="6">
                 <cols n="6"/>
                 <cb n="1"/>
@@ -3854,7 +3845,7 @@
                         35.000 et de reporter K nouveau L.B. 774.</p>
                 </div>
 
-                <div type="item" element="bulletinBourse">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DU LA BOURSE</head>
                     <head>(Aujourd'hui à midi et demie.)</head>
                     <p>L'animation s'est concentrée ce matin sur les Ritz. Des affaires ont en lien
@@ -3872,7 +3863,7 @@
                         shelling».</p>
                     <p>La National fléchit è 28, les Jouissances Baux du Caire è 290, les 
                         Privilégiées Bière d'Alexandrio h 228, les Cotton Mills à 6/3, la Sait &amp;
-                        Soda à 22/3, l'Obligation Crédit Fonoier à 316 l'anoieune et 271 1/2 la
+                        Soda à 22/3, l'Obligation Crédit Foncier à 316 l'anoieune et 271 1/2 la
                         nonvelle, la Cassa di Soonto à 278 l'auoieune et 272 1/2 la nouvelle, la
                         Bauqoe d'Athèues à 136, la De- ferred Delta à 12 S/4, les Nungovioh k 21
                         1/8, la Delta Land i 4 5/16, l’Ordinary Khédivial Mail è 34, la Land Bank à
@@ -3880,9 +3871,7 @@
                         à 6 1/4, la Bar,que d Orient à 133 1/2 et l'Allotment à 3 9/IG.</p>
                     <p>Le Caire est pour une large part dans cette réaotion.</p>
                 </div>
-
-
-                <div type="item">
+                <div type="item" feature="circulaire">
                     <head>Circulaire H. De Vries et Boutigny</head>
                     <head>NOTES ET CRITIQUES</head>
                     <p>La Caire, Lntidi 4 Février 1907.</p>
@@ -3936,7 +3925,7 @@
                         ou a la 1 janque Impériale Ottomane.</p>
                 </div>
                 <cb n="2"/>
-                <div type="item" element="shippingMovements">
+                <div type="item" feature="shippingMovements">
                     <head>SHIPPING MOVEMENTS</head>
                     <head>ALEXANDRA HARBOUR.</head>
                     <p>ARRIVALS.</p>
@@ -6027,9 +6016,7 @@
                         </row>
                     </table>
                 </div>
-                
                 <!-- thinking BRASSERIE DES PYRAMIDES needs to be templated, issue submitted -->
-                
                 <div type="article" xml:lang="fr" xml:id="deg-el-acms01">
                     <head>ASSOCIATION DES COURTIERS EN MARCHANDISES</head>
                     <head type="sub">(Service spécial)</head>
@@ -6852,15 +6839,13 @@
                     <p>Frim the Grand el des Isles Boromees, Stream</p>
                 </div>
                 <div type="item">
-                    <head> Florence (ITALY). </head>
+                    <head>Florence (ITALY). </head>
                     <p>Luckrubach's Hotel.....</p>
                     <p>....Metropole &amp; Londres</p>
                     <p>Centre of town, Victor-Emannuel Square, full south.</p>
                     <p>All modern comfort. Moderate charges. Open all year. Pension </p>
                 </div>
                 <!-- my Municipalite d'Alexandrie is different from the template, more than just name changes, issue submitted -->
-        
-                
                 <div type="item">
                     <head>Administration des Chemins de Fer de l’Etat Egyptien AVIS </head>
                     <p>L’Administration dos Chemins de for de l'Etat Egyptien a l'honneur d'informer

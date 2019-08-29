@@ -1577,7 +1577,6 @@
                             so little control over his options, and that justice will be made in the
                             court</p>
                     </div>
-                
                 <cb n="3"/>
                 <div type="item">
                     <head>THE RECAPTURE OF SANA</head>
@@ -1633,7 +1632,7 @@
                         both as regards equipment and regulations for that parpose. </p>
                 </div>
                 <div type="item">
-                    <head> THE BIRKETS</head>
+                    <head>THE BIRKETS</head>
                     <p>Some time back the Sanitary Department elaborated regulations concerning the
                         draining ai d filling up of the village birketa, or marshes, that still
                         exist io many localities, and which are the cause of much sickness. These
@@ -1659,7 +1658,7 @@
                 </div>
                 <cb n="4"/>
                 <div type="item">
-                    <head> Sudan Regulation</head>
+                    <head>Sudan Regulation</head>
                     <p>IMPORTANT ORDINANCES</p>
                     <p>A special issue of the "Sudan Gaietto," dated August 24, contains a series of
                         important ordinances dealing with a great variety of subjects. We refer in
@@ -1725,7 +1724,7 @@
                 </div>
                 <div type="section" feature="steamerMovements"><head>STEAMER MOVEMENTS</head>
                     <p>The Ellonnxu S.S. Britannia,arrived at Alex¬andria direot from Liverpool
-                        early this morning with paaaeogare and gaaieral oargo. The Westcott and
+                        early this morning with paaaeogare and gaaieral cargo. The Westcott and
                         Laarance 8 8 Adalia, left Malta loot night and is due at Alexandria on
                         Saturday morning with coal from New oastla, and a general cargo from London
                         and Antwerp TTm Russian 8'earn Navigation Company’s 8.8 Tearitia, Uft
@@ -1743,7 +1742,7 @@
                 </div>
                 <cb n="5"/>
                 <div type="item" feature="notesCyprus">
-                    <head> NOTES FROM CYPRUS</head>
+                    <head>NOTES FROM CYPRUS</head>
                     <head>EXCEPTIONALLY HOT WEATHER</head>
                     <p>FROM OUR CORRESPONDENT). August 81. The eclipse of the sun yesterday—which by
                         the way was very clearly observable here —seem to have accentuated the beat
@@ -1822,7 +1821,7 @@
                         of the deceased. </p>
                 </div>
                 <div type="item">
-                    <head> MOG PASHA</head>
+                    <head>MOG PASHA</head>
                     <p>Madam. Wilhalra Mug Praha, GaMoa and Han. Mug. Mooiieor aad Madam. Charlm
                         Baca, aad children, their parent, and relation, greatly regret to inform one
                         reads, of the areal lea. which thay hare j sat reffared in tha pareon
@@ -2160,7 +2159,7 @@
                     <p>Inventor of WHISKY samp; SODA and BRANDY samp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and Soudan for</head>
+                        <head>Sole Agents in Egypt and Soudan for</head>
                         <row>
                             <cell>J. Calvet samp; Co.</cell>
                             <cell>Bordeaux.</cell>
@@ -2919,7 +2918,7 @@
                         sway of Nature, without a tincture of sentimentality. And they obtain what
                         they deserve, a life long and free ; it is not the ideal life, for all
                         shoald live ex tempore, but it is the cheerfullest and fullest life we know
-                        of. Their veneration for the heather is oomplete. They thatoh their cottages
+                        of. Their veneration for the heather is complete. They thatoh their cottages
                         with heather houghs and make their beds of the sprays. All the Scottish
                         poets have with loyalty sung in praise of their native heather : Sweet
                         molest flower, in lonely desert* dnn, Retiring still for converse with the
@@ -4666,7 +4665,7 @@
                 </div>
                 <div type="item" xml:id="deg-el-egml01">
                     <head>EGYPTIAN MARKETS, LIMITED</head>
-                    <table xml:id="deg-ta-egml01">
+                    <table xml:id="deg-ta-egml01"> <!-- All values are copied -->
                         <head>Approximative Returns</head>
                         <row role="label">
                             <cell/>
@@ -5144,7 +5143,7 @@
             <pb n="7"/>
             <div type="page" n="7">
                 <cb n="1"/>
-                <div type="item">
+                <div type="item" feature="parisLetter">
                     <head>OUR PARIS LETTER.</head>
                     <p>(FROM OUR CORRESPONDENT.) Paris, September 6. The Halles Centrales--the large
                         central markets of Paris—are always an interesting sight, but on the 4th
@@ -7171,7 +7170,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

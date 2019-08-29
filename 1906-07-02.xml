@@ -314,7 +314,7 @@
                         <p>Westcott S.S. Egyptian due from Antwerp, London and Malta about 1st July </p>
                         <p>Westcott S.S. Gul/of Suez di e from Antwerp, London &amp; Malta about 1st
                             July </p>
-                        <p>Elleiman S.S. Falernian dne from Liverpool, Gibraltar and Malta about
+                        <p>Elleiman S.S. Falernian due from Liverpool, Gibraltar and Malta about
                             July 10. </p>
                         <p>N. E. TAMVACO, Alexandria Agent.</p>
                     </div>
@@ -341,7 +341,7 @@
                         <p>BAGGAGE AND FORWARDING AGENTS.</p>
                         <p>Officially appointed &amp; Sole Agents in Cairo to the P.&amp;O. S.N.
                             Co.</p>
-                        <p> REBIDENTS IN EGYPT procceding to Europe for tbe summer are requested to
+                        <p> REBIDENTS IN EGYPT procceding to Europe for the summer are requested to
                             apply to our offices for informaticn respecting their passages, where
                             steamer plans may be consulted, and Berths secured by all Lines cf
                             Steamers to all parts of the Globe; arrangements can also Jbe made for
@@ -1931,8 +1931,7 @@
                         Ibrahim Fathi Pash*, who are acting for Egypt, will have something to say to
                         this transparent triok.</p>
             </div>
-                <div type="section" element="local">
-                
+                <div type="section" feature="local">
                     <head>LOCAL AND GENERAL.</head>
                     <div type="item">
                     <p>Anniversary.</p>
@@ -2042,10 +2041,8 @@
                     <p>The National Bank of Egypt also announce that coupon No. 4, due July 1st, on
                         the Agricultural Bank of Egypt Four per Cent. Cumulative Preferred shares
                         will be paid after that date at the office of the London agenoy.</p></div>
- 
-
-                <div type="item">
-                    <head>BAND PERFORMANCE.</head>
+                <div type="item" feature="bandPerformance">
+              <head>BAND PERFORMANCE.</head>
                     <p>Programme of music to be performed by the Band of the 6th (Inniskilling)
                         Dragoons in the Esbekieh Gardens to-morrow (Tuesday) from 9 to 11 p.m.</p>
                     <p>March—Diplomat—Sousa Scenes Pittoresques—Massenet (1) March—(2) Air de
@@ -2059,7 +2056,7 @@
                     <p>Regimental March.</p>
                     <p>Khedivial Anthem—God Save the King.</p>
                     <p>J. Prosser, Bandmaster.</p></div>
-                <div type="item"> 
+                <div type="item" feature="steamerMovements"> 
                     <head>STEAMER MOVEMENTS.</head>
                     <p>The Messageries Maritimes S.S. Sdndgal, from Marseille?, passed the Straits
                         of Messina on Saturday and is due here tomorrow morning.</p>
@@ -2087,7 +2084,7 @@
                     <p>Sir,—I read the message of yonr Berlin Correspondent concerning my visit to
                         the capital of Germany last autumn, and my interviews with her diplomatists.
                         So I desired to furnish him here with answers of his involved questions in
-                        that message, and to repudiate some of the false reports whioh appeared in
+                        that message, and to repudiate some of the false reports which appeared in
                         the English papers about me and my country.</p>
                     <p>I had not called upon Constantinople last autumn as was reported by your
                         Berlin Correspondent, and had not conferred with one of the German
@@ -2113,7 +2110,7 @@
                         very well that it is the religion of progress, justice and civilisation and
                         that the Christians live in great security under its rule. We know that the
                         easiest path to rise and advance the Moslem nations is to go back to the
-                        trne principles of Islam and its sound rales, whioh were the sole cause of
+                        trne principles of Islam and its sound rales, which were the sole cause of
                         the supremacy of Moslems in the past centuries.</p>
                     <p>The European Press err so much by saying that Pan-Islamism tends to waging
                         destructive wars between the Moslems and Christians. Pan-Islamism is but a
@@ -2258,7 +2255,7 @@
                         <p><measure type="indexNo">13-11-906</measure></p>
                     </div>
                 <cb n="5"/>
-                <div type="item">
+                <div type="item" feature="notesConstantinople">
                     <head>CONSTANTINOPLE NOTES.</head>
                     <head>KHEDIVE’S ABRUPT DEPARTURE.</head>
                     <p>(From our Correspondent.)</p>
@@ -2271,7 +2268,7 @@
                         tezkerehs.</p>
                     <p>Several European journals have invented a number of stories to explain the
                         real motive of the Turks. One is strangely ingenious, if not fascinating. It
-                        is that the Khedive intended storing cannon in this palace, and setting np a
+                        is that the Khedive intended storing cannon in this palace, and setting up a
                         Marconi plant which, via a castle on the Isle of Prinkipo, would
                         communicate secretly with the British' warships off the Dardanelles.</p>
                     <p>But that the Porte is vexed with the African Vilayet there is no denying, for
@@ -2283,11 +2280,11 @@
                     <p>Ghaxt Mukhtar Pacha,</p>
                     <p>Poor old Mukhtar ! Sinai has thundered forth his doom, and intrigue is busy
                         at Yildiz for his exodus from the Sweet Waters of Africa. Already a list of
-                        candidates has been drawn np ot those most likely to succeed his Excellency.
+                        candidates has been drawn up ot those most likely to succeed his Excellency.
                         Nothing is yet officially known as to what Mukhtar’s fate will be; but
                         whatever the decision arrived at, the Saltan may rest assured that the myth
                         of Tarkish rule in Egypt is dissipated, and that through his clumsy modus
-                        procedendi at Akaba, whioh has cost him more than even a military defeat.
+                        procedendi at Akaba, which has cost him more than even a military defeat.
                         The British Government had thus far suffered the picturesque anomaly of an
                         Ottoman High Commissioner, but there are signs that this time, the picture
                         is to be rejected altogether.</p>
@@ -2313,12 +2310,12 @@
                         Railway. We doubt the story. Abdnl Hamid Khan will not easily break his
                         tradition of remaining in Yildiz.</p>
                 </div>
-                <div type="item">
+                <div type="section" feature="letters">
                     <head>LETTERS TO THE EDITOR.</head>
                     <p>We do not hold ourselves responsible for the opinions pressed by our
                         correspondents, but we wish, in a spirit of fair play to all, to permit -
                         within certain necessary limits— free discussion. </p>
-                </div>
+               
                 <div type="item">
                     <p>GREECE AND ROUMANIA.</p>
                     <p>To the Editor of the “Egyptian Gazette.”</p>
@@ -2326,7 +2323,7 @@
                         amusement the designation of “trumpery” as applied to the Kntzo Vlaoh
                         Question. The "Globe" is wrong in making such a statement. The Kutzo Vlaoh
                         Question is at the basis of the present split between Roamania and her
-                        National Charob, on the one hand, and Greece and tbe Greek National Church
+                        National Charob, on the one hand, and Greece and the Greek National Church
                         on the other.</p>
                     <p>Church politics are the ruling factors in Macedon to-day as they were under
                         Basil the Bulgar slayer, and had your contemporary the “Globe” a Nearer
@@ -2345,9 +2342,9 @@
                         intermediation of the Holy Synod of Cons: tantinople—Yours etc.,</p>
                     <p>Xenos.</p>
                     <p>Alexandria, 30 June, 1906.</p>
-                </div>
+                </div></div>
                 <cb n="6"/>
-                <div type="item" element="social">                   
+                <div type="item" feature="social">                   
                     <head>PERSONAL AND SOCIAL.</head>
                     <p>H.H. PrinCe Mohamed Ibrahim has returned to Cairo from Alexandria.</p>
                     <p>H.E. the Regent leav s for Europe next Saturday. In his absence H.E. Boutros
@@ -2381,7 +2378,7 @@
                     <p>A number of well-known residents left for Europe on Saturday by the Austrian
                         Lloyd steamer. The fall list of passengers will be found in another
                         column.</p></div>
-                   <div type="item" element="sport">
+                   <div type="item" feature="sport">
                        <head>SPORT AND PLAY.</head>
                     <head>BILLIARDS.</head>
                     <p>A very pleasant game was played at the Soldiers’ Clnb, Cairo, on Wednesday
@@ -2448,7 +2445,7 @@
             <div type="page" n="4">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="item" element="bulletinBourse">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>(Aujourd'hui à Midi et demie)</p>
                     <p>Marché très calme, presque toute la cote est en baisse, les offres abondent ;
@@ -2466,7 +2463,7 @@
                     <p>Le comptoir financier baisse de 1/32 à 6 1/32.</p>
                     <p>La Banque d’Orient cloture a 132.</p>
                 </div>
-                <div type="item" element="passList">
+                <div type="item" feature="passList">
                     <head>PASSENGER LISTS.</head>
                     <p>ARRIVALS.</p>
                     <p>Le paquebot Habsburg, du Lloyd Autri­chien, arrivé ce matin de Trieste et
@@ -2502,7 +2499,7 @@
                         et Mme Liote et 1 de fam. Mme Mouchly, M. Mander, Mlle S. Rodoschegg, M.
                         Smith, M. et Mme Tedeschi et 2 enfants, M. Webb, M. Vanian.</p>
                 </div>
-                <div type="item" element="shippingMovements">
+                <div type="item" feature="shippingMovements">
                     <p>SHIPPING MOVEMENTS</p>
                     <p>ALEXANDRIA HARBOUR. </p>
                     <p>ARRIVALS.</p>
@@ -2636,7 +2633,6 @@
                         <p>Le Vice-President, (Signé Dr. Schîess )</p>
                         <p>Alexandr e, le 29 Juin 1906. </p><p><measure type="indexNo">28186-3-1</measure></p>
                     </div>
-               
             <div type="item">
                 <head>AVIS</head>
                 <p>L’Agence de la Compagnie Russede Navi­gation à vapeur et' de Commerce a
@@ -2670,8 +2666,6 @@
                 <p>Alexandrie, le 25 Juin 1906. </p>
                 <p><measure type="indexNo">28179-3-3</measure></p>
             </div>
-                
-
             <div type="item">
                 <head>AVIS</head>
                 <p>Il est rappelé à MM. les porteurs ¿'Actions de la Banque d’Orient que le dernier
@@ -2922,7 +2916,6 @@
                         <row role="label">
                             <cell cols="5"/>
                         </row>
- 
                     </table>
                 <table cols="5" xml:id="deg-ta-mmeb06">
                     <head>SECTION DES GRAINES ET CEREALES</head>
@@ -3254,7 +3247,6 @@
                         <row role="label">
                             <cell cols="5"/>
                         </row>
- 
                     </table>
                 </div>
                 <cb n="5"/>
@@ -3331,7 +3323,6 @@
                             <cell><measure unit="LE">—</measure></cell>
                             <cell><measure unit="LE">149</measure></cell>
                         </row>
-                        
                         <row>
                             <cell>Total</cell>
                             <cell><measure unit="LE">3724</measure></cell>
@@ -4874,7 +4865,6 @@
                             <cell><measure>85.18</measure></cell>
                         </row>
                     </table>
-                    
                 </div>
             </div>
             <div type="page" n="5">
@@ -4908,11 +4898,7 @@
                     <div type="item"><dateline>Rome, June 30.</dateline>
                         <p>The Government anticipates an annual saving of £800,000 from the
                             conversion of the National Debt. (Reuter)</p>
-                        
-                       
                     </div>
-                     
-                   
                 </div></div><div type="item"><head>MILLIONAIRE’S TRIAL FOR MURDER.</head><dateline>New York, June 30.</dateline>
                         <p>Mr. Thaw, at the police court, pleaded “Not guilty.” His wife volunteered
                             to give evidence at the trial, which promises to be of a sensa­tional
@@ -4977,9 +4963,7 @@
                 <cb n="2"/>
                 <div type="section">
                             <head>RUSSIAN UNREST.</head>
-                        
                             <head>TROOPS CONTINUALLY MUTINY</head>
-                       
                             <head>GOREMIKIN MINISTRY DOOMED.</head>
                         <div type="item">                    <dateline>Warsaw, June 30.</dateline>
                     <p>Police are refusing to serve owing to the incessant throwing of bombs.
@@ -5021,7 +5005,7 @@
                         Derbyshire by 10 wickets. Essex v. Yorkshire. The match was drawn.
                         (Reuter)</p>
                 </div>
-                <div type="item" element="comingEvents">
+                <div type="item" feature="comingEvents">
                     <head>Calendar of Coming Events</head>
                     <table cols="2" xml:id="deg-ta-coce01">
                         <row role="label">
@@ -5531,7 +5515,6 @@
                 </div>
             </div>
             <div type="page" n="6"> 
-                
                 <cols n="3"/>
                 <cb n="1"/>
                 <div type="advert" xml:id="deg-ad-hem01" xml:lang="fr">
@@ -6506,7 +6489,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.906</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

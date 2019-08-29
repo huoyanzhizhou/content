@@ -13,7 +13,7 @@
             <editionStmt>
                 <edition>
                     <date when="2018-01-17">January 9, 2017 January 17, 2018</date>
-                    <gloss>1</gloss>
+                    <gloss>3</gloss>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -1693,7 +1693,7 @@
                     <p>Hickory Handles.</p>
                     <p>THE HARDY PATENT PICK CO., LTD., SHEFFIELD, ENGLAND.</p>
                 </div>
-                <div type="section" element="weather">
+                <div type="section" feature="weather">
                     <head>DAILY WEATHER REPORT</head>
                     <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
                     <div type="subsection">
@@ -1986,11 +1986,9 @@
                         qualification. </p>
                 </div>
             </div>
-
-
             <div type="page" n="3">
-                <head> THE EGYPTIAN GAZETTE, MONDAY, NOVEMBER 12</head>
-                <div type="section" element="local">
+                <head>THE EGYPTIAN GAZETTE, MONDAY, NOVEMBER 12</head>
+                <div type="section" feature="local">
 
                     <head>LOCAL AND GENERAL</head>
                     <div type="item">
@@ -2070,7 +2068,7 @@
                             indisposition of Count de Manzini and the Marquis Medici.</p>
                     </div>
                 </div>
-                <div type="section" element="steamerMovements">
+                <div type="section" feature="steamerMovements">
 
                     <head>Steamer Movements</head>
                     <p>The Messageries Maritimes S.S. Congo, from Merseilles, passed the Straits of
@@ -2083,12 +2081,8 @@
                         Ellerman liners Arabia and Egyptian will sail to-morrow for Manchester and
                         Liverpool respectively.</p>
                 </div>
-
-
                 <div type="item">
                     <head>Egyptian Estates, Limited</head>
-
-
                     <p> NOTICE</p>
                     <p>The Egyptian Estates, Limited beg to inform their shareholders that an
                         interim dividend of 5% free of income tax is hereby declaed up to the 30th
@@ -2121,8 +2115,6 @@
                 <div type="item">
 
                     <head>KINGS BIRTHDAY</head>
-
-
                     <head type="sub">EXCHANGE OF TELEGRAMS</head>
                     <p>Major-General Bullock, C.B., commanding the Army of Occupation, telegraphed
                         to His Majesty the King as follows-</p>
@@ -2142,9 +2134,9 @@
                         "Sandringham. Mohaman Wahid, Helonan. I am commanded by His Majesty to thank
                         you for your kind congratulations and good wishes - Equerry." </p>
                 </div>
-                <div type="section" element="khedive">
+                <div type="section" feature="khedive">
 
-                    <head> THE KHEDIVE.</head>
+                    <head>THE KHEDIVE.</head>
                     <p>The Khedive returned to Montazah from Ras-el Tinon Saturday evening. His
                         Highness has decided to leave for Cairo officialy on the 24th inst.</p>
                 </div>
@@ -2189,9 +2181,6 @@
                 </div>
                 <div type="item">
                     <head>THE EGYPTIAN UNIVERSITY</head>
-
-
-
                     <head type="sub">THE DANGER OF APATHY</head>
                     <p>The Globes article on the National University which we reporoduced the other
                         day may be said to demand a reply - not in the form of a verbal protest, but
@@ -2283,9 +2272,6 @@
                 </div>
                 <div type="item">
                     <head>CAPTAIN WALDBERG'S CAREER</head>
-
-
-
                     <head type="sub">EXTRAORDINARY DISCLOSURES</head>
                     <p>We have great pleasure in laying before our readers the history of the first
                         and, let us hope the last exponent in Egypt of the methods of certain
@@ -2300,8 +2286,6 @@
                         tinge is identical with the quarantine colours. It is printed in French and
                         Arabic, and was originally only issued weekly and illustrated with ribald
                         cartoond and faulty photos.</p>
-
-
                     <p>His Early Career</p>
                     <p> The Captain arrived in Egypt about a year ago from Constantinople. He is, so
                         he says, of Latin-American origin, and we believe his father was an
@@ -2315,8 +2299,6 @@
                         sphere of operations to Europe and joined the American contingent in the
                         Hellenic-Turkish war. At Athens he married the daughter of a Greek colonel,
                         by whom he has issue. From Greece he went to Constantinople. </p>
-
-
                     <p>His Stamboul Career</p>
                     <p>He took up his residence in the Capital of the Ottoman Empire in the attic of
                         a boarding house opposite the Maison Olivo, now occupied by the American
@@ -2354,8 +2336,6 @@
                         Captain Waldberg. He knew every track through the monstrous undergrowth of
                         intrigue and corruption which surrounds the decaying fabric of the Ottoman
                         Empire.</p>
-
-
                     <p>The Magnm Opus</p>
                     <p>Under the guidance of the Secretary of the Grand Vizier the Captain was
                         enabled to find plenty of material for his magnum opus "Le Corpus
@@ -2380,8 +2360,6 @@
                         progressing and the Captian became more prosperous. The Sultan's American A
                         D.C. Captain Bucknam gave it his patronage, and soon a notice announcing the
                         forthcoming book was inserted "Levant Herald."</p>
-
-
                     <p>The Suspicious Turk</p>
                     <p>Having thus attained a certain degree of notoriety, the Captain now directed
                         his attention to the great personagee in the immediate entourage of the
@@ -2393,8 +2371,6 @@
                         objected to their biographies appearing cannot be stated with any certainty,
                         but the fact remains with the Imperial Fiat went forth and the great work
                         was suddenly and mysteriously stopped</p>
-
-
                     <p>Diplomatic Action</p>
                     <p>The Captian declared that this action on the part of the Sultan abuse of
                         autocracy, and as a free and independent citisen of the United Stated he
@@ -2405,8 +2381,6 @@
                         solatium that went into four figures. His last days at Constantinople were
                         spent in luxury at the Pera Palace Hotel, and then the Captain set sail to
                         seek fresh fields and pastures new in the land of Egypt.</p>
-
-
                     <p>Conclusion</p>
                     <p>Captian Waldberg is to be condoled with in his failure in Egypt. He has
                         arrived too late. Had he only appeared in Cairy during the Palmy days of the
@@ -2472,7 +2446,7 @@
                             Officials. <measure type="indexNo">26-11-90</measure></p>
                     </div>
                 </div>
-                <div type="section" element="social">
+                <div type="section" feature="social">
 
                     <head>Personal and Social</head>
                     <p>Prince Toussoun, with Mr. and Mrs. Ne. Groponte, arrived at the Ritz Hotel,
@@ -2524,7 +2498,7 @@
                         Hasting?,, Dr. Williams.</p>
                 </div>
 
-                <div type="item" element="passList">
+                <div type="item" feature="passList">
                     <head>Passenger Lists</head>
                     <p>ARRIVALS Per Ellerman liner Britannia, arrived morning from Liverpool and
                         Malta : Mr. V. E. Grindon, Mr H. B. Grindon, Mr. and Mrs. Jardine and
@@ -2553,7 +2527,7 @@
 
             </div>
             <div type="page" n="4">
-                <div type="item" element="bulletinBourse">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>
                         <hi rend="italic">(Auiourd'hui à midi et demie.}</hi>
@@ -2579,8 +2553,8 @@
                         mooteit à 7/9, la Sait aud Soda à 25/9, l’Orlinary Khelivial Mail à 41/9,
                         l’Invedmaot à l 13/32, le Trust à 17/32, et les Estâtes à 2 13/32.</p>
                 </div>
-                <div type="item">
-                    <head> Circulaire H. De Vries et Boutigny NOTES ET CRITIQUES </head>
+                <div type="item" feature="circulaire">
+                    <head>Circulaire H. De Vries et Boutigny NOTES ET CRITIQUES </head>
                     <p>Le Caire, 10 Novembre 1906.</p>
                     <p>Le taux de l’escompte libre à Londres est toujours renseigné à 6%. Il ressort
                         du dernier bilan de la Banque d’Angleterre pnbVé avant- hier que la réwrve
@@ -2669,8 +2643,8 @@
                         rapport da oonseil et présentation des comptes ; fixation des dividendes ;
                         nomi­nations statutaires, etc. </p>
                 </div>
-                <div type="item" element="shippingMovements">
-                    <head> SHIPPING MOVEMENTS. </head>
+                <div type="item" feature="shippingMovements">
+                    <head>SHIPPING MOVEMENTS. </head>
                     <p>ALEXANDRIA HARBOUR.</p>
                     <p> ARRIVALS. </p>
                     <p>November 10.</p>
@@ -5508,10 +5482,8 @@
                     </table>
                 </div>
             </div>
-
-
             <div type="page" n="5">
-                <div type="section" element="wire">
+                <div type="section" feature="wire">
                     <head>TELEGRAMS.</head>
                     <div type="item">
                         <head>REBELLION IN TRANSVAAL. </head>
@@ -5540,8 +5512,6 @@
                         <p>The Boer leaders and the Natal Press mini­mise the importance of the
                             Ferreira raid. (R.)</p>
                     </div>
-
-
                     <div type="item">
                         <head>THE MOROCCO QUESTION.</head>
                         <head type="sub">FRANCE TO MAKE CONCESSIONS. </head>
@@ -5565,7 +5535,7 @@
                         </div>
                     </div>
                     <div type="item">
-                        <head> PERSIA. </head>
+                        <head>PERSIA. </head>
                         <head type="sub">THE ANGLO-RUSSIAN LOAN.</head>
                         <dateline>Teheran, November 11.</dateline>
                         <p>It is expected that the Anglo Russian loan contract will be signed
@@ -5611,10 +5581,8 @@
                         <p>Lord Charles Beresford will be commander-, in chief in the manœuvres in
                             1907. {Reuter) </p>
                     </div>
-
-
                     <div type="item">
-                        <head> BRITAIN'S FOREIGN </head>
+                        <head>BRITAIN'S FOREIGN </head>
                         <p> RELATIONS. </p>
                         <p> OUR POSITION IN EGYPT. </p>
                         <p> THE CONGO ATROCITIES. </p>
@@ -5708,7 +5676,7 @@
                         </p>
                     </div>
                     <div type="item">
-                        <head> THE VICTORIOUS SPRINGBOKS.</head>
+                        <head>THE VICTORIOUS SPRINGBOKS.</head>
                         <p>London, November 10.</p>
                         <p> Rugby Football. The South Africans beat Cambridge by 29 points <hi
                                 rend="bold">to </hi>nil. <hi rend="italic">{Reuter)</hi>
@@ -5769,7 +5737,7 @@
                         shore.</p>
                     <p>Article 2.</p>
                     <p>The separating line mentioned in Article 1 has been indicated by a black,
-                        broken line on duplicate maps (annexed to this agreement)- whioh shall be
+                        broken line on duplicate maps (annexed to this agreement)- which shall be
                         signed and exchanged simul­taneously with the agreement.</p>
                     <p>Article 3.</p>
                     <p>Boundary pillars will be erected, in the presence of the Joint Commission, at
@@ -5812,7 +5780,7 @@
                     <p>Fahmy.</p>
                 </div>
                 <div type="item">
-                    <head> SMUGGLING IN BEYROUT. </head>
+                    <head>SMUGGLING IN BEYROUT. </head>
                     <p> A FATAL ATTEMPT. </p>
                     <p>(From our own Correspondent.)</p>
                     <p>Beyrout, November 7.</p>
@@ -5893,7 +5861,7 @@
                         signed by the Labour­ers in presence of an official or other reliabl6
                         witness. 28283A-30-10-907</p>
                 </div>
-                <div type="section" element="prepaidAdvertisements">
+                <div type="section" feature="prepaidAdvertisements">
                     <head>Cheap Prepaid Advertisements.</head>
                     <p>Under this heading advertisements are in sorted at the following rates :—</p>
                     <p> ONCE 3 TIMES 6 TIME8 15 words . . . P.T. <hi rend="italic">5</hi> P.T. 10
@@ -5982,7 +5950,7 @@
                         <p>28819 3-3</p>
                     </div>
                 </div>
-                <div type="item" element="comingEvents">
+                <div type="item" feature="comingEvents">
                     <head>Calendar of Coming Events</head>
                     <table cols="2" xml:id="deg-ta-coce01">
                         <row role="label">
@@ -6071,7 +6039,7 @@
                 </div>
 
                 <div type="advert">
-                    <head> Davies Bryan </head>
+                    <head>Davies Bryan </head>
 
                     <p>&amp; Co.</p>
                     <p>CONTINENTAL HOTEL BUILDINGS</p>
@@ -6106,9 +6074,9 @@
                 </div>
             </div>
             <div type="page" n="6">
-                <div type="item">
-                    <head> EXPORT MANIFESTS. </head>
-                    <p> For Piraeus and Constantinople, by the 8.8. Ism&amp;ilia, sailed on the 31st
+                <div type="item" feature="exportManifests">
+                    <head>EXPORT MANIFESTS. </head>
+                    <p> For Piraeus and Constantinople, by the S.S. Ism&amp;ilia, sailed on the 31st
                         October : G. </p>
                     <p> Various, 40 bags cotton, 910 bags rice, 241 bags henna, 120 oases zinc
                         plates, 150 oases dates, 15 packages vegetables, 37 packages sundries </p>
@@ -6116,7 +6084,7 @@
                         :</p>
                     <p> Various, 5 bales manofacture, 50 bags rice, 15 bags henna, 142 empty casks,
                         10 empty demi johns, 3 oases cognac, 62 packages empty bottles </p>
-                    <p> For Brindisi and Trieste, by the 8.8. Hun- garia, sailed on the 31st October
+                    <p> For Brindisi and Trieste, by the S.S. Hun- garia, sailed on the 31st October
                         ; </p>
                     <p> Schmid &amp; Co., 217 bales cotton </p>
                     <list type="simple">
@@ -6440,7 +6408,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -6605,9 +6573,6 @@
                     <p>Poudrettes, Engrais Chimiques Organiques.</p>
                 </div>
             </div>
-
-
-
         </body>
     </text>
 </TEI>

@@ -1631,13 +1631,11 @@
                         </table>
                     </div>
                 </div>
-         
             <pb n="3"/>
             <div type="page" n="3">
                 <div type="masthead">
                     <head>THE EGYPTIAN GAZETTE, Monday, July 31, 1905.</head>
                 </div>
-                
                     <cols n="6"/>
                 <cb n="1"/><div type="section" feature="wire">
                     <div type="item">
@@ -2156,14 +2154,11 @@
                         <p>M. Cortessi, a Greek notable of Cairo has presented 1,000 francs to the
                             Greek Govern- ment for military equipment. </p>
                     </div>
-                
             </div>
             <pb n="4"/>
             <div type="page" n="4">
 
                     <head>THE EGYPTIAN GAZETTE, Monday, July 31, 1905.</head>
-                
-               
                     <cols n="6"/>
                     <cb n="1"/>
                     <div type="item">
@@ -2494,7 +2489,7 @@
                         <p>Les articles sas-mentionnés peuvent être exa- minés à Ramlet (Boulao) oü
                             ils sont déposés et d’où l’adjudicataire pourra les enlever, à ses
                             frais, tels quels et en l’état où ils se trouvent H»n« an délai de 30
-                            jonrs de l’aooeptation de son offre (les jonrs fériés exceptés); faute
+                            jonrs de l’acceptation de son offre (les jonrs fériés exceptés); faute
                             de quoi, la vente sera annulée et le montant du cautionnement de plein
                             droit acquis à l’Admi- nistration.</p>
                         <p>Tout soumissionnaire devra verser, an préa- lable, un cautionnement
@@ -2505,7 +2500,7 @@
                             plet des artioles ad j âgés.</p>
                         <p>Toute offre faite ou déposée postérieurement à la date et à l’heure
                             sus-indiquées ne sera pas prise en considération.</p>
-                        <p>L’Administration ne s’engage pas à aooepter l’offre la pins élevée, ni à
+                        <p>L’Administration ne s’engage pas à accepter l’offre la pins élevée, ni à
                             donner suite aux soumissions faites. Elle se réserve en ontre le droit
                             de diviser la vente.</p>
                         <p>Le Caire, le 28 Juillet 1905. 26288-1</p>
@@ -4479,14 +4474,11 @@
                             </row>
                         </table>
                     </div>
-                
             </div>
             <pb n="5"/>
             <div type="page" n="5">
 
                     <head>THE EGYPTIAN GAZETTE, Monday, July 31, 1905.</head>
-                
-               
                     <cols n="6"/>
                     <cb n="1"/>
                     <div type="item">
@@ -5102,17 +5094,13 @@
                             Shaving) FOUNTAIN PENS, &amp;c., &amp;c.</p>
                         <p>Davies Bryan &amp; Co., Cairo &amp; Alexandria.</p>
                     </div>
-                
             </div>
             <pb n="6"/>
             <div type="page" n="6">
-                
                     <head>THE EGYPTIAN GAZETTE, Monday, July 31, 1905.</head>
-                
-                
                     <cols n="6"/>
                     <cb n="1"/>
-                    <div type="item">
+                    <div type="item" feature="exportManifests">
                         <head>EXPORT MANIFESTS</head>
                         <p>Pour CONSTANTINOPLE, par le bateau grec "Princess Sophie," parti le 24
                             juillet: Divers, 645 sacs riz, 64 barils vides, 10 colis divers</p>
@@ -6169,7 +6157,7 @@
                             Cairo, Alexandria Damanhour, Tantah or Zagazig. <measure type="indexNo"
                                 >21416 31-12.905</measure></p>
                         <table rows="4" cols="16">
-                            <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                            <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                             <row>
                                 <cell>Bab-el-Louck...Dep.</cell>
                                 <cell>6.20</cell>
@@ -6330,10 +6318,7 @@
                         <p>R. F. &amp; E. TURNER, LTD., Ipswich.—Floor Mills.</p>
                         <p>21188-24.5.905</p>
                     </div>
-                
-                
             </div>
-            
         </body>
     </text>
 </TEI>

@@ -1383,7 +1383,7 @@
                     <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and Soudan for</head>
+                        <head>Sole Agents in Egypt and Soudan for</head>
                         <row>
                             <cell>J. Calvet &amp; Co.</cell>
                             <cell>Bordeaux.</cell>
@@ -1527,7 +1527,7 @@
                         week it was resolved to continue the war to the last gasp, to call out fresh
                         Reserves, and to mobilise another 400,000 men. In any country hut Russia it
                         would he impossible to treat such madness in earnest It took over a year to
-                        bring np from Russia the army which has just undergone so frightful a
+                        bring up from Russia the army which has just undergone so frightful a
                         defeat; yet the rail way was in full working order, during the earlier part
                         of the war the confidence of the nation and the soldiery was unbroken, and
                         an unbroken force guarded the railhead. To collect a fresh army and
@@ -1666,7 +1666,7 @@
                         have been handed over to the Ministry of Public Works.</p>
                 </div><cb n="2"/>
                 <div type="section" feature="wire"><head>THE WAR.</head><div type="item">
-                    <head> RUSSIAN COUNTER ATTACKS. KROPATKINS NEW COMMAND</head>
+                    <head>RUSSIAN COUNTER ATTACKS. KROPATKINS NEW COMMAND</head>
                     <dateline>Tokio, March 20.</dateline>
                     <p>Oyama reports ^that the Russian counter- attacks on Kai-Yiien have been
                         repulsed. The Russians are burning the bridges to the south of Kni-Yunn. A
@@ -1828,7 +1828,7 @@
                 <div type="section" feature="khedive">
                     <head>THE KHEDIVE.</head>
                     <p>Yesterday, the Khedive gave audience at Abdeen to M. de la Boulinifere, who
-                        presented M. Paul Oziol; and to Sir E. Zohrab Pasha, Mohamed Ali Bey, Mondir
+                        presented M. Paul Oziol; and to Sir E. Zohrab Pasha, Mohamed Ali Bey, Moudir
                         of the Fayoum, Mesciaca Bey, Adib Bey, and Talamas Bey, Col. the Hon. M.
                         Talbot Pasha, Sir Rudolph von Slatin Pasha, Yacoub Pasha Artin, Prince
                         Haider, Mr. F. H. Cook, and Amin Rehan Effendi. At 3 p.m. his Highness gave
@@ -2038,7 +2038,6 @@
             <div type="page" n="4">
                 <cols n="6"/>
                 <cb n="1"/>
-                
                 <div type="item" xml:id="deg-el-stsh01">
                     <head>STOCKS AND SHARES</head>
                     <p>
@@ -4179,19 +4178,18 @@
                         FOUNTAIN PENS, &amp;c., &amp;c.</p>
                     <p>Davies Bryan &amp; Co., Cairo &amp; Alexandria.</p>
                 </div>
-                
             </div>
             <pb n="6"/>
             <div type="page" n="6">
                 <div type="item">
                     <cols n="6"/>
                     <cb n="1"/>
-                    <p>EXPORT MANIFESTS</p>
+                    
                 </div>
                 <div type="item" feature="exportManifests">
                     <head>Export Manifests</head>
                     <table rows="15" cols="3" xml:id="deg-ta-exma01">
-                        <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
+                        <!-- uncorrected template --><head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
                             by the S.S. "Rameses," sailed on the <date when="1905-03-20">30th
                                 March</date>:</head>
                         <row>
@@ -4634,7 +4632,6 @@
                     </row>
                 </table>
             </div>
-                
                 <div type="advert" xml:id="deg-ad-okl01">
                     <head>Orenstein &amp; Koppel, Ltd.</head>
                     <p>Capital 10,000,000 Frs.</p>
@@ -4803,7 +4800,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             20-01.1905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

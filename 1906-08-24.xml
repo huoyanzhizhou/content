@@ -2790,7 +2790,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -4262,8 +4262,6 @@
                             <cell><measure>17.23</measure></cell>
 
                         </row>
-
-
                     </table>
                 </div>
             </div>
@@ -4271,8 +4269,6 @@
             <div type="page" n="5">
                 <div type="section" feature="wire">
                     <head>TO-DAY’S TELEGRAMS.</head>
-                    
-              
                 <div type="item"><head>Balkin Imbroglio</head>
                     <head>The Troubles of Bulgaria</head>
                     <head>Quarrel with Russia</head>
@@ -4330,7 +4326,7 @@
                         (Reuter)</p>
                 </div>
                 <div type="item">
-                    <head> MONTAGU COURT-MARTIAL.</head>
+                    <head>MONTAGU COURT-MARTIAL.</head>
                     <p>LONDON, August 20.</p>
                     <p>Xsa result of the Montagu court-martial, Captain Thomas Adair and Lieutenant
                         Dathan Lave been severely reprimanded and dismissed their ship. Lieutenant
@@ -5169,7 +5165,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

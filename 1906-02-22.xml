@@ -1444,7 +1444,6 @@
             </div>
             <pb n="3"/>
             <div type="page" n="3">
-                
                     <cols n="6"/>
                     <cb n="1"/><div type="section" feature="local">
                     <head>LOCAL AND GENERAL</head>
@@ -3865,7 +3864,7 @@
                 </div>
                 <div type="item" xml:id="deg-el-egml01">
                     <head>EGYPTIAN MARKETS, LIMITED</head>
-                    <table xml:id="deg-ta-egml01">
+                    <table xml:id="deg-ta-egml01"> <!-- All values are copied -->
                         <head>Approximative Returns</head>
                         <row role="label">
                             <cell/>
@@ -4541,8 +4540,6 @@
                             <p>Beautiful new hotel.</p>
                             <p>First class. Electric light. Central heating and every modern
                                 comfort.</p>
-
-
                         </div>
                         <div type="item" scope="advertisement">
                             <head>Paris HOTEL BELLEVUE.</head>
@@ -5504,6 +5501,7 @@
                         <row role="label">
                             <cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
                         </row>
+                        <!--values are copied from template-->
                         <row>
                             <cell>Novembre</cell>
                             <cell>Tal.</cell>
@@ -6076,7 +6074,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

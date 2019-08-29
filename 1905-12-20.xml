@@ -2669,7 +2669,7 @@
                         Numerous ruined forts and castles of the Roman period bear 
                         witness to the size of the garrison and to the importance of 
                         the settlements during Imperial times. We have discovered, for
-                        example, and opened np a long subterranean watercourse, with
+                        example, and opened up a long subterranean watercourse, with
                         vent-holes a intervals. The underground water-channel is doubtless
                         of the same type to be met with in Persia and Balochistan for 
                         irrigating purposes. In each the manholes opened up the water</p>
@@ -5249,7 +5249,7 @@
                     <p>MODERATE, FIXED PRICES.-Central House: SMYRNA, Est. 1842. Branch in London.</p>
                     <p>Cairo Show Rooms: Rond-Point Soliman Pacha, opposite Savoy Hotel.</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="parisLetter">
                     <head>OUR PARIS LETTER.</head>
                     <p>(From our Correspondent.)</p>
                     <p>Paris, December 13</p>
@@ -6962,7 +6962,7 @@
                             information</hi> apply to the offices at Cairo, Alexandria Damanhour, Tantah
                         or Zagazig. <measure type="indexNo">21416 31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -7314,7 +7314,6 @@
                             <cell><measure unit="LE">886</measure></cell>
                             <cell><measure unit="LE">—</measure></cell>
                         </row>
-                        
                         <row>
                             <cell>Total</cell>
                             <cell><measure unit="LE">3994</measure></cell>

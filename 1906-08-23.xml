@@ -1148,7 +1148,7 @@
                     <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and Soudan for</head>
+                        <head>Sole Agents in Egypt and Soudan for</head>
                         <row>
                             <cell>J. Calvet &amp; Co.</cell>
                             <cell>Bordeaux.</cell>
@@ -2000,7 +2000,7 @@
                         Theatre, on aocount of the adultery of his wife, n6eNina Levi.</p>
                 </div>
                 <div type="item">
-                    <head> NEW EGYPTIAN COMPANY. SEDNAOUI ZaRIFFA NAHAS AND CO., LIMITED.</head>
+                    <head>NEW EGYPTIAN COMPANY. SEDNAOUI ZaRIFFA NAHAS AND CO., LIMITED.</head>
                     <p>Registered 8th August by Farrar Porter and Co., 2, Wardrobe place, Doctors’
                         Commons, E. C. Capital £300,000, in 74,918 shares of £4 each and 6,560
                         shares of Is each. Objects : To acquire the business carried on at Cairo and
@@ -2047,8 +2047,8 @@
                         oompany. He is represented, subjudice, by Me. Goarnotta.</p>
 
                 </div>
-                <div type="item">
-                    <head>Egyptian Army</head>
+                <div type="item" feature="army">
+                    <head>EGYPTIAN ARMY</head>
                     <p>Leave of absence has been granted to the following officers of the Egyptian
                         Army:— Kaimakim Barges Bey, senior inspec¬tor of tin Berber provinoe, until
                         October 39 ; El Kaimakam Young Bey, sub-governor of the Khartoum provinoe,
@@ -2077,7 +2077,7 @@
                 </div>
                 <cb/>
                 <div type="item">
-                    <head> EGYPTIAN DELTA LAND AND INVESTMENT. EXTENSION OF SPHERE OF
+                    <head>EGYPTIAN DELTA LAND AND INVESTMENT. EXTENSION OF SPHERE OF
                         OPERATIONS.</head>
                     <p>The ordinary general meeting of the Egyptian Delta Land and Investment
                         Company, Ltd., was held last Thursday at Winchester House, Old Broad-street,
@@ -2128,7 +2128,7 @@
                         what I have said. The time has now arrived when it is very necessary for ns
                         to extend our sphere of operations in order to avail ourselves more
                         generally of the oppor¬tunities which offer in Egypt and the Sudan. The
-                        arrangement of this involved the severance of our oonneotion with the Delta
+                        arrangement of this involved the severance of our connection with the Delta
                         Light Rail¬way Company—te the regret of bolh com¬panies I may say—whose
                         memorandum of association did not permit of their reserve funds even being
                         invested in a land oompany whose business is thus unrestrioted. Subj°ot to
@@ -2137,7 +2137,7 @@
                         oontinue to extend to the railway company its right to purchase lands from
                         us to meet its own requirements on speoial terms, and mast give dae
                         consideration to any representation they may make to ns in conse¬quence of
-                        the severanoe of the oonneotion be¬tween the two companies. In the early
+                        the severanoe of the connection be¬tween the two companies. In the early
                         part of this year we availed ourselves of the presence in Egypt of one of
                         our London direotors to carefolly consider our fntnre methods of busi¬ness.
                         Valuable properties were then purchased. Oar Board in Egypt was strengthened
@@ -2500,7 +2500,7 @@
                         Gazotte.”</p>
                 </div>
                 <cb/>
-                <div type="item">
+                <div type="item" feature="cottonMarket">
                     <head>THE COTTON- MARKET.</head>
                     <p>KKAKHLEY AND CUNNINGHAM’» WEEKLY REPORT</p>
                     <p>Liverpool, Aagust 16.</p>
@@ -3690,7 +3690,6 @@
                     <p>BULGARIA AND TURKEY. MORE TALES OF'DISASTER. </p>
                     <p>The Standard Life Assurance Company. K8TABLI8HKD ISiiO. 1 J Hoad Office |
                         -3, GeorKO Street, Edinburgh. </p>
-                   
                     <p>THE ANTI-HELLENIC MOVEMENT. </p>
                     <p>THE PORTE SNUBBED. </p>
                     <p>SOFIA August 22. la reply to the Turkish Note, complaining of the anti Greek
@@ -4139,113 +4138,8 @@
             </div>
             <pb n="6"/>
             <div type="page" n="6">
-                <div type="item" feature="exportManifests">
+                <div type="item" feature="exportManifests" status="empty">
                     <head>Export Manifests</head>
-                    <table rows="15" cols="3" xml:id="deg-ta-exma01">
-                        <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
-                            by the S.S. "Rameses," sailed on the <date when="1905-06-30">30th
-                                June</date>:</head>
-                        <row>
-                            <cell>E. Toriel &amp; fils,</cell>
-                            <cell><measure>44</measure></cell>
-                            <cell>bales cotton</cell>
-                        </row>
-                        <row>
-                            <cell>Cattaui fr. &amp; Co.,</cell>
-                            <cell><measure>106</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Walker &amp; Meimarachi Ltd,</cell>
-                            <cell><measure>300</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>E. Barber &amp; Son</cell>
-                            <cell><measure>71</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari</cell>
-                            <cell><measure>173</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>M. L. Carasso,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>case cigarettes</cell>
-                        </row>
-                        <row>
-                            <cell>N. Soussa frères,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Alexandria Bonded Warehouse,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>B. Hazan &amp; Co.,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. N. Tocos &amp; Co.,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Sucreries &amp; Raff. d'Egypte,</cell>
-                            <cell><measure>2000</measure></cell>
-                            <cell>bags sugar</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari,</cell>
-                            <cell><measure>5</measure></cell>
-                            <cell>packages tobacco</cell>
-                        </row>
-                        <row>
-                            <cell>E. Hatoun,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>cases curios</cell>
-                        </row>
-                        <row>
-                            <cell>Mrs. Richmond,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>packages effects</cell>
-                        </row>
-                        <row>
-                            <cell>A. B. Burns,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>W. Snow Esq.,</cell>
-                            <cell><measure>6</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Thos. Cook &amp; Son,</cell>
-                            <cell><measure>7</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. H. Baldwin,</cell>
-                            <cell><measure>12</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>J. Setton &amp; Co.,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>cases furniture</cell>
-                        </row>
-                        <row>
-                            <cell>Various,</cell>
-                            <cell><measure>11</measure></cell>
-                            <cell>packages sundries</cell>
-                        </row>
-                    </table>
                 </div>
                 <div type="item" xml:lang="fr">
                     <head>ASSOCIATION DES COURTIERS EN MARCHANDISES</head>
@@ -5406,7 +5300,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -5541,8 +5435,6 @@
                     <p>Engrais Naturels Complets</p>
                     <p>Poudrettes, Engrais Chimiques Organiques.</p>
                 </div>
-
-
             </div>
         </body>
     </text>

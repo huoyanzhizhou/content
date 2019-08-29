@@ -1556,7 +1556,7 @@
                 <div type="section" feature="local">
                     <head>LOCAL AND GENERAL.</head>
                     <div type="item">
-                        <head> H. H. S. "Aida"</head>
+                        <head>H. H. S. "Aida"</head>
                         <p>leaves Alexandria to-day or the Red Sea. Tub Brindisi Mail will be
                             distributed at the G. P. 0., Alexandria, at 9.30 p.m. to-day. </p>
                     </div>
@@ -1570,7 +1570,7 @@
                             Khedive at Ras-el- Tin Palace to-morrow.</p>
                     </div>
                     <div type="item">
-                        <head> Socibtk Reunion Ramustes</head>
+                        <head>Socibtk Reunion Ramustes</head>
                         <p>This society is giving its second ball on Saturday next in the Bagdad
                             Hotel,. San Stefano, commencing at 9.30 p.m.</p>
                     </div>
@@ -1760,12 +1760,12 @@
                         their way to England. No notion of their departure was taken by the
                         public,** it was entirely unexpected on this date.</p>
                 </div>
-                <div type="item">
-                    <p>A POSSIBLE COMPETITOR. It is by no means impossible that Egypt will soon have
+                <div type="item"><head>A POSSIBLE COMPETITOR.</head>
+                    <p>It is by no means impossible that Egypt will soon have
                         a serious competitor in her onion trade, for Bermuda is determined to try to
-                        capture the English market, and has. lately tent a large supply of onions
-                        for free distribu- tion among the people of London, the idea befog, of
-                        course, that onion shall spell anion, and that when Londoners have none
+                        capture the English market, and has lately sent a large supply of onions
+                        for free distribution among the people of London, the idea being, of
+                        course, that onion shall spell union, and that when Londoners have none
                         tasted the Bermuda variety they will appreciate more fully the necessity for
                         joining hands with the Empire garden.</p>
                 </div>
@@ -1916,8 +1916,8 @@
                     <p>The Saez-Soairia weekly mail service has at last been officially announced.
                         The agents here have received a telegram from the head offices Of the
                         Khedirta! Mail Line stating that one Of their steamers will leave time every
-                        toek for Snakin’. The inhabitants and merchants rejoice at this news, and
-                        infany of them are thankful to Lord Cromer, the Sirdar, the Mondir of
+                        toek for Suakin’. The inhabitants and merchants rejoice at this news, and
+                        infany of them are thankful to Lord Cromer, the Sirdar, the Moudir of
                         Suakin, and the "Egyptian Usaetto” for having interested themselves in this
                         matter. The first weekly steamer started With the SS. "Payonm," whioh
                         arrived here on the 3rd inst. The next one was the "Mahallah," Which arrived
@@ -2002,8 +2002,6 @@
             </div>
             <pb n="4"/>
             <div type="page" n="4">
-
-
                 <div type="section" xml:lang="fr" feature="legal">
                     <head>CHRONIQUE JUDICIAIRE</head>
                     <p>COUR D'APPEL M1XT2 L’aFFAIRE DES COURTIERS DEFINITIVE)!ENT tranciiEe (Arret
@@ -2758,11 +2756,9 @@
                     <p>Disponible : Rien</p>
                     <p>" Cond. Saha P.T. <measure unit="pt">88</measure> à <measure unit="pt"
                             >93</measure></p>
-            
                 <div type="item">
                     <p>OIGNONS Arrivages de ce jour sacs 10494 cantars 4198 prix PT 35 a 88 cond
                         franco wagon contre meme jour en 1904 can -</p>
-              
                 <div type="item">
                     <table cols="5" xml:id="deg-ta-mmeb05">
                         <head>Les prix suivants ont été pratiqués ce jour</head>
@@ -4413,7 +4409,7 @@
             </div>
             <pb n="6"/>
             <div type="page" n="6">
-
+<cb n="1"/>
                 <div type="item" feature="exportManifests">
                     <head>Export Manifests</head>
                     <table rows="15" cols="3" xml:id="deg-ta-exma01">
@@ -4796,11 +4792,12 @@
                     </table>
                 </div>
                 <div type="item">
-                    <p>TO.WHOLESALE BUYERS’ STORE-KEEPER AND OTHER TRADERS. —If you are not of
+                    <p>TO WHOLESALE BUYERS’ STORE-KEEPER AND OTHER TRADERS. —If you are not of
                         reader of “Afrioan Com- merce,” the British Trade Medium for All Africa,
                         send 7d. for a copy to The Manager, “African Commerce," Tower Chambers,
                         Moorgate Street, London, E.C. Annual Subscription 7/6-post free.</p>
                 </div>
+                <cb n="2"/>
                 <div type="item" xml:id="deg-el-reut01">
                     <head>REUTER'S TELEGRAMS</head>
                     <head type="sub">CLOSING REPORTS</head>
@@ -5119,6 +5116,8 @@
                         <p>26216-3 3</p>
                     </div>
                 </div>
+                <cols n="3"/>
+                <cb n="2"/>
                 <div type="advert" xml:id="deg-ad-aac01">
                     <p>Allen, Alderson &amp; Co. Limited.</p>
                     <p>SOLE AND EXCLUSIVE AGENTS FOR</p>
@@ -5148,21 +5147,11 @@
                     <p>Chatwood's Safes in Stock.</p>
                     <p>Agents for Green's Economisers.</p>
                 </div>
-                <div type="item">
+                <div type="advert">
                     <p>Boulton &amp; Paul</p>
+                    <!-- to be filled -->
                 </div>
                 <div type="advert" xml:id="deg-ad-gmc01">
-                    <head>G. MARCUS &amp; Co.</head>
-                    <p>SOLE AGENTS FOR EGYPT FOR MILNER'S SAFE COMPANY, LIMITED.</p>
-                    <p>Transatlantic Fire Insurance Company, Limited of Hamburg. (Covers also
-                        Burglary Risks.)</p>
-                    <p>The National Assurance Company of Ireland.</p>
-                    <p>Fire Insurance Policies granted on all approved Descriptions of Property, at
-                        moderate rates.</p>
-                    <p>ALEXANDRIA, Maison A. N. Abey, Rue Constantinople. CAIRO, Hosh Issa</p>
-                    <p>17-11A-905</p>
-                </div>
-                <div type="advert">
                     <head>G. MARCUS &amp; Co.</head>
                     <p>SOLE AGENTS FOR EGYPT FOR MILNER'S SAFE COMPANY, LIMITED.</p>
                     <p>Transatlantic Fire Insurance Company, Limited of Hamburg. (Covers also
@@ -5184,6 +5173,8 @@
                     <p>Dépôt général pour l'Égypte GEO. BUSLENEG, Pharamcien, Alexandrie.
                         25-1-05</p>
                 </div>
+                <cols n="6"/>
+                <cb n="3"/>
                 <div type="item">
                     <p>NOTICE. avant le 31 Mai 1905 une demande accom- The large warehiuae'
                         belonging to the Govt, pagnbe de sea diplflmea, son oertifioat de nais-
@@ -5206,13 +5197,13 @@
                         jours prdeddant l’A8sembldc. Par oidre du Conseil d'Administration, J. E.
                         Cornish. Administrateur-Direoteur Alexandrie, le 13 Mai 1905. 25957-4-3</p>
                 </div>
-                <div type="item" feature="masthead">
-                    <p>The Egyptian Gazette</p>
-                    <p>An English Daily Newspaper, Established in 1880.</p>
-                    <p>Editor &amp; Manager: R. Snelling.</p>
-                    <p>Price: One Piastre Tariff.</p>
-                    <p><date when="1905-07-13">THURSDAY, JULY 13, 1905</date>.</p>
+                <div type="item" xml:lang="fr" xml:id="deg-el-egev01">
+                    <p>L'EGYPTIAN GAZETTE est en vente dans les rues du Caire tous les soirs à 7
+                        h.30, excepté les dimanches et jours férieés. Le journal est aussi en vente
+                        aux gares du Caire, d'Alexandrie, de Tantah, de Damanhour de Kafr-Zayat et
+                        de Zagazig. Prix numéro du jour, 1 P.T.</p>
                 </div>
+                <cb n="4"/>
                 <div type="item">
                     <p>SUDAN GOVERNMENT POSTS AND TELEGRAPHS DEPARTMENT. NOTICE. Tenders will be
                         reooivedat the Office of tho Director of Posts and Telegraphs, Khartoum, up
@@ -5248,8 +5239,10 @@
                         of pimples, spots,<unclear/> In Tablets price 1/- sold by Max
                         Fischer<unclear/> Alexandria.</p>
                 </div>
+                <cols n="3"/>
+                <cb n="3"/>
                 <div type="item">
-                    <p>North Egypt Land Co</p>
+                    <head>North Egypt Land Co</head>
                     <p>The issue is Heitig‘m4de simultaneously Ih'EtgltlM 4nd in Egypt The
                         subscription lists will open on Thursday, tho 18th of May, and close on or
                         before Friday, the 19th of May, 1905. A Prospectus has been Filed with tho
@@ -5276,8 +5269,6 @@
                         British Central Africa Co.) AUGUSTUS DURANT, Esq., 82, Gresham Street,
                         London KC^ Merchant, .................. (Chairman, K W. Tarry &amp; Co.,
                         Limited).</p>
-                </div>
-                <div type="item">
                     <p>EDWARD ENGLAND PULLMAN, Esq., Alverstoke, Guildford (Managing Direotor R.
                         &amp; J. Pullman, Limited). His Excellanoy KHALIL PASHA KAY AT, Merchant,
                         Alexandria, Egypt. Maitre LUSSNA BEY, Avocat, Cairo, Egypt Bankers. London:

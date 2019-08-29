@@ -54,7 +54,6 @@
                             HAMBURG, AMERICA,<lb/> EASTERN ASIA, AUSTRALIA Etc.</p>
                         <p>For Particulars see Advertisement below.</p>
                     </div>
-                    
                 </div>
                 <div type="section" scope="advertisement"> 
                     <cols n="3"/>
@@ -903,7 +902,7 @@
                         <p>Water guaranteed by Chamberlain’s Filter (Pasteur’s System).</p>
                         <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for use.</p>
                         <table>
-                            <head> Sole Agents in Egypt and the Sudan for</head>
+                            <head>Sole Agents in Egypt and the Sudan for</head>
                             <row>
                                 <cell>J. Calvet &amp; Co.</cell>
                                 <cell>Bordeaux</cell>
@@ -1244,7 +1243,7 @@
                         <!--This is similar to the ad but not exact-->
                     </div>                
                 </div>
-                <div type="section" element="weather">
+                <div type="section" feature="weather">
                     <head>DAILY WEATHER REPORT</head>
                     <p>Kom-el-Nadoura Observatory</p>
                     <div type="subsection">
@@ -1527,7 +1526,7 @@
                         masses of, iron which were encountered and had to be removed by sheers, a
                         task that often involved two or three hours’ delay. ... To dear a navigable
                         channel.... no less than 18,000 cubic metres of sand, etc., had to be
-                        dredged np with over 400 tons, of iron, unloading fragments that weighed
+                        dredged up with over 400 tons, of iron, unloading fragments that weighed
                         from 30 kilo* to 90 tons." Between Oct. 8 and Oct. 11 109 vessels passed
                         through the panai without accident or incident, and the report very properly
                         commends the energy and devotion of the personnel. At the same time we miss
@@ -1660,7 +1659,7 @@
                         <p> </p>
                     </div>                   
                 </div>
-                <div type="section" element="wire">
+                <div type="section" feature="wire">
                     <head>NATAL REBELLION</head>
                     <div type="item"> 
                         <head>IMPORTANT CHIEF KILLED</head>
@@ -1765,7 +1764,7 @@
                         spoil clothes. Free lessons given to purchaser. Come and see for yourselves
                         at office of Sabs Abd Ennour and Co. 26 Coptic Church Street, Alexandria </p>
                 </div>
-                <div type="section" element="wire"> 
+                <div type="section" feature="wire"> 
                     <head>LOSS TO THE EMPIRE</head>
                     <head>DEATH OF MR. SEDDON.</head>
                     <head>SUCCUMBS TO HEART FAILURE</head>
@@ -1856,7 +1855,7 @@
                         examination for cheating, and that only two absented themselves, from the
                         examination.</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="steamerMovements">
                     <head>STEAMER MOVEMENTS</head>
                     <p>The Ellerman S.B. Fabian sailed from Malta last, and is due here on Friday
                         morning.</p>
@@ -1898,7 +1897,6 @@
                                 Rogers and his fellow shareholders will, besides benefiting their
                                 own pockets, add considerably to the extension of business and
                                 pleasure traffic in Lower Egypt. </p>
-                    
                 </div>
                 <div type="item">
                     <head>FUNERAL OF LAY BEY FAKRHI</head>
@@ -2012,7 +2010,7 @@
                     <p>God Save the King.</p>
                     <p>A. Fawcitt, Bandmaster.</p>
                 </div>
-                <div type="section" element="social">
+                <div type="section" feature="social">
                     <head>PERSONAL AND SOCIAL</head>
                     <div type="item">
                         <p>Prince Djemic Toussoun and Yousri Pacha have been elected members of the
@@ -2115,7 +2113,7 @@
                             better have all we can from this present company and leave the Khédivial
                             Theatre to its abonnés !</p>       
                 </div>
-                <div type="item" element="bulletinBourse">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>(Aujourd'hui à midi et demie)</p>
                     <p>Marché trèsoalme, pen d’affaires, las valeurs routent stationnaires à leurs
@@ -2145,7 +2143,7 @@
                 <div type="masthead">
                     <head>THE EGYPTIAN GAZETTE, TUESDAY, JUNE 12, 1906.</head>
                 </div>
-                <div type="section">
+                <div type="section" feature="circulaire">
                     <head>Circulaire H. De Vries et Boutigny</head>
                     <head>NOTES ET CRITIQUES</head>
                     <div type="item">
@@ -2257,7 +2255,7 @@
                         Padoa Bey, Escoffier, Ancelin, Tassart, de la Barbade, Schuller etc.
                         etc.</p>
                 </div>
-                <div type="section" element="shippingMovements">
+                <div type="section" feature="shippingMovements">
                     <head>ALEXANDRIA HARBOUR</head>
                     <div type="item">
                         <head>ARRIVALS</head>
@@ -3853,13 +3851,13 @@
                         feel the pangs of hunger. Henre proceeded strikes and daily disorders, which
                         the overseers of the workshops recorded in their note books, and then
                         pillage and theft.</p>
-                    <p>"Bands were organized, in whioh civil employés, officers, workmen, even
+                    <p>"Bands were organized, in which civil employés, officers, workmen, even
                         women, figure indiscriminately, and these set to work to exploit the
                         necropolis. They forced the doors of the tombs that they might carry off the
                         objects of value, the jewels, furniture and gorgeous arms which the piety of
                         the relatives had deposited with the corpses.”</p>
                     <p>In ancient Greece, on the other hand, the day’s wages received by the
-                        labourers were for tbe most part very fair.</p>
+                        labourers were for the most part very fair.</p>
                     <p>‘Laoian represents the daily wages of an agricultural laboarer or gardener,
                         on a remote estate lying near the frontiers of Africa, to have been in the
                         time of Timon, four oboli (5 \\. or 11.4 cents). The wages of a porter are
@@ -4068,7 +4066,7 @@
                     <p>Daira Prince Ahmed Seif el-Din Bey, Mohamed Aly Square</p>
                     <p>A. V. Thomson, Secretary for Egypt.</p>
                 </div>
-                <div type="section" scope="sporting">
+                <div type="section" feature="sport">
                     <head>SPORT AND PLAY</head>
                     <div type="item">
                         <head>BRITISH RIFLE CLUB (ALEX)</head>
@@ -4250,7 +4248,7 @@
                     <p>The Ram. C.C.C.'s rating, 39.2, starts with the lakandiriyah at 4
                         p.m.</p>
                 </div>         
-                <div type="item" element="comingEvents">
+                <div type="item" feature="comingEvents">
                     <head>Calendar of Coming Events</head>
                     <table cols="2" xml:id="deg-ta-coce01">
                         <row role="label">
@@ -4348,7 +4346,7 @@
                     </table>
                 </div>
                 <div type="section" scope="advertisement">
-                    <div type="section" element="prepaidAdvertisements">
+                    <div type="section" feature="prepaidAdvertisements">
                         <head>Cheap Prepaid Advertisements</head>
                         <p>Under this heading advertisements are inserted at the following rates
                             :—</p>
@@ -4510,7 +4508,7 @@
                 <div type="masthead">
                     <head>THE EGYPTIAN GAZETTE, TUESDAY, JUNE 12, 1906.</head>
                 </div>
-                <div type="article" element="exportManifests">
+                <div type="article" feature="exportManifests">
                     <head>Export Manifests</head>
                  <p>For CYPRUS, by the S.S. Esparanza, sailed on the 2nd June: </p>
                     <p>Various, 2,162 packages sundries</p>
@@ -5705,7 +5703,7 @@
                             information</hi> apply to the offices at Cairo, Alexandria Damanhour, Tantah
                         or Zagazig. <measure type="indexNo">21416 31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

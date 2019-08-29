@@ -13,7 +13,7 @@
             <editionStmt>
                 <edition>
                     <date when="2018-02-19">February 19, 2018</date>
-                    <gloss>1</gloss>
+                    <gloss>3</gloss>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -1250,7 +1250,7 @@
                 <div type="item">
                     <head>EXPERIMENTS WITH EGYPTIAN COTTON.</head>
                     <p>The “Bulletin" of the Imperial Institute contains a report on some specimens
-                        of cotton from tbe Malay states. The specimens were from Egyptian cottonseed
+                        of cotton from the Malay states. The specimens were from Egyptian cottonseed
                         sown in 1903, and the sample was slightly inferior to standard grown
                         Egyptian cotton in colour, fineness, and softness, but was of good length,
                         varying from 1.2in. to l.5in. Commercial experts valued it at about 5d, per
@@ -1272,7 +1272,7 @@
                 </div>
             </div>
             <div type="page" n="3">
-                <div type="section" element="local">
+                <div type="section" feature="local">
                     <head>LOCAL AND GENERAL.</head>
                     <div type="item">
                         <head>New Sudan Line.</head>
@@ -1388,7 +1388,7 @@
                             the most deserving charities in the country.</p>
                     </div>
                 </div>
-                <div type="section" element="local">
+                <div type="section" feature="local">
                     <head>OUR SPECIAL CABLES.</head>
                     <p>EGYPTIAN COTTON.</p>
                     <div type="item">
@@ -1499,8 +1499,8 @@
                         <p>The appeal made by the Sucreries Company against the decision of the
                             Cairo Mixed Courts will be heard tomorrow (Wednesday).</p>
                     </div>
-                    <div type="item">
-                        <head>BAND PERFORMANCE></head>
+                    <div type="item" feature="bandPerformance">
+              <head>BAND PERFORMANCE></head>
                         <p>By kind permission of Lieut.-Colonel R.C.C. Cox, commanding and officers
                             2nd Batt. Royal Inniskilling Fusiliers, the band will perform the
                             following selection of music on the terrace, National Hotel, on
@@ -1542,7 +1542,7 @@
                     <p>Special terms for officers of the Army of Occupation and Government Officials.
                         <measure type="indexNo">26-11-906</measure></p>
                 </div>
-                <div type="section" element="local">
+                <div type="section" feature="local">
                     <head>A CLEVER SWINDLER.</head>
                     <p>"BARON HERTENSTEIN."</p>
                     <div type="item">
@@ -1623,7 +1623,7 @@
                             arrived at Suez for the first time since the incident and entered the
                             Canal this forenoon.</p>
                     </div>
-                    <div type="item">
+                    <div type="item" feature="steamerMovements">
                         <head>STEAMER MOVEMENTS.</head>
                         <p>The Ellerman S. S. City Venice sailed yesterday for Liverpool direct with
                             a general cargo including 5,815 bales cotton.</p>
@@ -1635,7 +1635,7 @@
                             Malta, on or about March 21.</p>
                     </div>
                 </div>
-                <div type="section" element="local">
+                <div type="section" feature="local">
                     <head>PORT SAID NOTES.</head>
                     <p>MANY TROOPSHIPS.</p>
                     <div type="item">
@@ -1726,7 +1726,7 @@
                     <p>Between the Bristish Consulate and Turf Club.</p>
                     <p><measure type="indexNo">26963-19-4-906</measure></p>
                 </div>
-                <div type="section" element="local">
+                <div type="section" feature="local">
                     <head>THE CAIRO SEASON.</head>
                     <div type="item">
                         <head>ON THE WANE.</head>
@@ -1821,7 +1821,7 @@
                         <p>MR KAZANTZI</p>
                     </div>
                 </div>
-                <div type="section" element="social">
+                <div type="section" feature="social">
                     <head>PERSONAL AND SOCIAL.</head>
                     <div type="item">
                         <p>H.R.H. Prince Chakrabong of Siam and suite, including Phya
@@ -1883,8 +1883,8 @@
                         <p>HEWENS.–– At Alexandria, on the 5th inst., William Walter Hewens, aged
                             31.</p>
                     </div>
-                    <div type="item">
-                        <head>BULLETIN DE LA BOURSE</head>
+                    <div type="item" feature="bulletinBourse">
+                    <head>BULLETIN DE LA BOURSE</head>
                         <p>(Aujourd'hui a midi et demie)</p>
                         <p>Le marche a montre one animation exceptionnelle ce matin. Les valeurs les
                             plus echangees ont ete la Banque d’Athenes, les Estates, les Nungovich
@@ -1906,7 +1906,7 @@
                 </div>
             </div>
             <div type="page" n="4">
-                <div type="section" element="wire">
+                <div type="section" feature="wire">
                     <head>TO-DAY'S TELEGRAMS.</head>
                     <p>THE KING IN PARIS.</p>
                     <div type="item">
@@ -2012,7 +2012,7 @@
                         <p>Mme. Constans, wife of the Ambassador, is dead. (Havas)</p>
                     </div>
                 </div>
-                <div type="section" element="letters">
+                <div type="section" feature="letters">
                     <head>LETTERS TO THE EDITOR.</head>
                     <p>We do not hold ourselves responsible for the opinions expressed by our
                         correspondents, but we wish, in a spirit of fair play to all, to permit ––
@@ -2116,10 +2116,9 @@
                     <p>For terms apply to Mrs. BRYAN SMITH.</p>
                     <p><measure type="indexNo">381-31-5-90627</measure></p>
                 </div>
-                <div type="section">
+                <div type="item" feature="army">
                     <head>ARMY AND NAVY.</head>
                     <p>(FROM OUR CORRESPONDENT).</p>
-                    <div type="item">
                         <p>London, February 22.</p>
                         <p>Colonel Marling, V.C., 10th Hussars, having vacated the command of that
                             regiment, the command has been given to a well known North Country
@@ -2138,16 +2137,12 @@
                             operations in the Transvaal, Orange River Colony, and along the Zululand
                             borders of Natal, in the course of which he was severely wounded
                             (mentioned in despatches, Queen's medal with four clasps).</p>
-                    </div>
-                    <div type="item">
                         <p>Major H. D. A. Harkness, C.B., Welsh Regiment, who for a considerable
                             period was attached to the Egyptian Army, will shortly succeed Colonel
                             Dickinson in command of the 2nd Battalion at Quetta, Bombay. Major
                             Harkness during his service with the Khedive's troops participated in
                             the Sudan operations of 1889, for which he received the medal, star, and
                             4th Class Osmanieh.</p>
-                    </div>
-                    <div type="item">
                         <p>Lientenant P. R. Napier, Army Service Corps, who has been serving for
                             some time with the 54th Company, Portsmouth, has been placed unders
                             orders to join at Cairo in relief of Lieutenant Bleucowe, who has joined
@@ -2156,20 +2151,14 @@
                             Year’s day of 1902. He was with the Army Service Corps, as an attached
                             officer, in the Transvaal campaign, 1901-02 (Queen's medal with two
                             clasps).</p>
-                    </div>
-                    <div type="item">
                         <p>Lieutenant C. F. N. Bartlett, Royal Berkshire Regiment, recently doing
                             duty with the 2nd Battalion at Khartoum, has resigned his commission in
                             that regiment. Mr. Bartlett joined the Royal Berks, in April, 1900, from
                             the 3rd Battalion Oxfordshire Light Infantry, then embodied at
                             Buttevant, Ireland.</p>
-                    </div>
-                    <div type="item">
                         <p>Orders have been issued for the infantry brigades on home service, from
                             the 9th to the 14th, to receive the new short rifle and bandolier
                             equipment.</p>
-                    </div>
-                    <div type="item">
                         <p>In the near future the German naval superiority to France will become
                             conspicuous unless a special effort at once be made to counteract the
                             activity in German dock-yards. It is interesting to note that the world
@@ -2179,8 +2168,8 @@
                             question. All such pleasant relations are liable to change, but the
                             maintenance of the balance of sea power affords a guarantee of European
                             peace.</p>
-                    </div>
-                    <div type="item">
+                </div>
+                    <div type="item" feature="visitList">
                         <head>VISITORS LISTS.</head>
                         <p>SAVOY HOTEL, ASSOUAN.</p>
                         <p>Graf Diepholz, Germany; Prinz Anelsperg, Graf Hielmansegg, Vienna; Baron
@@ -2209,7 +2198,6 @@
                             and Mrs. Wesener, Germany; Mr. and Mrs. Roma, Turin; Mr. Huntley Cairo;
                             Miss Cartwolader, England.</p>
                     </div>
-                </div>
                 <div type="item">
                     <head>National Bank of Egypt.</head>
                     <p>AVIS</p>
@@ -2595,8 +2583,8 @@
                             honours given in later Egyptian times to the queens of Aahmes’s family,
                             and especially to Nefert-ari, lend much colour to M. Foncart’s view.</p>
                     </div>
-                    <div type="item">
-                        <head>PASSENGER LISTS.</head>
+                    <div type="item" feature="passList">
+                    <head>PASSENGER LISTS.</head>
                         <p>ARRIVALS.</p>
                         <p>Per S. S. Tebe, of the Florio-Rubattino Co. arrived on Sunday from Genoa
                             :</p>
@@ -2636,8 +2624,8 @@
                             Winhaus, and 14 third class passengers.</p>
                     </div>
                 </div>
-                <div type="section">
-                    <head>SPORT AND PLAY.</head>
+                <div type="section" feature="sport">
+              <head>SPORT AND PLAY.</head>
                     <div type="item">
                         <head>ALEXANDRIA AMATEUR ATHLETIC CLUB.</head>
                         <p>The following is the list of events (confined) at the 32nd annual meeting
@@ -2680,7 +2668,7 @@
                             3, 4, 5, 6, 7, 8, 9, and 10.</p>
                     </div>
                 </div>
-                <div type="item" scope="calendar" element="comingEvents">
+                <div type="item" scope="calendar" feature="comingEvents">
                     <head>Calendar of Coming Events</head>
                     <table cols="2" xml:id="deg-ta-coce01">
                         <row role="label">
@@ -2868,7 +2856,7 @@
                     <p>A. V. Thomson, Secretary for Egypt.</p>
                     <p><measure type="indexNo">14-11-906</measure></p>
                 </div>
-                <div type="section" element="prepaidAdvertisements">
+                <div type="section" feature="prepaidAdvertisements">
                     <head>Cheap Prepaid Advertisements</head>
                     <p>Under this heading advertisements are inserted at the following rates :—</p>
                     <table rows="4" cols="4">
@@ -3026,7 +3014,7 @@
                     <p><measure type="indexNo">27419-6-3</measure></p>
                 </div>
                 </div>
-                <div type="section" element="weather">
+                <div type="section" feature="weather">
                     <head>DAILY WEATHER REPORT</head>
                     <div type="subsection">
                         <table rend="frame" xml:id="deg-ta-dawr01">
@@ -3495,7 +3483,7 @@
                             son billet presenter la carte du Comite des Jeux.</p>
                     </div>
                 </div>
-                <div type="section" element="shippingMovements">
+                <div type="section" feature="shippingMovements">
                     <head>SHIPPING MOVEMENTS</head>
                     <p>ALEXANDRIA HARBOUR.</p>
                     <p>ARRIVALS.</p>
@@ -3514,9 +3502,9 @@
                     <p>Southgate Brit. s. capt. Golding, Constantinople, in ballast.</p>
                     <p>Moltke, Germ. yacht, capt. Ruser, Syria.</p>
                 </div>
-                <div type="section">
+                <div type="section" feature="circulaire">
                     <head>Circulaire H. de Vries et Boutigny</head>
-                    <div type="item">
+                   
                         <head>NOTES ET CRITIQUES</head>
                         <p>Le Caire, 5 mars.</p>
                         <p>A Londres, le Consolide anglais a cloture avant hier a 90 1/2, soit en
@@ -3587,7 +3575,7 @@
                             les achats du commerce de la s. eculation, l’importance des exportations
                             et les ventes de Liverpool, a ouvert ce matin a 19 15/16 pour atteindre
                             20 1/16 et cloture a 19 3/4.</p>
-                    </div>
+                    
                 </div>
                 <div type="article" xml:id="deg-el-etcl1">
                     <head>EASTERN TELEGRAPH CO. LTD.</head>

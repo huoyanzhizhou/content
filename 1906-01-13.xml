@@ -1950,7 +1950,7 @@
                         Rabah being about a length and a half in front of The Clown. </p>
                 </div>
                 <div type="item">
-                    <head> A. S. C. — </head>
+                    <head>A. S. C. — </head>
                     <p>We are asked by the clerk of the coarse to give notice that the race course
                         will be open for trial gallops on Wednesday morning next, the 17th inst.,
                         from six to ten.</p>
@@ -2095,9 +2095,8 @@
                         <p>Mr. F. W. [Chance, Radical, Carlisle, Mr. Taylor, U., Liverpool, and Mr.
                             B. Jones, Radical, Swansea, have been returned unop- posed. (Reuter)</p>
                     </div>
-               
                 <div type="item">
-                    <head> STATE OF RUSSIA. PACIFICATION OF BAlTIC -PROVINCES. </head>
+                    <head>STATE OF RUSSIA. PACIFICATION OF BAlTIC -PROVINCES. </head>
                     <p>St. Petersburg, January 12 </p>
                     <p>The pacification of the Baltic provinces is proceeding steadily. </p>
                     <p>An official despatch states that two bombs were thrown from an Armenian
@@ -2725,7 +2724,7 @@
                 </div>
                 <cols n="6"/>
                 <cb n="2"/>
-                <div type="item">
+                <div type="item" feature="chroniqueFinanciere">
                     <head>CHRONIQUE FINANCIERE </head>
                     <p>Alexandrie, 12 janvier. </p>
                     <p>An point de vue financier l’annee 1906 se présenté sous nil tout autre aspect
@@ -3055,7 +3054,6 @@
                 <cols n="6"/>
                 <cb n="2"/>
                 <div type="item" xml:lang="fr" feature="circulaire"><head>Circulaire H. de Vries et Boutigny </head>
-                    
                     <p>NOTES ET CRITIQUES </p>
                     <p>Caire, 12 janvier. </p>
                     <p>Londres nous a transmis des cours invariés sur le Consolidé anglais, ainsi
@@ -5456,7 +5454,7 @@
                 </div>
                 <cols n="6"/>
                 <cb n="2"/>
-                <div type="item">
+                <div type="item" feature="londonLetter">
                     <head>OUR LONDON LETTER.</head>
                     <p>(From our Correspondent.) </p>
                     <p>London. January 6. </p>
@@ -5531,7 +5529,7 @@
                         But, even for a voice from Davy ’Jones’s Locker, the gallant Admiral’s
                         latest statement is so Ardently remarkable. Answering ex-Captain Klado on
                         points as to the position of the Russian ships at the beginning of the
-                        disastrous battle, he winds np by calmly remarking that, if Togo had not
+                        disastrous battle, he winds up by calmly remarking that, if Togo had not
                         routed him, the British Squadron, which was lying in wait for the purpose at
                         Wei-hai-wei, would have received the order to annihilate the Russians. From
                         Rozhdestvensky himself this is not surprising; his eyes, as the Dogger Bank
@@ -6645,7 +6643,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

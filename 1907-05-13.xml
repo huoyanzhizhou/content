@@ -13,7 +13,7 @@
             <editionStmt>
                 <edition>
                     <date when="2018-01-17">January 17, 2018</date>
-                    <gloss/>
+                    <gloss>1</gloss>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -256,8 +256,6 @@
                                 rend="bold">R. Broadbent</hi>, Port Said, <hi rend="italic"
                                 >Agents</hi>. <measure type="indexNo">19-1-907</measure></p>
                     </div>
-
-
                     <div type="advert" xml:id="deg-ad-nkh01">
                         <head>NEW KHEDIVIAL HOTEL, ALEXANDRIA.</head>
                         <p>First-class Hotel. Situated in Rosetta Avenue, the finest quarter in the
@@ -1511,7 +1509,7 @@
                     <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and the Sudan for</head>
+                        <head>Sole Agents in Egypt and the Sudan for</head>
                         <row>
                             <cell>J. Calvet &amp; Co.</cell>
                             <cell>Bordeaux</cell>
@@ -1828,7 +1826,7 @@
 
                 <cb n="3"/>
                 <div type="advert" xml:id="deg-ad-tas02">
-                    <head> CARPETS. </head>
+                    <head>CARPETS. </head>
                     <p>TURKEY PERSIA</p>
                     <p>T. A.SPARTALI &amp; Co</p>
                     <p>Largest manufacturers in the world of Oriental carpets, all hand made </p>
@@ -1862,7 +1860,7 @@
                     <p><measure type="indexNo">2516</measure></p>
                 </div>
                 <div type="item">
-                    <head> The Egyptian Gazette.</head>
+                    <head>The Egyptian Gazette.</head>
                     <p>SUBSCRIPTIONS.</p>
                     <p>Alexandria, Cairo, and the Interior of Egypt (including delivery in
                         Alexandria or postage to subscriber’s address) P.T.</p>
@@ -1982,8 +1980,8 @@
             </div>
 
             <div type="page" n="3">
-                <div type="section" element="local">
-                    <head> LOCAL AND GENERAL</head>
+                <div type="section" feature="local">
+                    <head>LOCAL AND GENERAL</head>
                     <div type="item">
                         <head>Alexandria and Cairo Bourses.</head>
                         <p>The Finance Ministry has granted the sum of £7,000 for the installation
@@ -2124,8 +2122,6 @@
                         heart by those who on a superficial acquaintance with the country would
                         echange the ‘steady jog-trot’ of the experienced administrator for a
                         reckless gallop.”</p>
-
-
                     <div type="item">
                         <head>“STANDARD.”</head>
                         <p>“From first to last, the great Egyptian Consul has dealt faithfully, with
@@ -2172,7 +2168,7 @@
                             reticence."</p>
                     </div>
                     <div type="item">
-                        <head> “DAILY NEWS.”</head>
+                        <head>“DAILY NEWS.”</head>
                         <p>“Lord Cromer’s farewell to the country he has governed with such success
                             and distinction was necessarily moving and touching occasion. In his
                             retrospect of his long career he was able to point to triumphs of
@@ -2286,7 +2282,7 @@
                     <p>Agents at Alexandria</p>
                     <p>ALEXANDRIA BONDED WAREHOUSE CO. LTD.</p>
                 </div>
-                <div type="item" element="sport">
+                <div type="item" feature="sport">
                     <head>ALEXANDRIA SPORTING CLUB-</head>
                     <p>SECOND SUMMER MEETING.</p>
                     <p>Although the attendance was not so large as that of Monday, the second day’s
@@ -2501,7 +2497,7 @@
                         prepared to take its part in providing the sum required. What he suggested
                         might not be immediately feasible, but deserved consideration.</p>
                 </div>
-                <div type="item" element="social">
+                <div type="item" feature="social">
                     <head>PERSONAL AND SOCIAL</head>
                     <p>The exequatur, giving official recognition to Sir Eldon Gorst as H. B. M’.s
                         Consul-General in Egypt, having arrived from Constantinople, Sir Eldon Gorst
@@ -2584,7 +2580,7 @@
             </div>
 
             <div type="page" n="4">
-                <div type="section" element="wire">
+                <div type="section" feature="wire">
                     <head>THE EGYPTIAN GAZETTE, MONDAY MAY 13, 1907</head>
                     <p>TELEGRAMS.</p>
                     <p>CALIFORNIAN RAILWAY ACCIDENT.</p>
@@ -2619,8 +2615,8 @@
                 </div>
                 <div type="item">
 
-                    <head> EGYPTIAN MARKETS LIMITED.</head>
-                    <head> INTERESTING DETAILS OF THE BUSINESS.</head>
+                    <head>EGYPTIAN MARKETS LIMITED.</head>
+                    <head>INTERESTING DETAILS OF THE BUSINESS.</head>
                     <p>The annual general meeting of the Egyptian Markets, Ltd., was hold on the
                         29th ulto at Winchester House, Old Broad-street, E.C., Mr. F. E. Robertson,
                         C.I.E. (the Chairman of the company), presiding.</p>
@@ -2709,7 +2705,7 @@
                         anti I therefore do not propose to comment upon them.</p>
 
                     <div type="item">
-                        <head> DIRECTORS VISIT TO EGYPT.</head>
+                        <head>DIRECTORS VISIT TO EGYPT.</head>
                         <p>Before I sit down I may toll you that I paid a short visit to Egypt in
                             January to settle about taking up the nitrate business and Major Le
                             Breton was there on other business from November to March, but gave much
@@ -2838,8 +2834,8 @@
                             not-to-be-despised factor in our own, and to a greater extent in other
                             navies. </p>
                     </div>
-                    <div type="item">
-                        <head> ARMY AND NAVY</head>
+                    <div type="item" feature="army">
+                        <head>ARMY AND NAVY</head>
                         <head>( From OUr Own Correspondent. ) London,’ May 2nd.</head>
                         <p>Lieutenant Beauchamp Seymour, King's Royal Rifle Corps, and Captain
                             Williams, Army Veterinary Corps, have been seconded for service with the
@@ -2897,8 +2893,8 @@
                             not-to-be-despised factor in our own, and to a greater extent in other
                             navies. </p>
                     </div>
-                    <div type="article" element="sport">
-                        <head> CRICKET. </head>
+                    <div type="article" feature="sport">
+                        <head>CRICKET. </head>
                         <head>RAILWAY v. STAFF DEPTS.</head>
                         <p>The Staff and Departments brought down a strong side to the Institute on
                             Friday last. The home captain winning the toss took first knock. Revd.
@@ -3089,7 +3085,7 @@
                         </row>
                     </table>
                 </div>
-                <div type="article" element="exportManifests">
+                <div type="article" feature="exportManifests">
                     <head>Export Manifests</head>
                     <table rows="15" cols="3" xml:id="deg-ta-exma01">
                         <head>For <placeName>MARSILLES</placeName> and
@@ -3668,7 +3664,7 @@
                             </table>
                         </div>
                     </div>
-                    <div type="section" element="weather">
+                    <div type="section" feature="weather">
                         <head>DAILY WEATHER REPORT</head>
                         <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
                         <div type="subsection">
@@ -3866,12 +3862,10 @@
                         <p>Davies Bryan &amp; Co., Cairo &amp; Alexandria.</p>
                     </div>
                 </div>
-
-
             </div>
 
             <div type="page" n="6">
-                <div type="section" element="bulletinBourse">
+                <div type="section" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE.</head>
                     <p>(Aujourd'hui à midi et demie).</p>
                     <p>La taux d’escompte libre eut remonté à Londres à 3 1/8. Ici la lourdeur
@@ -3962,7 +3956,7 @@
                         poste ; pour l'étiauger 10 P.T. de-port en sus.</p>
                 </div>
 
-                <div type="section" element="prepaidAdvertisements">
+                <div type="section" feature="prepaidAdvertisements">
                     <head>Cheap Prepaid Advertisements</head>
                     <p>Under this heading advertisements are inserted at the following rates :—</p>
                     <table rows="4" cols="4">
@@ -3999,7 +3993,7 @@
                         any address if a few stamps are sent by the advertiser to cover postage.</p>
 
                     <div type="item">
-                        <head> A GARD’S INTERNATIONAL INDUSTRIE n AND TRADE MARKS REGISTER.—</head>
+                        <head>A GARD’S INTERNATIONAL INDUSTRIE n AND TRADE MARKS REGISTER.—</head>
                         <p> a useful business directory containing addresses of ill important
                             business firms of Great Britain, the Continent, and Egypt. Circulating
                             all over Europe ind America. Price—One pound Sterling. Post Free.
@@ -4009,19 +4003,19 @@
 
                     </div>
                     <div type="item">
-                        <head> PLEASANT, SOCIAL HOME</head>
+                        <head>PLEASANT, SOCIAL HOME</head>
                         <p>offered four gentlemen (lesiring superior accommodation and not liking
                             HôtëTlifo—Excellent fable—Electrically lighted throughout—Near Museum
                             and River—Special Summer terms, Box 893, Cairo. 30176-12-9</p>
                     </div>
                     <div type="item">
-                        <head> A LOUER </head>
+                        <head>A LOUER </head>
                         <p>chez une dame allemande, chambre meublée avec ou Sans pension. S'adresser
                             rue d'Allemagne, No. 26. 30205-6-10</p>
                     </div>
 
                     <div type="item">
-                        <head> BORMÂN A Co.,</head>
+                        <head>BORMÂN A Co.,</head>
                         <p> High Class Tailors, Breeches ami Skirt makers announce that they are
                             extending their staff' to enable them to complete, the ttemendous amount
                             of orders that they are being entrusted. with this season, faltest
@@ -4029,7 +4023,7 @@
                         <p>30261-6-1</p>
                     </div>
                     <div type="item">
-                        <head> BORMAN A CO, </head>
+                        <head>BORMAN A CO, </head>
                         <p>the Alexandria Lending Library new catalogue can bo had on application,
                             1400 books. 30262-6 1</p>
                     </div>
@@ -4052,7 +4046,7 @@
                             monthly, inclusive — Bpx 893, Cairo. 30258-6-1</p>
                     </div>
                     <div type="item">
-                        <head> DEMOISELLE AUTRICHIENNE </head>
+                        <head>DEMOISELLE AUTRICHIENNE </head>
                         <p>désire place première femme de chambre gouveinante pour enfants Adresse
                             Muhr coiffeui Cairo. . 30240-3-3</p>
                     </div>
@@ -4097,7 +4091,7 @@
                                 H. S. ‘.‘Egyptian Gazette," Alexandria. 302.60-3-1</p>
                         </div>
                         <div type="item">
-                            <head> TO LET</head>
+                            <head>TO LET</head>
                             <p>Two largo rooms, togother or singly., including x breakfast, in house
                                 at Ibrahimieh near the sea. Magnificent view. Delightfully cool. For
                                 particulars address. No 30214 "Egyptian Gazette.” 302146 5</p>
@@ -6448,7 +6442,7 @@
                         porter a la connaissance du Public qu’a partir du 10 courant, le bureau
                         telegraphique du Reservoir d’Assouan sera on vert de 8 a.m. a 12 pm. et de
                         2.30 p.m. a 6 p.m. ; lea Dimanches de 8 a.m. a 1 p.m. seulement. </p>
-                    <p>30218-2-1 Le Caire, le Hi Mai 1707.</p>
+                    <p>30218-2-1 Le Caire, le Hi Mai 1707.</p></div><div type="section" xml:lang="fr" feature="bureauPlacement">
                     <p>Societe Internatiouale des Employes</p>
                     <p>D' ALEXANDRIE.</p>
                     <p>SiEGe Social RUN SIDI el MEtwalli No. 30 ET RuE Hammam el Zahab No i aU IeR

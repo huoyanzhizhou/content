@@ -1046,7 +1046,7 @@
                         <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                             use.</p>
                         <table>
-                            <head> Sole Agents in Egypt and Soudan for</head>
+                            <head>Sole Agents in Egypt and Soudan for</head>
                             <row>
                                 <cell>J. Calvet &amp; Co.</cell>
                                 <cell>Bordeaux.</cell>
@@ -1256,7 +1256,6 @@
                         <p>Best remedy for constipation, diseases of the liver, discomforts kidneys,
                             piles.</p>
                     </div>
-                
                 <cols n="6"/>
                 <cb n="3"/>
                 <div type="section" feature="prepaidAdvertisements">
@@ -4045,7 +4044,7 @@
                     <head>AUSTRIA AND HUNGARY.</head>
                     <p>Vienna, May 30. </p>
                     <p>The Chamber has adopted, by 240 votes against 8, a motion affirming the
-                        necessity o a onion of the parliamentary parties agains the separatist
+                        necessity o a union of the parliamentary parties agains the separatist
                         proceedings of Hungary. (H.)</p>
                 </div>
                 <div type="item">
@@ -4336,7 +4335,7 @@
                     <p>In anticipation of the new issne, the bears were actively at work early tin
                         the week in getting rid of Great Western stock and ft one time the prim was
                         forced down to 130 3/4. The issue was not cordially received.The old stock
-                        however came in for support again, the prim going np to 131}. With the
+                        however came in for support again, the prim going up to 131}. With the
                         exception of slight buying of the shares of two or three of the heavies, the
                         other sections of the home railway market have remained dull throughout. </p>
                     <p>Americans. </p>
@@ -4660,11 +4659,14 @@
                     <p>For <placeName>MALTA</placeName> and <placeName>MANCHESTER</placeName>by the
                         S.S. "Spartan Prince," sailed on the <date when="1906-05-19">19th
                         May</date>:</p>
-                    <p>J. &amp; A. Abouchauab, 437 bags oil cake Carver Bros. &amp; Co. Ltd, 400
-                        tons cotton seed Anglo-Egyptian Bank, 198 bags gum Anglo-Eg. Spinning, 50
-                        bales cotton thread L Heller, 1,000 barrels molasses J. Ross &amp; Co. 374
-                        empty lands Y. Pappa &amp; Hanna Slaeh, 160 crates quails Various, 49
-                        packacges sundries</p>
+                    <p>J. &amp; A. Abouchauab, 437 bags oil cake </p>
+                    <p>Carver Bros. &amp; Co. Ltd, 400 tons cotton seed </p>
+                    <p>Anglo-Egyptian Bank, 198 bags gum </p>
+                    <p>Anglo-Eg. Spinning, 50 bales cotton thread </p>
+                    <p>L Heller, 1,000 barrels molasses </p>
+                    <p>J. Ross &amp; Co. 374 empty lands </p>
+                    <p>Y. Pappa &amp; Hanna Slaeh, 160 crates quails </p>
+                    <p>Various, 49 packacges sundries</p>
                     <table rows="5" cols="3" xml:id="deg-ta-exma01">
                         <row>
                             <cell>Moursi Bros.,</cell>
@@ -4818,7 +4820,7 @@
                         </row>
                     </table>
                     <table rows="1" cols="3">
-                        <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
+                        <!-- uncorrected template --><head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
                             by the S.S. "Menephtah," sailed on the <date when="1906-05-22">22nd
                                 May</date>:</head>
                         <row>
@@ -5939,7 +5941,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

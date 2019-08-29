@@ -1556,7 +1556,7 @@
                 </div>
                 <cb n="3"/>
                 <div type="item">
-                    <head> EGYPTIAN DELTA LAND à INVESTMENT COMPANY LIMITED.</head>
+                    <head>EGYPTIAN DELTA LAND à INVESTMENT COMPANY LIMITED.</head>
                     <p>NOTICE is hereby given to the Shareholders of the above Company that by
                         resolution of the Board and in pursuance of the terms of the Prospectus a
                         2nd Call of 5s. per share has been made on the shares of this Company and it
@@ -3335,7 +3335,6 @@
                 <cb n="1"/>
                 <div type="item" feature="exportManifests">
                     <head>EXPORT MANIFESTS</head>
-                    <p>
                         <table rows="8" cols="5">
                             <head>For Liverpool, by the S.S. &quot;Belgravian&quot;, sailed on the
                                 27th January:</head>
@@ -3564,7 +3563,6 @@
                                 <cell/>
                             </row>
                         </table>
-                    </p>
                     <p>Pour PORT SAID et MERSINE, par le bateau ang. "Dakahlieh", parti le 22
                         avril:</p>
                     <p>Divers, 2,049 sacs riz, 410 sacs sucre, 100 sacs oignons, 22 sacs henné, 25

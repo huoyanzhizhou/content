@@ -96,8 +96,6 @@
                     <p>Messrs. HABELDEN &amp; Co. ALEXANDRIA.</p>
                     <p>F. G. DAVIDSON, Superintendent P. &amp; O. S. N. Company in Egypt SUEZ.</p>
                 </div>
-
-
                 <div type="advert" xml:id="deg-ad-blm01">
                     <head>BIBBY LINE MAIL STEAMERS.</head>
                     <p>Special Reduced Rates During Summer Season,</p>
@@ -210,9 +208,6 @@
                         £10,000,000.</p>
                     <p>31-12-905. Policies issued at SUEZ by G. BEYTS &amp; Co., Agents.</p>
                 </div>
-
-
-
                 <div type="advert" xml:id="deg-ad-phc01">
                     <head>P. HENDERSON &amp; CO’s LINE.</head>
                     <p>Steamers leave SUEZ and PORT SAID fortnightly for LONDON or LIVERPOOL
@@ -800,7 +795,7 @@
                     <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and Soudan for</head>
+                        <head>Sole Agents in Egypt and Soudan for</head>
                         <row>
                             <cell>J. Calvet &amp; Co.</cell>
                             <cell>Bordeaux.</cell>
@@ -1375,8 +1370,6 @@
                     <p>J3ignor Fortis declines to form a Cabinet. A ! decree fri m the King
                         appoints Signor Tittoni as Premier in-the interim. The Ministry is otherwise
                         unchanged. (Reuter.)</p>
-               
-                
                 <cb n="2"/>
                 <div type="item">
                     <head>Storms in Great Britain</head>
@@ -1686,7 +1679,7 @@
                 <!-- Lake of Como-Como -->
                 <cols n="6"/>
                 <cb n="5"/>
-                <div type="item">
+                <div type="item" feature="shareMarket">
                     <head>Egyptian Share Market</head>
                     <p>London, March 10.</p>
                     <p>The Stock Markets still maintain a firm tone here, and investment stocks
@@ -1807,7 +1800,7 @@
                         accompanied by Mr. E. McCaul and Miss T. Power.</p>
                     <p>Mr. Maraini, member of the Italian Parlia­ment and chairman of several large
                         companies in Italy and ontside his own oountry, has just returned to Cairo
-                        with his charming wife. They have been making a trip np the Nile in a
+                        with his charming wife. They have been making a trip up the Nile in a
                         dahabieh with some friends, inclading Mr. Mueller, his brother-in-law, and
                         Mr. Roesti, the well-known Milan banker. AU are staying at the Savoy
                         Hotel.</p>
@@ -4788,7 +4781,7 @@
                         Mr. Boys, as a pierrot, Mr. Forestier-Walker, as a Japanese, and Mr.
                         Francis, as a decadent golfer, were all goodj and there was a remarkably
                         black Topsy, who proved to be Miss Hume. Mr. S. de Bilinski and Mr. Langley
-                        wore hunting pink. Mrs. Keatinge’s was also a very pretty oostume,and Miss
+                        wore hunting pink. Mrs. Keatinge’s was also a very pretty costume,and Miss
                         Coles wore a very pretty green dress and hat, her sister looking very well
                         in white and poudrle. Mrs. Ray and Mme de Gorastazu, powdered and in XVIIIth
                         century toilettes, were very conspicuous, and we must not forget Miss Price,
@@ -4951,113 +4944,8 @@
             <div type="page" n="6">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="item" feature="exportManifests">
+                <div type="item" feature="exportManifests" status="empty">
                     <head>Export Manifests</head>
-                    <table rows="15" cols="3" xml:id="deg-ta-exma01">
-                        <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
-                            by the S.S. "Rameses," sailed on the <date when="1905-06-30">30th
-                                June</date>:</head>
-                        <row>
-                            <cell>E. Toriel &amp; fils,</cell>
-                            <cell><measure>44</measure></cell>
-                            <cell>bales cotton</cell>
-                        </row>
-                        <row>
-                            <cell>Cattaui fr. &amp; Co.,</cell>
-                            <cell><measure>106</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Walker &amp; Meimarachi Ltd,</cell>
-                            <cell><measure>300</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>E. Barber &amp; Son</cell>
-                            <cell><measure>71</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari</cell>
-                            <cell><measure>173</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>M. L. Carasso,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>case cigarettes</cell>
-                        </row>
-                        <row>
-                            <cell>N. Soussa frères,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Alexandria Bonded Warehouse,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>B. Hazan &amp; Co.,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. N. Tocos &amp; Co.,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Sucreries &amp; Raff. d'Egypte,</cell>
-                            <cell><measure>2000</measure></cell>
-                            <cell>bags sugar</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari,</cell>
-                            <cell><measure>5</measure></cell>
-                            <cell>packages tobacco</cell>
-                        </row>
-                        <row>
-                            <cell>E. Hatoun,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>cases curios</cell>
-                        </row>
-                        <row>
-                            <cell>Mrs. Richmond,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>packages effects</cell>
-                        </row>
-                        <row>
-                            <cell>A. B. Burns,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>W. Snow Esq.,</cell>
-                            <cell><measure>6</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Thos. Cook &amp; Son,</cell>
-                            <cell><measure>7</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. H. Baldwin,</cell>
-                            <cell><measure>12</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>J. Setton &amp; Co.,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>cases furniture</cell>
-                        </row>
-                        <row>
-                            <cell>Various,</cell>
-                            <cell><measure>11</measure></cell>
-                            <cell>packages sundries</cell>
-                        </row>
-                    </table>
                 </div>
                 <div type="item" xml:id="deg-el-reut01">
                     <head>REUTER'S TELEGRAMS</head>
@@ -5632,7 +5520,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -5816,7 +5704,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -6229,8 +6117,6 @@
                             Alassio (Western Riviera). The Grand Hotel, Alassio
                             The Salisbury Hotel.
                             Val d'Olivo -->
-
-
                 <div type="item">
                     <head>Route II. Northern Italy Italian Lakes Italian &amp; French Riviera</head>
                     <p>GENOA (La Superba). -The most picturesque and interesting city in Italy, with
@@ -6334,44 +6220,31 @@
                 Grand Hotel Savoie.
                 Hotel Smith.
                 Hotel De La Ville.
-                
                 Brienz (Switzerland).
                 Hotel de la Croix Blanche
-                
                 Botzen (South Tyrol).
                 Hotel Victoria
-                
                 Hotel Bristol
-                
                 Milan.
                 Hotel de France
-                
                 Venice.
                 Roayl Hotel
                 Daniel
-                
                 Lido (Venice) Lido
                 Bagni Lido - Venice
                 Grand Hotel Des Bains.
                 The Grand Hotel, Lido.
-                
                 Innsbruck (Tyrol).
                 Carl Kayser's Pension-Hotel.
-                
                 Rapallo.
                 Gand Hotel Beau Rivage
-                
                 Lake of Como (Cernobbio).
                 Grand Hotel Villa d'Este.
-                
                 Como.
                 "Plinius" Grand Hotel
-                
                 Bellagio, on the Lake of Como (Italy).
                 Grand Hotel Bellagio.
-                
                 Hotel Grande Bretagne
-                
                 La Bourboule-Les-Bains (France).
                 Hotel Des Iles Britanniques.-->
 
@@ -6483,55 +6356,37 @@
                 <!--Hotels
                     Lugano.
                     The Grand Hotel.
-                    
                     Hotel Beau Regard et Continental
-                    
                     Paradiso-Lugano
                     Hotel Europe
-                    
                     Lugano
                     Hotel du Parc-Beausejour
-                    
                     Grand Hotel Splendid
-                    
                     (Engadine) Maloja (Switzerland)
                     The Hotel Kursaal Maloja.
-                    
                     Lugano (Lake of Lugano).
                     Grand Hotel Metropole Et Monopole.
-                    
                     Lausanne.
                     Hotel Beau Rivage.
-                    
                     Monte Generoso.
                     Hotel-Pension Mte. Generoso
                     Hotel Kulm
-                    
                     Montreux.
                     Hotel de l'Europe.
-                    
                     Cabourg.
                     Grand Hotel et Casino
-                    
                     Budapest.
                     Hotel Bristol.
-                    
                     Hotel Pannonia.
-                    
                     Rigi.
                     Rigi Staffel Hotel and Pension.
-                    
                     Basle.
                     Three Kings Hotel.
-                    
                     Engelberg.
                     Kurhaus Hotel at Pension Titlis.
-                    
                     Grand Hotel et Kuranstalt.
-                    
                     Badenweiler (Black Forest)
                     Hotel Sommer, Karlsruher Hof.
-                    
                     Algeciras (Andalusia).
                     Hotel Reina Cristina.-->
 
@@ -6643,54 +6498,36 @@
                 <!-- Hotels.
                 Locarno - Lake Maggiore
                 The Grand Hotel
-                
                 Heiden (Switzerland).
                 Freihof and Schweizerhof
-                
                 Lucerne.
                 Beau Rivage
-                
                 Grand Hotel National
-                
                 hotel de l'Europe
-                
                 Victoria Hotel
-                
                 Florence.
                 Anglo-American Hotel.
-                
                 Geneva.
                 Grand Hotel de la Paix
-                
                 homburg or Homburg les Bains
                 Weber's Hotel Englischer Hof.
-                
                 Hotel Minerva
-                
                 Heidelberg
                 Hotel Metropole
-                
                 Hornberg, Black Forest (Germany).
                 Hotel and Kurhaus Castle Hornberg.
-                
                 Post Hotel - Hornberg
-                
                 Kiel.
                 Hotel Germania
                 First Class
-                
                 Luxemburg.
                 Grand Hotel Brasseur
-                
                 Aix Les Bains
                 Grand Hotel d-Aix
-                
                 Regina-GRand Hotel Bernascon
-                
                 Aachen-Aid-La-Chapelle.
                 Grand Hotel Henrion
                 Corneliusbath
-                
                 Hotel Du Dragon D'Or-->
 
                 <cols n="6"/>
@@ -6800,55 +6637,37 @@
                 <!--Hotels.
                     Corfu.
                     Grand Hotel D'Angleterre et Belle Venise
-                    
                     Athens (Greece).
                     Hotel de la Grande Bretagne.
-                    
                     Tourist Agency
                     Polemy Bros. Athens
-                    
                     Tunis.
                     Grand Hotel de Paris
-                    
                     Algiers.
                     Hotel Continental et d'Orient
-                    
                     Grand Hotel St. George
-                    
                     Tangiers.
                     Hotel Cecil
                     Hotel de France
-                    
                     Pau.
                     Grand Hotel Gassion.
-                    
                     Hotel de France
-                    
                     St. Margherita (Levante), Italy.
                     New Hotel Metropole.
-                    
                     St. Malo (France).
                     Grand Hotel Franklin
-                    
                     St. Jean-De-Luz (Basses Pyrenees) France.
                     Hotel d'Angleterre et Hotel de la Plage
-                    
                     Prague.
                     Hotel Monopol.
-                    
                     Ostend.
                     Hotel Regina.
-                    
                     Brussels.
                     Grand Hotel Mengelle
-                    
                     Hotel Metropole
-                    
                     Paris.
                     Hotel Bellevue,
-                    
                     Hotel de la Grand Bretagne,
-                    
                     Mirabeau Hotel et Restaurant.-->
 
                 <cols n="2"/>

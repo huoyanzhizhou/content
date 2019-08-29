@@ -1689,7 +1689,7 @@
                         <head>S.S. GIBRALTAR.</head>
                         <byline>(From our Correspondent).</byline>
                         <dateline>Suez, Taesday.</dateline>
-                        <p>After the reappearance of fire in the oargo of sugar on board the SB.
+                        <p>After the reappearance of fire in the cargo of sugar on board the SB.
                             Gibraltar, No. 1 and 2 holds were flooded with water and the vessel
                             was-beached on the sand in abont 17 feet of water. The water is now
                             being pumped out Much of the cargo in the foreholdv is destroyed by
@@ -1734,8 +1734,6 @@
                         tfternoon with passengers, mails, and general oa%o. The BA Oarib Prinoe left
                         Miaratah yester- day end is das to arrive at Alexandria on Friday.</p>
                 </div>
-
-
                 <cb n="5"/>
 
                 <div type="section" feature="notesConstantinople">
@@ -1795,7 +1793,7 @@
                         taillfe, identiquee sur lee deox oartona. Lea ailex d'un. dee oartona montrd
                         à titre de oomparaisqn sortent d’Bgypte et out lea formes oaraoteristiqoes
                         des si lex taillde Egyptians de l’dpoque ntfolithique. Ceux de l'autre
-                        carton out ritri tronvds, bien en plaoedans la sable, sor lea llanos d’nn
+                        carton out ritri tronvds, bien en placedans la sable, sor lea llanos d’nn
                         vallon, dans one petite He de la Mlditerrande, 4 parrois abroptes, l'lle
                         Rioo, 5 treize kilometres de Marseille et 4 trois kilo- metres de la cflte
                         de Proveooe. • 1 Ia superposition dee debris des diverse* civilisations qui
@@ -2455,113 +2453,7 @@
                         levee à 6 p.m.</p>
 
                 </div>
-                <div type="item" feature="exportManifests">
-                    <head>Export Manifests</head>
-                    <table rows="15" cols="3" xml:id="deg-ta-exma01">
-                        <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
-                            by the S.S. "Rameses," sailed on the <date when="1905-06-30">30th
-                                June</date>:</head>
-                        <row>
-                            <cell>E. Toriel &amp; fils,</cell>
-                            <cell><measure>44</measure></cell>
-                            <cell>bales cotton</cell>
-                        </row>
-                        <row>
-                            <cell>Cattaui fr. &amp; Co.,</cell>
-                            <cell><measure>106</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Walker &amp; Meimarachi Ltd,</cell>
-                            <cell><measure>300</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>E. Barber &amp; Son</cell>
-                            <cell><measure>71</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari</cell>
-                            <cell><measure>173</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>M. L. Carasso,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>case cigarettes</cell>
-                        </row>
-                        <row>
-                            <cell>N. Soussa frères,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Alexandria Bonded Warehouse,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>B. Hazan &amp; Co.,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. N. Tocos &amp; Co.,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Sucreries &amp; Raff. d'Egypte,</cell>
-                            <cell><measure>2000</measure></cell>
-                            <cell>bags sugar</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari,</cell>
-                            <cell><measure>5</measure></cell>
-                            <cell>packages tobacco</cell>
-                        </row>
-                        <row>
-                            <cell>E. Hatoun,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>cases curios</cell>
-                        </row>
-                        <row>
-                            <cell>Mrs. Richmond,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>packages effects</cell>
-                        </row>
-                        <row>
-                            <cell>A. B. Burns,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>W. Snow Esq.,</cell>
-                            <cell><measure>6</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Thos. Cook &amp; Son,</cell>
-                            <cell><measure>7</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. H. Baldwin,</cell>
-                            <cell><measure>12</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>J. Setton &amp; Co.,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>cases furniture</cell>
-                        </row>
-                        <row>
-                            <cell>Various,</cell>
-                            <cell><measure>11</measure></cell>
-                            <cell>packages sundries</cell>
-                        </row>
-                    </table>
+                <div type="item" feature="exportManifests" status="empty">                 <head>Export Manifests</head>
                 </div>
                 <div type="section" xml:lang="fr" xml:id="deg-el-mmeb01">
                     <head>MARCHE DE MINET-EL-BASSAL</head>
@@ -5421,6 +5313,7 @@
                         <row role="label">
                             <cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
                         </row>
+                        <!--values are copied from template-->
                         <row>
                             <cell>Novembre</cell>
                             <cell>Tal.</cell>

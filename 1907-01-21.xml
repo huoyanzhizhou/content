@@ -13,7 +13,7 @@
             <editionStmt>
                 <edition>
                     <date when="2018-01-17">January 17, 2018</date>
-                    <gloss>1</gloss>
+                    <gloss>3</gloss>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -164,7 +164,7 @@
                         weeks to LARNACA and LIMASSOL (Cyprus).</p>
                     <p><hi rend="bold">RED SEA LINE.</hi></p>
                     <p>Steamers leave Suez fortnightly on Wednesday at 6 p.m. for Port Sudan and
-                        Snakin direct returning from Suakin every Wednesday noon. Every Monday at 6
+                        Suakin direct returning from Suakin every Wednesday noon. Every Monday at 6
                         p.m. a steamer leaves Suez for Jeddah continuing every other week to Suakin,
                         Massowah, Hedeirab. Aden. Intermediate steamers do not proceed beyond Jeddah
                         at call at Tor, (for Sinai) El Wedj and Yambo as required.</p>
@@ -1736,7 +1736,7 @@
                         une guerison radicale!</p>
                     <p>En vente chez tous Pharmaciens et Droguistes.</p>
                 </div>
-                <div type="section" element="weather">
+                <div type="section" feature="weather">
                     <head>DAILY WEATHER REPORT</head>
                     <p>ALEXANDRIA</p>
                     <div type="subsection">
@@ -2051,7 +2051,7 @@
                     <head>THE EGYPTIAN GAZETTE, MONDAY JANUARY 21, 1907</head>
                 </div>
                 <cb n="1"/>
-                <div type="section" element="local">
+                <div type="section" feature="local">
                     <head>LOCAL AND GENERAL</head>
                     <div type="item">
                         <head>Tour Eiffel Music Hall.</head>
@@ -2123,7 +2123,7 @@
                         mantle can overshadow the remarkable education regime instituted by Lord
                         Cromer in 1890, and conducted with conspicnous success by Mr. Donglas
                         Dunlop, the Inspector General of Egyptian Education. I remember the time
-                        when, for instance, tbe proportion of pupils in tte Government schools
+                        when, for instance, the proportion of pupils in tte Government schools
                         learning French and English was, respectively. 80 and 20 per cent.; it is
                         now, I believe. the other way round, namely, 15 and 85 per cent, in favour
                         ot tha English language. All the superior colleges of which Mr. Wells
@@ -2373,7 +2373,7 @@
                         Hotels, has proved himself to be one of the leading and most successful
                         personalities in Egypt.</p>
                 </div>
-                <div type="item" element="notesLuxor">
+                <div type="item" feature="notesLuxor">
                     <head>NOTES FROM LUXOR.</head>
                     <p>TOWN TEEMING WITH TOURISTS.</p>
                     <p>(From Our Correspondent.)</p>
@@ -2417,7 +2417,7 @@
                         as a clever and enthusiastic photographer.</p>
                 </div>
                 <cb n="5"/>
-                <div type="item" element="notesFayoum">
+                <div type="item" feature="notesFayoum">
                     <p>FAYOUM RACES</p>
                     <p>F.R.C.'s FIRST MEETING.</p>
                     <p>(From Our Correspondent.)</p>
@@ -2471,7 +2471,7 @@
                         fallen Mr. Miller kindly acted as starter, and Captain Prothero Smith as
                         judge.</p>
                 </div>
-                <div type="item" element="notesFayoum">
+                <div type="item" feature="notesFayoum">
                     <head>FAYOUM NOTES.</head>
                     <p>Our correspondent at Medinatel Fayoum compalins of the indolence of the
                         Municipality whose intertia is responsible for the lack of drinking water.
@@ -2490,7 +2490,7 @@
                         wekk, and afterwards visited the districs of Abexa, Abbhsway and Shwashia.
                         He was acompanied by Lady Victoria Machell.</p>
                 </div>
-                <div type="item" element="notesSudan">
+                <div type="item" feature="notesSudan">
                     <head>SUDAN NEWS.</head>
                     <p>A Kassala correspndent states that measles are still raging in the lines of
                         the 11th Battalion, about 75 children suffering from the disease. In the
@@ -2517,7 +2517,7 @@
                     <p>28-80-31-3-90</p>
                 </div>
                 <cb n="6"/>
-                <div type="item" element="social">
+                <div type="item" feature="social">
                     <head>PERSONAL AND SOCIAL.</head>
                     <p>General Bullock, C.B, accompanied by Col. Cuthhert is coming down to
                         Alexandria today and will put up at the Khedivial Hotel.</p>
@@ -2554,7 +2554,7 @@
                         and Mrs. Schmidt Voerner, Mr. J. Nicoloas Mr. and Mrs. J.M. Austin, Rev.
                         A.H. Ellsby, Miss D Elsby, Mr. P. Man, Mme S. Cuub, Mlle Cumbo.</p>
                 </div>
-                <div type="item" element="visitList">
+                <div type="item" feature="visitList">
                     <head>VISITORS LISTS</head>
                     <div type="item">
                         <p>SAVOY HOTEL, LUXOR.</p>
@@ -2605,7 +2605,7 @@
                     <head>THE EGYPTIAN GAZETTE MONDAY JANUARY 21, 1907</head>
                 </div>
                 <cb n="1"/>
-                <div type="section" element="wire">
+                <div type="section" feature="wire">
                     <head>TELEGRAMS.</head>
                     <div type="wireReport">
                         <dateline>KlNGSTON. January 19.</dateline>
@@ -2616,7 +2616,7 @@
                             marines. The streets are picketed with American guars. 600 bodies have
                             now been recovered and more are constantly brought to light.</p>
                         <p>Both the Prinz Waldemar and the Prinz Eitel Friedrich, of the Hamburg
-                            American Line, are ashore on tbe coast of Jamaica. It is supposed that
+                            American Line, are ashore on the coast of Jamaica. It is supposed that
                             this happened owiing to submarine changes in the channel.</p>
                         <p>(Later). Over 700 bodies have now been bnried. The American marines are
                             busy destroying dangerous buildings by dynamite. The inhabitants are
@@ -2636,8 +2636,8 @@
                             Governor of the Island requesting their withdrawal, on the ground of
                             being fully able to attend to all the needs of the population.</p>
                         <p>He was only willing to permit a party of unarmed Americans to land to
-                            protect tbe Consulate. Tbe American Admiral declared that the immediate
-                            departure of tbe vessels was the only course confident with the dignity
+                            protect the Consulate. Tbe American Admiral declared that the immediate
+                            departure of the vessels was the only course confident with the dignity
                             of the United States.</p>
                         <p>The last accounts show that the death roll was under-estimated. In
                             addition to 700 bodies already buried, there are over 1000 un-identified
@@ -2708,7 +2708,7 @@
                     <p>Sole Agents for England : Messrs. BENSON &amp; HEDGES, 18 Old Bond St.,
                         London, W.</p>
                 </div>
-                <div type="section" element="wire">
+                <div type="section" feature="wire">
                     <head>TELEGRAMS.</head>
                     <div type="wireReport">
                         <dateline>Berlin January 20.</dateline>
@@ -2719,9 +2719,9 @@
                             political committee. The decision of German electors in favour of
                             international and social democracy, he said, would insure the prestige
                             of the Imperial Government and the peace of the German people.</p>
-                        <p>He regarded tbe events of the 12th December as the turning point in the
+                        <p>He regarded the events of the 12th December as the turning point in the
                             national life, because they witnessed the union of the conservatives and
-                            liberals in defence of tbe colonies and setup a precedent for dealing
+                            liberals in defence of the colonies and setup a precedent for dealing
                             with other great national issues. It was narrow egoism which induced the
                             centrist and revolutionary members to join the Socalists. The despotism
                             and arrogance of the Socialist leaders sought to choke all cooperation
@@ -2868,7 +2868,7 @@
                         to mind and body than many passed amid the more vitiating surroundings of
                         town life.</p>
                 </div>
-                <div type="item" element="visitList">
+                <div type="item" feature="visitList">
                     <head>NILE TOURISTS.</head>
                     <p>List of passengers by the P.8. Nefert Ar, which left Cairo on Friday: Miss G.
                         Lacy, Miss M. G ill, Mr. St Sendrea, General A. Angelesai, Mrs. and Miss
@@ -2929,7 +2929,7 @@
                         should try Dr. Williams Pink Pills. I began them, and after a time I could
                         tell that slowly but surely a marvelous change was coming over me. When I
                         had emptied ths third box I even began to take a little solid food, which I
-                        digested readily. Then I found my strength was being built np rapidly I
+                        digested readily. Then I found my strength was being built up rapidly I
                         regained my height my origin spirits and lost my haggard appearauoe. I
                         continued to mend, and in two mouths felt</p>
                     <p>Quits Myself Again.</p>
@@ -2939,7 +2939,7 @@
                         my health and strength until 1 became as hearty and active as you see me
                         now.”</p>
                     <p>Destitute of Good Red Bloodd— that is the one trouble that stands betwoen
-                        thousands of sufferers and tbe possesion of splendid health. Dr. Williams
+                        thousands of sufferers and the possesion of splendid health. Dr. Williams
                         Pink Pills for Pale People actually make Rich new blood, and in that way
                         cure all the disorders that arise from too little or bad blood. In both
                         sexes they have cured not only anemia but General Weakness, idigestion,
@@ -2949,7 +2949,7 @@
                         never cure. Or send to the British Depot, 46 Holborn-viaduct London, 2s, 9d.
                         for one box, or 13. 9d. for six.</p>
                 </div>
-                <div type="section" element="prepaidAdvertisements">
+                <div type="section" feature="prepaidAdvertisements">
                     <head>Cheap Prepaid Advertisements</head>
                     <p>Under this heading advertisements are inserted at the following rates :—</p>
                     <table rows="4" cols="4">
@@ -3581,7 +3581,7 @@
                     <p>ALEXANDRIA BONDED WAREHOUSE CO. LTD.</p>
                     <p>30-4-907</p>
                 </div>
-                <div type="item" element="army">
+                <div type="item" feature="army">
                     <head>ARMY OF OCCUPATION.</head>
                     <p>FUEL WOOD.</p>
                     <p>TENDERS will be received at the Head Quarter Offices, Army of Occupation,
@@ -3597,16 +3597,16 @@
                     <p>E. R.C. Ludlow, Lient. Colonel, Commanding A.S.C. in Egypt.</p>
                     <p>Cairo, 17/1/07. 29390’*-3-2</p>
                 </div>
-                <div type="item" element="army">
+                <div type="item" feature="army">
                     <head>NAVY CONTRACTS.</head>
                     <p>PORT SAID AND SUEZ.</p>
                     <p>TENDERS are hereby invited for new Contracts for the supply of Fresh Beef,
                         Mutton, Vegetables. Soft Bread, and Water to His Majesty’s Ships at Port
                         Said and Suez for twelve months from 1st April 1907.</p>
                     <p>Each article should be tendered for separately, but the tenders for all the
-                        articles offered by any particular firm most be placed on tbe same Form.</p>
+                        articles offered by any particular firm most be placed on the same Form.</p>
                     <p>Prices should be quoted in English currency.</p>
-                    <p>Forms of Application can be obtained from tbe Navy agent. British Consulate
+                    <p>Forms of Application can be obtained from the Navy agent. British Consulate
                         General, Port Said, to whom tenders should be sent in duplicate, in sealed
                         envelope, in time to be received not later than the 31st Jannary 1907.</p>
                     <p>The Admiralty reserve the right of rejecting all or any tenders, and of
@@ -3739,7 +3739,7 @@
                         aux nouveaux maries nos sinceres felicitations, sinai que nos meillleurs
                         souhaite de bonheur et de prosperite.</p>
                 </div>
-                <div type="item" element="bulletinBourse">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>(Aujourdhui a midi et demie.)</p>
                     <p>Les valeurs solides sont farmes, l'Agricole a 9 5/8, la National Bank a 28 ¼,
@@ -3758,7 +3758,7 @@
                     <p>Le Levico oldture a 5/8, la Hooker a 1 ¼ et l'United a 1 ¼ acheteurs.</p>
                     <p>Peu d'affaires et teudance indecise.</p>
                 </div>
-                <div type="item">
+                <div type="item" feature="circulaire">
                     <head>Circulaire H. De Vries et Boutigny</head>
                     <p>NOTES ET CRITIQUES</p>
                     <p>An Stock Exchange, le Consolie anglais a reactionne her de 1/8 a 87 1/8.
@@ -3825,7 +3825,7 @@
                         prochain sur les actions d lere et 2eme emissions du Comppoir Financier et
                         Commerical, a valoir sur l'exercise 1906 1907.</p>
                 </div>
-                <div type="item" element="shippingMovements">
+                <div type="item" feature="shippingMovements">
                     <head>SHIPPING MOVEMENTS.</head>
                     <p>ALEXANDRIA HARBOUR.</p>
                     <p>Arrivals. </p>
@@ -7068,8 +7068,6 @@ Feves. Marche nul.--></p>
                         <p>FIRST CLASS.</p>
                         <p>Magnificent Situation </p>
                         <p>ON THE LAKE.</p>
-
-
                     </div>
                     <div type="item" scope="advertisement">
                         <head>THUN (LAKE OF THUN.)</head>

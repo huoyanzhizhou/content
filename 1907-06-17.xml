@@ -12,7 +12,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2018-01-17">January 17, 2018</date>
+                    <date when="2018-01-17">January 17, 2018</date><gloss>3</gloss>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -1552,7 +1552,7 @@
                     <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and Soudan for</head>
+                        <head>Sole Agents in Egypt and Soudan for</head>
                         <row>
                             <cell>J. Calvet &amp; Co.</cell>
                             <cell>Bordeaux.</cell>
@@ -1855,7 +1855,7 @@
                     <p>80495-1 GE.Z. v. Grunan.</p>
                 </div>
                 <div type="item">
-                    <head> SUBSCRIPTIONS.</head>
+                    <head>SUBSCRIPTIONS.</head>
                     <p>Gazette</p>
                     <p>Alexandria, Cairo, and the Interior of Egypt (including delivery in
                         Alexandria or postage to subscriber’s address) P.T. 231 per annum, P.T. 116
@@ -1986,9 +1986,8 @@
                         “Gazette” from advertisers direct.</p>
                 </div>
             </div>
-            
             <div type="page" n="3">
-                <div type="item" element="local">
+                <div type="item" feature="local">
                     <head>LOCAL AND GENERAL</head>
                     <p>New Nile Gauge. </p>
                     <p>A Nile gauge has been built at Merowe during May by the irrigation
@@ -2094,7 +2093,7 @@
                         financial crisis and to ask Sir Eldon Gorst to use his influence in
                         extricating the money market front its present difficulties.</p>
                 </div>
-                <div type="item" element="khedive">
+                <div type="item" feature="khedive">
                     <head>THE KHEDIVE</head>
                     <p>The Khedive is embarking on Saturday next on board the Mahroussa at
                         Alexandria. His Highness will leave for Constantinople on the following day.
@@ -2214,7 +2213,7 @@
                         interfering with the work of any committee or Council which may be appointed
                         here or elsewhere to discuss the proposal.”</p>
                 </div>
-                <div type="item" element="social">
+                <div type="item" feature="social">
                     <head>PERSONAL AND SOCIAL</head>
                     <p>Mustapha Pasha Ibadi, Governor of Alex­andria, is leaving Alexandria on
                         Thursday week, the 27th inst. by the Florio-Rubattino steamer for Europe.
@@ -2413,7 +2412,7 @@
                         <p>Sheet 8.726 219</p>
                     </note>
                 </div>
-                <div type="item" element="bulletinBourse">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>(Aujourd'hui 11 h.lj2).</p>
                     <p>On a retabli ce matin l’horaire de 10 h. 30 a 11 h. 30, en prevision sans
@@ -2734,7 +2733,7 @@
                 </div>
                 <cb n="3"/>
                 <div type="item">
-                    <head> CREDIT FONCIER EGYPTIEN</head>
+                    <head>CREDIT FONCIER EGYPTIEN</head>
                     <p>275 TIRAGE</p>
                     <p>DES OBLIGATIONS 3 o/o A LOTS</p>
                     <p>EMISSION 1886</p>
@@ -2849,8 +2848,8 @@
                     <p>Bâ’e.</p>
                     <p>A Lausanne A la Hooiété Général Alsacienne de Banque. 30,501-1</p>
                 </div>
-                <div type="item">
-                    <p>EXPORT MANIFESTS</p>
+                <div type="item" feature="exportManifests">
+                    <head>EXPORT MANIFESTS</head>
                     <p>For CONSTANTINOPLE, by the S.S. Vassilissa Olga, sailed on the 5th June:
                         Various, 240 bags rice, 2 bags cotton, 188 empty casks, 12 packages
                         sundries</p>
@@ -4521,7 +4520,7 @@
             </div>
             <div type="page" n="5">
                 <cb n="1"/>
-                <div type="section">
+                <div type="section" feature="wire">
                     <head>TELEGRAMS</head>
                     <head>House of Lords</head>
                     <div type="item">
@@ -5020,7 +5019,7 @@
                         </row>
                     </table>
                 </div>
-                <div type="section" element="weather">
+                <div type="section" feature="weather">
                     <head>DAILY WEATHER REPORT</head>
                     <div type="subsection">
                         <table rend="frame" xml:id="deg-ta-dawr01">
@@ -5170,8 +5169,8 @@
                     <p>Sold by all chemists and druggists at P.T. 18 the box and P.T. 70 for six
                         boxes.</p>
                 </div>
-                <div type="item">
-                    <head>Calendar of Coming Events</head>
+                <div type="item" feature="comingEvents">
+              <head>Calendar of Coming Events</head>
                     <p>ALEX ANT5RI A.</p>
                     <p>June.</p>
                     <p>Mon. 17 San Stefano Casino.Grand Symphony Concert Every Afternoon at 5 p.m.

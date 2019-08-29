@@ -1103,7 +1103,7 @@
                         <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                             use.</p>
                         <table>
-                            <head> Sole Agents in Egypt and Soudan for</head>
+                            <head>Sole Agents in Egypt and Soudan for</head>
                             <row>
                                 <cell>J. Calvet &amp; Co.</cell>
                                 <cell>Bordeaux.</cell>
@@ -1441,7 +1441,6 @@
                         <p>V. J. FLEURENT, Cairo</p>
                         <p>F. MICALLEF, Sole Agent, 11 Bab Midan, Alexandria</p>
                     </div>
-                
                 <div type="section" feature="weather">
                     <head>DAILY WEATHER REPORT</head>
                     <div type="subsection">
@@ -1680,7 +1679,7 @@
                         LONDON PAPER MILLS Co., LIMITED (SALES OFFICE: 27, CANNON STREET, E.C.) </p>
                 </div>
                 <div type="item">
-                    <head> The Egyptian Gazette The English Daily newspaper, Established 1880.
+                    <head>The Egyptian Gazette The English Daily newspaper, Established 1880.
                         Editor and Manager - R. SMELLING Price: ONE PIASTRE TARIFF. MONDAY, JULY 30,
                         1908. </head>
                 </div>
@@ -2041,8 +2040,6 @@
                         inspector of irrigation, while in the exercise of his duties. The sentence
                         was increased, accused being condemned to eight months’ imprisonment.</p>
                 </div>
-
-
                 <div type="item">
                     <p>GUM ARABIC EXPORTS. </p>
                     <p>The exports of gum arabio from Egypt during the month of June last amounted
@@ -2255,7 +2252,7 @@
                     <p>J. Prosser, Bandmaster.</p>
                 </div>
                 <div type="section" feature="steamerMovements">
-                    <head> STEAMER MOVEMENTS.</head>
+                    <head>STEAMER MOVEMENTS.</head>
                     <p>The S.S. Persian Prince, with general cargo, left Manchester on the 29 th
                         inst., and is due at <hi rend="underline">Alexandria on or about the 15th
                             August.</hi>
@@ -2299,7 +2296,6 @@
                     <p>We do not hold ouraelvos responsible for the opinions ex­pressed by our
                         correspondents, but we wish, in a spirit of fair play to all, to
                         permit—within certain necessary limits — free discussion. </p>
-       
                 <div type="item">
                     <p>LACK OF FUNDS.</p>
                     <p>PLEA FOR ARCHEOLOGICAL SOCIETY.</p>
@@ -2655,7 +2651,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -4252,7 +4248,7 @@
                         <p>Teheran, July 30.</p>
                         <p>The Grand Vizier has been dismissed. <hi rend="italic">(JR.)</hi>
                         </p></div><div type="item">
-                        <head> RUSSIA. DUMA’S APPEAL TO SOLDIERS AND SAILORS.
+                        <head>RUSSIA. DUMA’S APPEAL TO SOLDIERS AND SAILORS.
                         </head>
                         <p>St. Petersburg, July 31.</p>
                         <p>
@@ -4444,9 +4440,9 @@
                         in hand. Waiting till I felt I\£ould not miss the mark, 1 let drive at th’
                         shoulder of the advanc­ing animal. As I pulled the trigger I jumped to my
                         left, and at that moment the lioness passed between Owad and myself, sending
-                        ns spinning in different directions ; I fonnd myself sitting np facing the
+                        ns spinning in different directions ; I fonnd myself sitting up facing the
                         animal in its death throes, a dozen yards away, while an inoh of dirt had
-                        plugged np the muzzle of my rifle. Owad had already picked himself up, while
+                        plugged up the muzzle of my rifle. Owad had already picked himself up, while
                         Darod, the imperturbable, apparently had not moved a step.”</p>
                     <p>We have indicated that history is not Lord Hindlip’s strong point. Take, as
                         an example, the opening sentence of Chapter IV. : •</p>
@@ -5645,6 +5641,7 @@
                         <row role="label">
                             <cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
                         </row>
+                        <!--values are copied from template-->
                         <row>
                             <cell>Novembre</cell>
                             <cell>Tal.</cell>
@@ -5983,7 +5980,7 @@
                             Cairo, Alexandria Damanhour, Tantah or Zagazig. <measure type="indexNo"
                                 >21416 31-12.905</measure></p>
                         <table rows="4" cols="16">
-                            <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                            <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                             <row>
                                 <cell>Bab-el-Louck...Dep.</cell>
                                 <cell>6.20</cell>

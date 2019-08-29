@@ -21,7 +21,7 @@
             <sourceDesc>
                 <bibl>
                     <title>The Egyptian Gazette</title>
-                    <date when="1906-10-15">October 16, 1906</date>
+                    <date when="1906-10-16">Tuesday, October 16, 1906</date>
                     <extent><measure unit="pages" quantity="6">6</measure> pages</extent></bibl>
             </sourceDesc>
         </fileDesc>
@@ -1694,7 +1694,7 @@
                 </div>
             </div>
             <div type="page" n="3">
-                <div type="section" element="local">
+                <div type="section" feature="local">
                     <head>LOCAL AND GENERAL.</head>
                     <div type="item">
                         <head>Killed by a Scorpion.</head>
@@ -1750,7 +1750,7 @@
                             Bombay, whence she proceeded yesterday morning. </p>
                     </div>
                     <div type="item">
-                        <head> Coldstream Guards.</head>
+                        <head>Coldstream Guards.</head>
                         <p>The 3rd Battalion Coldstream Guards, which arrived at Cairo from England
                             last week, will be inspected by Major General Bullook, C. B., General
                             officer commanding, at Abbassieh to-morrow at 8.45 a.m.</p>
@@ -1832,7 +1832,7 @@
                     </div>
 
                 </div>
-                <div type="section" element="khedive">
+                <div type="section" feature="khedive">
                     <head>THE KHEDIVE.</head>
                     <p>H.H. the Khedive returned to Montazah from Mariout yesterday, and will spend
                         the day there. On Friday evening his Highness will hold a reception at Ras
@@ -1898,7 +1898,7 @@
                         Patriarch observed, "I acknowledge the baptism of the Church of England so
                         administered. </p>
                 </div>
-                <div type="article" element="shippingMovements">
+                <div type="article" feature="shippingMovements">
                     <head>STEAMER MOVEMENTS.</head>
                     <p>The Moss liner Seti sailed yesterday afternoon for Liverpool, via Malta, with
                         passengers, mails, and general cargo, including 6,084 bales of cotton.</p>
@@ -1917,7 +1917,7 @@
                     <div type="subsection">
                         <head>Mit. BLUNT'S FRENCH TIRADE.</head>
                         <p>Mr. Wilfrid Blunt, not content with inflaming fanaticism in Egypt itself,
-                            is now attempting to stir np the French to "aid the national Egyptian
+                            is now attempting to stir up the French to "aid the national Egyptian
                             movement." The courtesy of the "Figaro" has allowed him nearly three
                             columns in which to air his ignorance and his anti-patriotism : but his
                             appeal will certainly be in vain. After nearly a century of evil
@@ -1955,7 +1955,7 @@
                             self will and violence, which alienated from him the esteem not only of
                             Mussulmans, but of all the sensible men of Egypt. ..lam convinced that
                             if Lord Cromer had had the least idea of what his insistence on this
-                            point would oost him in Egypt he would bave taken good care to settle
+                            point would cost him in Egypt he would bave taken good care to settle
                             the incident, but a long reign of absolute authority at Cairo did not
                             allow him to'" consider the possibility of sustained opposition, and he
                             yielded to a feeling of amour-propre. From then date all his faults,
@@ -2140,7 +2140,7 @@
                             ot beautiful plates of various kinds of dangerous insects, of blood
                             cells containing varions parasites, of animals suffering from various
                             kinds of disease, and so forth. If the educational work done at the
-                            Gordon Memorial College is in any way comparable to the work whioh is
+                            Gordon Memorial College is in any way comparable to the work which is
                             described here, those who were responsible for its inception may well be
                             satisfied with the fruits of their labour. This report comes at a
                             happily-chosen moment, when certain persons, of the bona Jides of some
@@ -2157,7 +2157,7 @@
                             from on high hath visited ns."</p>
                     </div>
                 </div>
-                <div type="item" element="notesSudan">
+                <div type="item" feature="notesSudan">
                     <head>PORT SUDAN NOTES.</head>
                     <p>(FROM OUR CORRESPONDENT.)</p>
                     <p>Suakin, October 10.</p>
@@ -2176,7 +2176,7 @@
                         Direotor, Sudan Works Dept., and Mr. Crossland, expert in pearls to the
                         Sadan Government.</p>
                 </div>
-                <div type="item" element="notesSuez">
+                <div type="item" feature="notesSuez">
                     <head>NOTES FROM SUEZ.</head>
                     <p>(From our Correspondent.)</p>
                     <p>Suez, Monday.</p>
@@ -2209,7 +2209,7 @@
                         fully analysed by an expert and that the druggery of the defendant should be
                         shut up. Judgment will be given at the end of next week. </p>
                 </div>
-                <div type="item" element="social">
+                <div type="item" feature="social">
                     <head>PERSONAL AND SOCIAL</head>
                     <p>Ghazi Mukhtar Pasha, Imperial Ottoman High Commissioner, will 8f e-id the
                         month of Ramadan at Alexandria, at No 3 Palace, and will only return to
@@ -2282,7 +2282,7 @@
                 </div>
             </div>
             <div type="page" n="4">
-                <div type="item" element="bulletinBourse">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>(AuiourcThui à midi et demie.)</p>
                     <p>L'ensemble do marohé est soutenu et en hausse partielle, mais qaelquea
@@ -2310,12 +2310,8 @@
                         le prix du coton se maintient au niveau actuel et si récolte atteint un
                         minimum de 61/4 million' deoantars, la campagne cotonnière absorbera cette
                         année-ci oinq millions de livres de plus que l’année passée.</p>
-
-
-
-
                 </div>
-                <div type="article">
+                <div type="item" feature="circulaire">
                     <head>Circulaire H. De Vries et Boutigny</head>
                     <p>Le Caire, <date>15 Octobre</date>. </p>
                     <p>Le taux de l'escompte libre à Londres a éte réduit de 1/8 avant-hier k 4 5/8
@@ -2398,11 +2394,9 @@
                         directeur M. William Llewellyn et pour sous directeur M. Georges J.
                         Baissez.</p>
                 </div>
-
-
-                <div type="item" element="shippingMovements">
+                <div type="item" feature="shippingMovements">
                     <head>SHIPPING MOVEMENTS</head>
-                    <head> ALEXANDRIA HARBOUR.</head>
+                    <head>ALEXANDRIA HARBOUR.</head>
                     <p>
                         <hi rend="bold">ARRIVALS</hi>
                     </p>
@@ -2452,7 +2446,7 @@
                     <p>CAIRO &amp; ALEXANDRIA.</p>
                     <p><measure type="indexNo">28057-31-5-07</measure></p>
                 </div>
-                <div type="section" element="prepaidAdvertisements">
+                <div type="section" feature="prepaidAdvertisements">
                     <head>Cheap Prepaid Advertisements</head>
                     <div type="item">
                         <p>AVENDRE Restaurant-Bar bonne situation, clientèle choisie. Pour tous
@@ -3078,11 +3072,6 @@
                         Premier cours P.T. 63.</p>
                     <p><hi rend="italic">Fèves-Saidi</hi>: Nouvelle récolte.—Marché nul.</p>
                 </div>
-
-
-
-
-
                 <div type="article" xml:id="deg-el-reut01">
                     <head>REUTER'S TELEGRAMS</head>
                     <head type="sub">CLOSING REPORTS</head>
@@ -4136,15 +4125,8 @@
                     <p>F. MICALLEF, Sole Agent, 11 Bab Midan, Alexandria</p>
                 </div>
             </div>
-
-
-
-
-
-
-
             <div type="page" n="5">
-                <div type="section" element="wire">
+                <div type="section" feature="wire">
                     <head>TELEGRAMS. THE ENTENTE CORDIALE</head>
                     <div type="item">
                         <head>LORD MAYOR'S PARIS VISIT</head>
@@ -4272,7 +4254,7 @@
                         three months will improve the general result for the year.</p>
                 </div>
                 <div type="article">
-                    <head> ÜM RUS GOLD MINES OF EGYPT</head>
+                    <head>ÜM RUS GOLD MINES OF EGYPT</head>
                     <p>The statutory meeting of the shareholders of the Um Ras Gold Mines of Egypt
                         (Limited), at 6, Queen-street-place, London, last week was presided over by
                         the chairman, Mr. J. Harvey, who said the company was formed on July 5th Up
@@ -4298,7 +4280,7 @@
                         shareholders to do so. The money would all be paid up—it was quite good.
                         Shareholders must be allowed some consideration. Probably they had been away
                         and had not had time to pay the money. He believed a mine never had been
-                        opened np so advantageously as this one. Roughly, £1,200 to £1,500 a month
+                        opened up so advantageously as this one. Roughly, £1,200 to £1,500 a month
                         were the working expenses. Mr. Haythornthwaite t Gold has been sold at more
                         than that, and if so why are shareholders being called on to find more
                         money? The Chairman : This is only a statutory meeting, and I am not
@@ -4315,7 +4297,7 @@
                         meeting 1,528ft. of development work had been accomplished.</p>
                 </div>
                 <div type="article">
-                    <head> LIFE IN THE TROPICS. </head>
+                    <head>LIFE IN THE TROPICS. </head>
                     <p>Sir Francis Lovell, in the absence of the Duke of Marlborough, presided last
                         week at the opening of the winter session of the London School of Tropical
                         Medicine. Colonel Kenneth MacLeod, hon. physician to the King, delivered the
@@ -4330,7 +4312,7 @@
                         Sanitary education should be made universal and compulsory.</p>
                 </div>
                 <div type="article">
-                    <head> ARMY CHANGES IN INDIA- </head>
+                    <head>ARMY CHANGES IN INDIA- </head>
                     <p>LORD KITCHENER'S NEW PLANS-</p>
                     <p>Commencing this month, some important changes will be inaugurated in the
                         staff of the Army in India. A very careful survey has been made by Lord
@@ -4381,7 +4363,7 @@
                         the commands. Aldershot and Ireland will be two division stations, and the
                         eastern and southern commands will have one each.</p>
                 </div>
-                <div type="item" element="passList">
+                <div type="item" feature="passList">
                     <head>PASSENGER LISTS-</head>
                     <p>ARRIVALS</p>
                     <p>Par le paquebot Memfi, de la Compagnie Rubattino :</p>
@@ -4438,8 +4420,8 @@
                     <p>Daira Prince Ahmed Seif el-Din Bey, Mohamed Aly Square</p>
                     <p>A. V. Thomson, Secretary for Egypt.</p>
                 </div>
-                <div type="section">
-                    <head>SPORT AND PLAY</head>
+                <div type="section" feature="sport">
+              <head>SPORT AND PLAY</head>
                     <div type="item">
                         <head>KHEDIVIAL YACHT CLUB.</head>
                         <p>LAST REGATTA OF THE SEASON.</p>
@@ -4617,7 +4599,6 @@
                                     <cell>...</cell>
                                     <cell><measure>39</measure></cell>
                                 </row>
-                                
                             </table>
                             <table cols="5">
                                 <row>
@@ -4657,7 +4638,6 @@
                                 </row>
                             </table>
                         </p>
-                        
                         <p><hi rend="bold">E.T.C. 2nd Innings</hi><table>
                                 <row>
                                     <cell>P. Harrison, c. Dealtry, b. Marsden  </cell>
@@ -4762,7 +4742,7 @@
                         </p> 
                         </div>
                 </div>
-                <div type="item" element="comingEvents">
+                <div type="item" feature="comingEvents">
                     <head>Calendar of Coming Events</head>
                     <table cols="2" xml:id="deg-ta-coce01">
                         <row role="label">
@@ -4924,12 +4904,9 @@
                         FOUNTAIN PENS, &amp;c., &amp;c.</p>
                     <p>Davies Bryan &amp; Co., Cairo &amp; Alexandria.</p>
                 </div>
-                
             </div>
-
-
             <div type="page" n="6">
-                <div type="article" element="exportManifests">
+                <div type="article" feature="exportManifests">
                     <head>Export Manifests</head>
                     <table rows="15" cols="3" xml:id="deg-ta-exma01">
                         <head>For <placeName>PORT SAID</placeName> and <placeName>SUEZ</placeName>,
@@ -5825,7 +5802,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

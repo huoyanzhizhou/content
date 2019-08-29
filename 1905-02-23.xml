@@ -1813,7 +1813,7 @@
                     <p>Captain Gillson’s ch.e.b.h, Brennus, 10.10. 2</p>
                     <p>Messrs, Rees’, and Barker’s b.c.b.m. Jewel of Asia, 11.3. 3</p>
                     <p>Khalil Pasha Kayat’s g.a.h Banaback, 9.12. 0 Mr. A Sursock’s ch.a.h.
-                        Vinicius, 8.8. 0</p>
+                        Vinicius, S.S. 0</p>
                     <p>Omar Bey. Sultan’s and Bakri Bey’s g.a.h. Rachid, 9.2. 0</p>
                     <p>This was almost an exact repetition of the fourth race, Mabrouk leading all
                         the wat and winning, very, easily. Brennus and Jewel of Asia came out of the
@@ -2097,7 +2097,7 @@
                     <p>Le Caire, le 18 Février 1905 25454-3*-2</p>
                 </div>
                 <div type="item">
-                    <head> EGYPTIAN DELTA LAND à INVESTMENT COMPANY LIMITED.</head>
+                    <head>EGYPTIAN DELTA LAND à INVESTMENT COMPANY LIMITED.</head>
                     <p>NOTICE is hereby given to the Shareholders of the above Company that by
                         resolution of the Board and in pursuance of the terms of the Prospectus a
                         2nd Call of 5s. per share has been made on the shares of this Company and it
@@ -4490,26 +4490,33 @@
                 <cb n="1"/>
                 <div type="item" feature="exportManifests">
                     <head>Export Manifests</head>
-                    <p>Pour LA SYRIE, par le bateau francais</p>
-                    <p>“Salazie’’, particle 9 février ;</p>
-                    <p>Lardico fr., 144 balles tabac Panayotti Angostoplo, 41 cais. tabac N. Syrigo,
-                        1 lot tuiles</p>
-                    <p>A. Lovinti, 100 balles papier, 5 barils fromage Paniopoulo, 11 damejeannes
-                        eau-de-vie Divers, 75 colis divers</p>
+                    <p>Pour LA SYRIE, par le bateau francais “Salazie’’, parti le 9 février ;</p>
+                    <p>Lardico fr., 144 balles tabac </p>
+                    <p>Panayotti Angostoplo, 41 cais. tabac </p>
+                    <p>N. Syrigo, 1 lot tuiles</p>
+                    <p>A. Lovinti, 100 balles papier, 5 barils fromage </p>
+                    <p>Paniopoulo, 11 damejeannes eau-de-vie </p>
+                    <p>Divers, 75 colis divers</p>
                     <p>Pour MARSEILLE, par le bateau français "Niger", parti le 10 février :</p>
                     <p>POUR MARSEILLE </p>
-                    <p>Daïra Toussoum, 10 sacs graines Candioglu, 173 cages tomates Sté An. Le
-                        Khédive, 27 cais. cigarettes Bonded Stores, 49 cais. ceufs R. Mordo, 70 caia
-                        oeufs Buhagiar, 150 cages tomates Ades, 145 cais. ceufs Sucreries, 37 cais.
-                        sucre Onofrio, 75 cais. ceufs</p>
+                    <p>Daïra Toussoum, 10 sacs graines </p>
+                    <p>Candioglu, 173 cages tomates </p>
+                    <p>Sté An. Le Khédive, 27 cais. cigarettes </p>
+                    <p>Bonded Stores, 49 cais. oeufs </p>
+                    <p>R. Mordo, 70 cais. oeufs </p>
+                    <p>Buhagiar, 150 cages tomates </p>
+                    <p>Ades, 145 cais. oeufs </p>
+                    <p>Sucreries, 37 cais. sucre </p>
+                    <p>Onofrio, 75 cais. oeufs</p>
                     <p>Behrend &amp; Co., 1,199 sacs riz, 3,210 sacs graines coton</p>
-                    <p>R. Delia, 250 pan. tomates Divers. 46 colis divers</p>
+                    <p>R. Delia, 250 pan. tomates </p>
+                    <p>Divers. 46 colis divers</p>
                     <table cols="4">
                         <row>
                             <cell>Carver Bros. &amp; Coy. Ltd,</cell>
                             <cell><measure>60</measure></cell>
-                            <cell>bales</cell>
-                            <cell>cotton</cell>
+                            <cell>balles</cell>
+                            <cell>coton</cell>
                         </row>
                         <row>
                             <cell>Peel &amp; Co.,</cell>
@@ -4556,8 +4563,8 @@
                         <row>
                             <cell/>
                             <cell><measure>591</measure></cell>
-                            <cell>bales </cell>
-                            <cell>cotton</cell>
+                            <cell>balles </cell>
+                            <cell>coton</cell>
                         </row>
                     </table>
                     <p>POUR LE HAVRE</p>
@@ -4574,8 +4581,8 @@
                         <row>
                             <cell>R. &amp; ). Lindemann,</cell>
                             <cell><measure>655</measure></cell>
-                            <cell>bales</cell>
-                            <cell>cotton</cell>
+                            <cell>balles</cell>
+                            <cell>coton</cell>
                         </row>
                         <row>
                             <cell>G. Riecken,</cell>
@@ -4610,8 +4617,8 @@
                         <row>
                             <cell/>
                             <cell><measure>591</measure></cell>
-                            <cell>bales </cell>
-                            <cell>cotton</cell>
+                            <cell>balles </cell>
+                            <cell>coton</cell>
                         </row>
                     </table>
                     <p>For MANCHESTER, by the S.S. “Grecian Prince”, sailed on the 11th February
@@ -4708,9 +4715,11 @@
                             <cell>cotton</cell>
                         </row>
                     </table>
-                    <p>M. L Carasso, 1 case cigarettes M. Kirby, 2 trunks effects S Attal, 37 cases
-                        eggs J. Ross &amp; Co., 250 empty casks Khedivial Mail, 218 boxes
-                        oranges</p>
+                    <p>M. L Carasso, 1 case cigarettes </p>
+                    <p>M. Kirby, 2 trunks effects </p>
+                    <p>S Attal, 37 cases eggs </p>
+                    <p>J. Ross &amp; Co., 250 empty casks </p>
+                    <p>Khedivial Mail, 218 boxes oranges</p>
                 </div>
                 <div type="item" xml:id="deg-el-reut01">
                     <head>REUTER'S TELEGRAMS</head>
@@ -5047,7 +5056,7 @@
                     <p>Le Caire, le 18 Fevrier 1905. 25456-10-*1</p>
                 </div>
                 <div type="item">
-                    <head> Societe Anonyme des Eaux du Carie</head>
+                    <head>Societe Anonyme des Eaux du Carie</head>
                     <p>La Société des Eaux du Caire porte à la connaissance du Public, que son
                         installation pour la distribution des Eaux à Koub-beh-Zeitoun et Matarieh
                         étant achevée, elle est prête à fournir dans les dites localités, l'ean pour
@@ -5070,7 +5079,7 @@
                     <p>25329-40*-5 „ Astley P. Friend.</p>
                 </div>
                 <div type="item">
-                    <head> ARMY OF OCCUPATION</head>
+                    <head>ARMY OF OCCUPATION</head>
                     <p>TENDERS for the supply of the undermen­tioned Services at Cairo and
                         Alexandria, will be received at the British Army Head Quarters, Cairo, until
                         12 o’clock noon on TUESDAY the 28th February, 1905.</p>
@@ -5400,7 +5409,7 @@
                             31-12.905</measure></p>
 
                     <table rows="3" cols="17">
-                        <head> HELOUAN BRANCH.</head>
+                        <head>HELOUAN BRANCH.</head>
                         <row>
                             <cell cols="15">THE TABLE FROM 20TH JANUARY 1905</cell>
                             <cell cols="2"/>

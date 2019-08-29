@@ -1067,7 +1067,7 @@
                     <dateline>An English Daily Newspaper, Established in 1830. Editor and Manager:
                             <persName>R. Snelling</persName>« One Piastre Tariff MONDAY. MARCH 20,
                         1905.</dateline>
-                    <head> THE ASSOUAN DAM.</head>
+                    <head>THE ASSOUAN DAM.</head>
                     <p>The Government has decided not to heighten the <placeName>Assouan
                             Dam</placeName> in the meantime, and as a corollary, not to sell, or
                         grant in concession, any large blocks of free State lands. <persName>Sir
@@ -1125,13 +1125,6 @@
                         difficulty which we submit to Government as an alternative course preferable
                         to stopping all agricultural development in Egypt. </p>
                 </div>
-
-
-
-
-
-
-
             </div>
             <pb n="3"/>
             <div type="page" n="3">
@@ -1169,7 +1162,7 @@
                         </p>
                     </div>
                     <div type="item">
-                        <head> THE CHANGE IN THE COMMAND.</head>
+                        <head>THE CHANGE IN THE COMMAND.</head>
                         <dateline>St. Petersburg, March 18.</dateline>
                         <p>It is confirmed that G<persName>eneral Kuropatkin</persName> has
                             started, and that Linievitch has assumed the command. (Reuter.)
@@ -1456,7 +1449,6 @@
                 </div>
                 <div type="section" feature="notesPortSaid">
                     <head>NOTES FROM PORT SAID.</head>
-               
                 <div type="item">
                     <p>GERMAN LADY’S SUICIDE Port Said, Saturday. A very sad and distressing suicide
                         occurred at daybreak this morning. Mrs. Boysen, wife of a Suez Canal pilot
@@ -1510,7 +1502,7 @@
                         ploughing machines; more of these powerful engines are to be employed if the
                         working results of the first pair justify it The directors report that the
                         result of last year’s flood is very satisfactory, notwithstanding the poor
-                        Nile flood with whioh the Wardan Company, in common with the rest of Egypt,
+                        Nile flood with which the Wardan Company, in common with the rest of Egypt,
                         had to put up with. Tree planting has successfully passed the experimental
                         stage. Sufficient trees to plant 360 feddans are ready in pots to be planted
                         out this year. Twenty-seven miles of flood canal, representing more than a
@@ -1542,7 +1534,7 @@
                     <head>STEAMER MOVEMENTS.</head>
                     <p>The Moss liner "Pharos” sailed on Friday morning for Liverpool, vik Malta,
                         with paasen gers, mails, and general cargo, including 404 bales ootton. The
-                        Cunard S.S. “Brescia” sailed for Liverpool on Saturday with a full oargo.
+                        Cunard S.S. “Brescia” sailed for Liverpool on Saturday with a full cargo.
                         The Messageries Mari times 8. 8, “Congo,” from Mar-ill, is due at Alexandria
                         to-mar- tow morning' </p>
                 </div>
@@ -1622,8 +1614,6 @@
                         Alexandria or any other portI am, eto, “Navigator.” </p>
                     <dateline>Alexandria, March 19.</dateline>
                 </div>
-
-
             </div>
             <pb n="4"/>
             <div type="page" n="4">
@@ -2042,7 +2032,7 @@
                 <div type="item" feature="exportManifests">
                     <head>Export Manifests</head>
                     <table rows="15" cols="3" xml:id="deg-ta-exma01">
-                        <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
+                        <!-- uncorrected template --><head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
                             by the S.S. "Rameses," sailed on the <date when="1905-03-20">30th
                                 March</date>:</head>
                         <row>
@@ -2701,7 +2691,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             18-03.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

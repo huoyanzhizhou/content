@@ -3381,7 +3381,7 @@
                 </div>
                 <!-- the indicateur egyptian -->
                 <cb n="4"/>
-                <div type="item">
+                <div type="item" feature="chroniqueFinanciere">
                     <head>CHRONIQUE FINANCIERE</head>
                     <p></p>
                 </div>
@@ -4164,7 +4164,7 @@
                 </div>
                 <div type="item" xml:id="deg-el-egml01">
                     <head>EGYPTIAN MARKETS, LIMITED</head>
-                    <table xml:id="deg-ta-egml01">
+                    <table xml:id="deg-ta-egml01"> <!-- All values are copied -->
                         <head>Approximative Returns</head>
                         <row role="label">
                             <cell/>
@@ -4777,7 +4777,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

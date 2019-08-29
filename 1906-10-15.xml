@@ -12,7 +12,7 @@
             </titleStmt>
             <editionStmt>
                 <edition>
-                    <date when="2018-01-17">January 17, 2018</date>
+                    <date when="2018-01-17">January 17, 2018</date><gloss>2</gloss>
                 </edition>
             </editionStmt>
             <publicationStmt>
@@ -22,7 +22,7 @@
             <sourceDesc>
                 <bibl>
                     <title>The Egyptian Gazette</title>
-                    <date when="1906-10-15">October 15, 1906</date>
+                    <date when="1906-10-15">Monday, October 15, 1906</date>
                     <extent><measure unit="pages" quantity="6">6</measure> pages</extent></bibl>
             </sourceDesc>
         </fileDesc>
@@ -2010,7 +2010,7 @@
             <div type="page" n="3">
                 <cols n="5"/>
                 <cb n="1"/>
-                <div type="section" element="local">
+                <div type="section" feature="local">
                     <head>LOCAL AND GENERAL.</head>
                     <div type="item">
                         <head>The Mansourieh Canal</head>
@@ -2146,8 +2146,6 @@
                     <p>Rooms and Breakfast P.T. 25.— Meals a la Cart </p>
                     <p><measure type="indexNo">26789-26-11-09</measure></p>
                 </div>
-
-
                 <cols n="3"/>
                 <cb n="1"/>
                 <div type="item">
@@ -2179,7 +2177,7 @@
                         have suddenly assumed importance certainly renders the maintenance of the
                         Bank rate at 4 per cent, distinctly uncertain. </p>
                 </div>
-                <div type="article" element="khedive">
+                <div type="article" feature="khedive">
                     <head>THE KHEDIVE.</head>
                     <p>H.H. the Khedive left for Marioot yesterday morning in order to inspect his
                         estates there.</p>
@@ -2227,7 +2225,7 @@
                         winter in the Esbekieh Gardens, opposite the Eden Palace Hotel. A new .and
                         large avenue will lead from the theatre to the Opera square. </p>
                 </div>
-                <div type="section" element="steamerMovements">
+                <div type="section" feature="steamerMovements">
                     <head>STEAMER MOVEMENTS.</head>
                     <p>The Messageries Maritimes mail-steamer Congo, which left Marseilles last
                         Thursday, passed through the Straits of Messina on Saturday afternoon and is
@@ -2258,7 +2256,7 @@
                         to extend primary education have op to the present been able to do nothing
                         to develope higher education. Time and money have been lacking to inaugurate
                         the formation of school for higher studies. To-day Egyptians are beginning
-                        to feel that there is their education a very large gap whioh must be fulled.
+                        to feel that there is their education a very large gap which must be fulled.
                         For the last ten years the creation of a university has incessantly
                         preoccupied them. Many efforts, even, were made by several benevolent men,
                         but it seemed that the idea was not sufficiently ripe to be realisable.</p>
@@ -2353,7 +2351,7 @@
                 <cb n="4"/>
                 <div type="article">
                     <head>THE "PATRIOT'S" RETURN-</head>
-                    <head> MODESTY FORBIDS EXUBERANCE. </head>
+                    <head>MODESTY FORBIDS EXUBERANCE. </head>
                     <p>Mustapha Pasha Kamel arrived at Alexandria from Europe this morning by the
                         Austrian Lloyd S.S. Habsburg.</p>
                     <p> The Egyptian "Patriot" had modestly but firmly declined when in Europe all
@@ -2434,7 +2432,7 @@
                         to be towed home, the wind having completely died away at sunset. </p>
                     <p> Soon after his Highness arrived a race be- ion ten native boats of the old
                         type was started, all their sails being set before the' start and their
-                        stern tied np to the club jetty. When the gun was fired they all cast off,
+                        stern tied up to the club jetty. When the gun was fired they all cast off,
                         and everything being allowed fair in this race there was a good deal of
                         excitement, which would have been greater if the wind had been stronger. The
                         next race, which aoudad the greatest excitement, was that of the rowing
@@ -2484,11 +2482,11 @@
                         cup was presented by H. P. Kingham, Erq, and Darton has now won the
                         championship twice in succession. Next Saturday the 100 yards juniors' and
                         220 yards seniors' championships will be1 decided, after which a polo match
-                        versos IH. M. 8. Venae will take place. </p>
+                        versos IH. M. S. Venae will take place. </p>
                 </div>
                 <cols n="5"/>
                 <cb n="3"/>
-                <div type="section">
+                <div type="item" feature="social">
                     <head>PERSONAL AND SOCIAL</head>
                     <p>Mohamed Pasha Mohseu left on Saturday for Shibrakhit to visit his
                         estates.</p>
@@ -2596,7 +2594,7 @@
                 </div>
             </div>
             <div type="page" n="4">
-                <div type="item" element="bulletinBourse">
+                <div type="item" feature="bulletinBourse">
                     <head>BULLETIN DE LA BOURSE</head>
                     <p>(Aujourd’hui à midi et demie.) </p>
                     <p>Ce sont toujours les opérations pour fin qni alimentent l’activité de notre
@@ -2616,7 +2614,7 @@
                         Sdt&amp;Soda à 21/9, l’Obligation Crédit Foncier k 334 et l’Anglo American
                         Nilp.k $ 1/2.</p>
                 </div>
-                <div type="article">
+                <div type="item" feature="circulaire">
                     <head>Circulaire H. De Vries et Boutigny</head>
                     <p>Le Caire, <date>13 Octobre</date>. Le taux de l'escompte libre k Londres
                         reste k 4 3/4 pour oent. Hier, au Stock.Exchange, le Consolidé anglais a
@@ -2633,7 +2631,7 @@
                         Cassa di Soonto est remontée k 229-280 l'action ancienne et 225 la nouvelle.
                         Le .Comptoir Financier s'est insorit k 7 Taotion ancienne et 6 3/4 la
                         nouvelle. </p>
-                    <p>L'aotipn Crédit Fonoier s'est maintenue à 777 '; la part de fondatenr- .a
+                    <p>L'aotipn Crédit Foncier s'est maintenue à 777 '; la part de fondatenr- .a
                         gagné 10 francs k 990 o, l'obligation k lots ancienne est revenue</p>
                     <p>Béhéra a encore progressé de £ k 37 J. La Nile Land . a passé de 16 1/16 k 16
                         1/4. La part dé fondateur Enterprise and Develop ment a été mieux tanne k 22
@@ -2698,9 +2696,9 @@
                         come in force. <measure>28662-4-1</measure>
                     </p>
                 </div>
-                <div type="item" element="shippingMovements">
+                <div type="item" feature="shippingMovements">
                     <head>SHIPPING MOVEMENTS</head>
-                    <head> ALEXANDRIA HARBOUR.</head>
+                    <head>ALEXANDRIA HARBOUR.</head>
                     <p>
                         <hi rend="bold">ARRIVALS</hi>
                     </p>
@@ -2766,7 +2764,7 @@
                         Apply : Bonded Warehouse Co. Ld., Alexandria. <measure>28608 6A-4</measure>
                     </p>
                 </div>
-                <div type="advert">
+                <div type="item">
                     <head>Société Internationale des Employes d'Alexandrie</head>
                     <p>A dater da 15 Octobre le siège social de la Société Into nationale des
                         Employés d'Alexandrie est transféré Rae Sidi el Metwalli No. £0, et rae
@@ -2814,7 +2812,7 @@
                         </row>
                     </table>
                 </div>
-                <div type="section" element="prepaidAdvertisements">
+                <div type="section" feature="prepaidAdvertisements">
                     <head>Cheap Prepaid Advertisements</head>
                     <p>Under this heading advertisements are inserted at the following rates :—</p>
                     <table rows="4" cols="4">
@@ -4903,7 +4901,7 @@
                 </div>
             </div>
             <div type="page" n="5">
-                <div type="section" element="local">
+                <div type="section" feature="local">
                     <head>THE RUSSIAN TERRORS</head>
                     <div type="item">
                         <head>BOMBS FOUND IN CHURCHES</head>
@@ -4932,7 +4930,7 @@
                     <div type="item">
                         <head>STEAMER ON FIRE.</head>
                         <p>HONG KONG, October 14.</p>
-                        <p>The 8.8. Hankow h is been burned at the wharf here. Hundreds of Chinese
+                        <p>The S.S. Hankow h is been burned at the wharf here. Hundreds of Chinese
                             passengers have been incinerated, and a valuable cargo destroyed. The
                             European passengers and crew were saved.</p>
                         <p>HONG KONG, October 14.</p>
@@ -5077,7 +5075,7 @@
                         shaken, Christian fashion, and was kind enough to ask "La bn alikum "Are yon
                         well" The vice-governor then beckoned to ns to be seated at tome distance-on
                         European chairs, actually borrowed in our honour o and tea and cakes were
-                        banded round, of whioh luxuries, by the by, his lord'fiip abstained from
+                        banded round, of which luxuries, by the by, his lord'fiip abstained from
                         partaking in Infidel company.</p>
                     <p>A Discerning Experience.</p>
                     <p>Then, leaning heavily against the wall, he F went to Bleep ! As an 1
@@ -5241,7 +5239,7 @@
                             protect the European population, and was, I am told, to "tarn An-floos
                             out.”</p>
                         <p>It was at this critical moment that’—against the advice of more than one
-                            old resident—I summoned np courage to ask an audience of Kaid Anfloee.
+                            old resident—I summoned up courage to ask an audience of Kaid Anfloee.
                             My native page returned with the laoonio message : "Welcome, at ten in
                             the morning.” Accompanied by a young French lady and the page, I found
                             my way along the Tl narrow lane known as Agadir “attest” to the town
@@ -5365,9 +5363,6 @@
                         </table>
                     </div>
                 </div>
-
-
-
                 <div type="item" scope="calendar" xml:id="deg-el-cotw01">
                     <table cols="3" xml:id="deg-ta-cotw01">
                         <head>CALENDAR OF THE WEEK.</head>
@@ -5684,7 +5679,7 @@
                                 information</hi> apply to the offices at Cairo, Alexandria Damanhour, Tantah
                             or Zagazig. <measure type="indexNo">21416 31-12.905</measure></p>
                         <table rows="4" cols="16">
-                            <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                            <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                             <row>
                                 <cell>Bab-el-Louck...Dep.</cell>
                                 <cell>6.20</cell>

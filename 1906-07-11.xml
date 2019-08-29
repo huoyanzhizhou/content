@@ -1489,9 +1489,7 @@
             </div>
             <pb n="2"/>
             <div type="page" n="2">
-              
                     <head>2 THE EGYPTIAN GAZETTE, WEDNESDAY, JULY 11 1906</head>
-                
                 <cols n="5"/>
                 <cb n="1"/>
                 <div type="advert" xml:id="deg-ad-ric01">
@@ -3746,7 +3744,7 @@
                         Rqss. b., capt. Heyman, Pirceas and Constantinople. </p>
                 </div>
                 <cb n="2"/>
-                <div type="item">
+                <div type="item" feature="exportManifests">
                     <head>EXPORT MANIFESTS</head>
                     <p>For Liverpool, by the S.S. Alsatian, sailed on the 25th June : Various, 225
                         bags senna, 150 bales wool, 40 bags rags, 87 bales skin, 40 bales cotton
@@ -7042,7 +7040,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

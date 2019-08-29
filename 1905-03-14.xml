@@ -95,8 +95,6 @@
                     <p>Messrs. HABELDEN &amp; Co. ALEXANDRIA.</p>
                     <p>F. G. DAVIDSON, Superintendent P. &amp; O. S. N. Company in Egypt SUEZ.</p>
                 </div>
-
-
                 <div type="advert" xml:id="deg-ad-blm01">
                     <head>BIBBY LINE MAIL STEAMERS.</head>
                     <p>Special Reduced Rates During Summer Season,</p>
@@ -209,9 +207,6 @@
                         £10,000,000.</p>
                     <p>31-12-905. Policies issued at SUEZ by G. BEYTS &amp; Co., Agents.</p>
                 </div>
-
-
-
                 <div type="advert" xml:id="deg-ad-phc01">
                     <head>P. HENDERSON &amp; CO’s LINE.</head>
                     <p>Steamers leave SUEZ and PORT SAID fortnightly for LONDON or LIVERPOOL
@@ -970,10 +965,6 @@
                         HAMBURG, AMERICA,<lb/> EASTERN ASIA, AUSTRALIA Etc.</p>
                     <p>For Particulars see Advertisement below.</p>
                 </div>
-
-
-
-
                 <div type="advert" xml:id="deg-ad-als01">
                     <head>Austrian Lloyd’s Steam Navigation</head>
                     <p>Alexandria-Brindisi-Venice-Trieste.</p>
@@ -1283,7 +1274,7 @@
                     <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and Soudan for</head>
+                        <head>Sole Agents in Egypt and Soudan for</head>
                         <row>
                             <cell>J. Calvet &amp; Co.</cell>
                             <cell>Bordeaux.</cell>
@@ -1913,9 +1904,9 @@
                 </div>
                 <div type="item">
                     <head>The Sirdar at Suakin</head>
-                    <p>Snakin, March 7.</p>
+                    <p>Suakin, March 7.</p>
                     <p>Sir Reginald Wingate, Governor-General of the Sudan, and his Staff, arrived
-                        at Snakin this morning by train from railhead, acecom- panied by Howard Bey,
+                        at Suakin this morning by train from railhead, acecom- panied by Howard Bey,
                         the Governor of Sua­kin, who met hiA Excellency at Thamiam. The party was
                         received at the town gate by the civil and military officials and tbe
                         principal inhabitants. Sir Reginald Wingate will hold a levee and make
@@ -2071,7 +2062,7 @@
                         Government in regard to the electrification of the 'Matarieh railway line
                         are now at a standstill. The reason is that the Deha Light Railway Com­pany
                         have also m*ie an offer to the Govern­ment to undertake the Work.
-                        Negotiations may, however, be resumed on another basis. Aooording to this
+                        Negotiations may, however, be resumed on another basis. According to this
                         project, a new line may be ooestrwotod to the Matsriab Oasis, starting from
                         a oentnl point in Cairo, and going by way of ths Abbas Boulevard.</p>
                 </div>
@@ -2091,7 +2082,7 @@
                         and the Canal Company will advance the funds for the construction, while the
                         Nun- govioh Hotels Co. will rent and manage the i hotel.</p>
                     <p>The reoeipta of the Nnngovioh Co. from the l Cairo and Helouan hotels this
-                        season have, np , to date, been By far the greatest ever gained in f any
+                        season have, up , to date, been By far the greatest ever gained in f any
                         season since this successful hotel company 1 started.</p>
                 </div>
                 <div type="item">
@@ -2152,7 +2143,7 @@
                     <p>The Westoott SB. “Bulgarian” sailed from London on the 4th inst. for Malta
                         and Alex­andria.</p>
                     <p>The BUerman S.S. "Athenian” sailed from Malta on Monday evening and is
-                        expected to arrive here on Friday morning with general oargo.</p>
+                        expected to arrive here on Friday morning with general cargo.</p>
                     <p>The Khedivial Mail ,6,8. “El Kobira" will leave Alexandria on Saturday and
                         Poet Said on Sunday for Jaffa, Coifla, Beyront, Tripoli, limba, Alexandria,
                         Ureaoa, and LimaeeoJ,</p>
@@ -5288,113 +5279,8 @@
             <div type="page" n="6">
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="item" feature="exportManifests">
+                <div type="item" feature="exportManifests" status="empty">
                     <head>Export Manifests</head>
-                    <table rows="15" cols="3" xml:id="deg-ta-exma01">
-                        <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
-                            by the S.S. "Rameses," sailed on the <date when="1905-06-30">30th
-                                June</date>:</head>
-                        <row>
-                            <cell>E. Toriel &amp; fils,</cell>
-                            <cell><measure>44</measure></cell>
-                            <cell>bales cotton</cell>
-                        </row>
-                        <row>
-                            <cell>Cattaui fr. &amp; Co.,</cell>
-                            <cell><measure>106</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Walker &amp; Meimarachi Ltd,</cell>
-                            <cell><measure>300</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>E. Barber &amp; Son</cell>
-                            <cell><measure>71</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari</cell>
-                            <cell><measure>173</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>M. L. Carasso,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>case cigarettes</cell>
-                        </row>
-                        <row>
-                            <cell>N. Soussa frères,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Alexandria Bonded Warehouse,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>B. Hazan &amp; Co.,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. N. Tocos &amp; Co.,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Sucreries &amp; Raff. d'Egypte,</cell>
-                            <cell><measure>2000</measure></cell>
-                            <cell>bags sugar</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari,</cell>
-                            <cell><measure>5</measure></cell>
-                            <cell>packages tobacco</cell>
-                        </row>
-                        <row>
-                            <cell>E. Hatoun,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>cases curios</cell>
-                        </row>
-                        <row>
-                            <cell>Mrs. Richmond,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>packages effects</cell>
-                        </row>
-                        <row>
-                            <cell>A. B. Burns,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>W. Snow Esq.,</cell>
-                            <cell><measure>6</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Thos. Cook &amp; Son,</cell>
-                            <cell><measure>7</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. H. Baldwin,</cell>
-                            <cell><measure>12</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>J. Setton &amp; Co.,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>cases furniture</cell>
-                        </row>
-                        <row>
-                            <cell>Various,</cell>
-                            <cell><measure>11</measure></cell>
-                            <cell>packages sundries</cell>
-                        </row>
-                    </table>
                 </div>
                 <div type="item" xml:id="deg-el-reut01">
                     <head>REUTER'S TELEGRAMS</head>
@@ -5969,7 +5855,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -6153,7 +6039,7 @@
                         Damanhour, Tantah or Zagazig. <measure type="indexNo">21416
                             31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

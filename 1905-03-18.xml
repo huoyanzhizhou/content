@@ -95,8 +95,6 @@
                     <p>Messrs. HABELDEN &amp; Co. ALEXANDRIA.</p>
                     <p>F. G. DAVIDSON, Superintendent P. &amp; O. S. N. Company in Egypt SUEZ.</p>
                 </div>
-
-
                 <div type="advert" xml:id="deg-ad-blm01">
                     <head>BIBBY LINE MAIL STEAMERS.</head>
                     <p>Special Reduced Rates During Summer Season,</p>
@@ -209,9 +207,6 @@
                         £10,000,000.</p>
                     <p>31-12-905. Policies issued at SUEZ by G. BEYTS &amp; Co., Agents.</p>
                 </div>
-
-
-
                 <div type="advert" xml:id="deg-ad-phc01">
                     <head>P. HENDERSON &amp; CO’s LINE.</head>
                     <p>Steamers leave SUEZ and PORT SAID fortnightly for LONDON or LIVERPOOL
@@ -1305,7 +1300,7 @@
                     <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for
                         use.</p>
                     <table>
-                        <head> Sole Agents in Egypt and Soudan for</head>
+                        <head>Sole Agents in Egypt and Soudan for</head>
                         <row>
                             <cell>J. Calvet &amp; Co.</cell>
                             <cell>Bordeaux.</cell>
@@ -2042,7 +2037,7 @@
                     <p>What do you think, Sir William, of the decision not to raise the Assouan dam
                         1—1 think it a desperately weak decision, a regular going back to the old
                         days which preceded the Occupation. There is a large book containing the
-                        decisions of oommitteee which advised sno- oessive Khedives not to raise the
+                        decisions of committeee which advised sno- oessive Khedives not to raise the
                         water on the Barrage at the head of theDelta.Sir Colin Soott- Moncrieff got
                         me out from India (I was only 31 then) and told me to sit down on the
                         Barrage and advise him. “Mind,” he added, “have as your motto—L'audaoe,
@@ -2438,7 +2433,7 @@
                         Spring And recks not of theaatumn wind’s low moan Or where the drifting
                         clouds are hurrying, Astatic joy, perchanoe it may be brief,</p>
                     <p>A gleam, where once the sun its glory shed Yet in the soft wet branch there
-                        hides the leaf Kirtled in brown, with jnst a touch of red On that bare spray
+                        hides the leaf Kirtled in brown, with just a touch of red On that bare spray
                         he sees the fature nest Buried in blossom, ’neath a summer’s sky. What
                         though the wintry day should seen: , [unblest</p>
                     <p>He lived in praise, perchanoe, not knowing why </p>
@@ -3107,7 +3102,7 @@
                         hausse de 3 £ piastres par cantar. On ne void pas actuellement au dessous de
                         P.T. 55 le can- tar et peutAtre nous verrons des prix plus dlevds, sinon
                         immddiatement, du moins vers Septembre-Octobre.</p>
-                    <p>Pendant le mois de Janvier il a dtd exports d’Egypte 3:040 oolis de 150 à 181
+                    <p>Pendant le mois de Janvier il a dtd exports d’Egypte 3:040 colis de 150 à 181
                         kilos donl 681 colis ponr la France.</p>
                     <p>Les prix oi-dessus s’entendeut pour la gomme natnrelle en sortes, dure ou
                         mi-friable.</p>
@@ -5098,6 +5093,7 @@
                         <row role="label">
                             <cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
                         </row>
+                        <!--values are copied from template-->
                         <row>
                             <cell>Novembre</cell>
                             <cell>Tal.</cell>

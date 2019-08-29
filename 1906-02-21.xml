@@ -2279,7 +2279,6 @@
                 <cb n="1"/>
                 <div type="section" feature="wire">
                     <head>TO-DAY'S TELEGRAMS</head>
-                
                 <div type="item">
                     <head>CHINESE LABOUR</head>
                     <p>CABINET DISSENSIONS</p>
@@ -2712,7 +2711,6 @@
                     <p>We do not hold ourselves responsible (or the opinions expressed by our
                         correspondents, but we wish, in a spirit of fair play to all, to permit —
                         within certain necessary limits—free discussion</p>
-               
                 <div type="item">
                     <head>THE RENUNCIATION OF CHITTY BEY</head>
                     <p>TO THE EDITOR OF THE EGYPTIAN GAZETTE</p>
@@ -2845,7 +2843,7 @@
                 </div>
                 <div type="item">
                     <head>THE WORLD'S LARGEST LINER</head>
-                    <p>Messrs. Harlard and Wolff annonnoe that the White Star liner Adriatio, which
+                    <p>Messrs. Harlard and Wolff announce that the White Star liner Adriatio, which
                         they are building. will be the largest vessel in the world. She will have a
                         displacement of 25,000 tone, will be 710$ ft. long, 75 ft. broad, and 50 ft.
                         deep.</p>
@@ -3152,113 +3150,8 @@
                 <cols n="6"/>
                 <cb n="1"/>
                 <!-- Bulletin de la bourse -->
-                <div type="item" feature="exportManifests">
+                <div type="item" feature="exportManifests" status="empty">
                     <head>Export Manifests</head>
-                    <table rows="15" cols="3" xml:id="deg-ta-exma01">
-                        <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>,
-                            by the S.S. "Rameses," sailed on the <date when="1905-06-30">30th
-                                June</date>:</head>
-                        <row>
-                            <cell>E. Toriel &amp; fils,</cell>
-                            <cell><measure>44</measure></cell>
-                            <cell>bales cotton</cell>
-                        </row>
-                        <row>
-                            <cell>Cattaui fr. &amp; Co.,</cell>
-                            <cell><measure>106</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Walker &amp; Meimarachi Ltd,</cell>
-                            <cell><measure>300</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>E. Barber &amp; Son</cell>
-                            <cell><measure>71</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari</cell>
-                            <cell><measure>173</measure></cell>
-                            <cell>empty casks</cell>
-                        </row>
-                        <row>
-                            <cell>M. L. Carasso,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>case cigarettes</cell>
-                        </row>
-                        <row>
-                            <cell>N. Soussa frères,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Alexandria Bonded Warehouse,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>B. Hazan &amp; Co.,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. N. Tocos &amp; Co.,</cell>
-                            <cell><measure>1</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Sucreries &amp; Raff. d'Egypte,</cell>
-                            <cell><measure>2000</measure></cell>
-                            <cell>bags sugar</cell>
-                        </row>
-                        <row>
-                            <cell>John B. Caffari,</cell>
-                            <cell><measure>5</measure></cell>
-                            <cell>packages tobacco</cell>
-                        </row>
-                        <row>
-                            <cell>E. Hatoun,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>cases curios</cell>
-                        </row>
-                        <row>
-                            <cell>Mrs. Richmond,</cell>
-                            <cell><measure>3</measure></cell>
-                            <cell>packages effects</cell>
-                        </row>
-                        <row>
-                            <cell>A. B. Burns,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>W. Snow Esq.,</cell>
-                            <cell><measure>6</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>Thos. Cook &amp; Son,</cell>
-                            <cell><measure>7</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>C. H. Baldwin,</cell>
-                            <cell><measure>12</measure></cell>
-                            <cell>,, ,,</cell>
-                        </row>
-                        <row>
-                            <cell>J. Setton &amp; Co.,</cell>
-                            <cell><measure>2</measure></cell>
-                            <cell>cases furniture</cell>
-                        </row>
-                        <row>
-                            <cell>Various,</cell>
-                            <cell><measure>11</measure></cell>
-                            <cell>packages sundries</cell>
-                        </row>
-                    </table>
                 </div>
                 <cb n="2"/>
                 <!-- shipping movements new -->
@@ -5741,7 +5634,6 @@
                         </row>
                         <row>
                             <cell cols="5">CONTINENT (NANTES-DUNKERQUE)</cell>
-                            
                         </row>
                         <row>
                             <cell>Graines de coton (Dunkerque)</cell>
@@ -6032,7 +5924,7 @@
                 </div>
                 <div type="item" xml:id="deg-el-egml01">
                     <head>EGYPTIAN MARKETS, LIMITED</head>
-                    <table xml:id="deg-ta-egml01">
+                    <table xml:id="deg-ta-egml01"> <!-- All values are copied -->
                         <head>Approximative Returns</head>
                         <row role="label">
                             <cell/>
@@ -6073,6 +5965,7 @@
                         <row role="label">
                             <cell cols="5"><hi rend="italic">Coton F.G.F.Br.</hi></cell>
                         </row>
+                        <!--values are copied from template-->
                         <row>
                             <cell>Novembre</cell>
                             <cell>Tal.</cell>
@@ -6340,7 +6233,6 @@
                             <cell><measure unit="LE">359</measure></cell>
                             <cell><measure unit="LE">—</measure></cell>
                         </row>
-                        
                         <row>
                             <cell>Total</cell>
                             <cell><measure unit="LE">3104</measure></cell>
@@ -6635,7 +6527,7 @@
                             information</hi> apply to the offices at Cairo, Alexandria Damanhour, Tantah
                         or Zagazig. <measure type="indexNo">21416 31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>

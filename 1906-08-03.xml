@@ -1529,7 +1529,6 @@
             </div>
             <pb n="2"/>
             <div type="page" n="2">
-                
                     <cols n="3"/>
                     <cb n="1"/>
                     <div type="advert" xml:id="deg-ad-nfl01">
@@ -1557,7 +1556,7 @@
                         <p>Water guaranteed by Chamberlain’s Filter (Pasteur’s System).</p>
                         <p>Inventor of WHISKY &amp; SODA and BRANDY &amp; SODA, bottled ready for use.</p>
                         <table>
-                            <head> Sole Agents in Egypt and Soudan for</head>
+                            <head>Sole Agents in Egypt and Soudan for</head>
                             <row>
                                 <cell>J. Calvet &amp; Co.</cell>
                                 <cell>Bordeaux.</cell>
@@ -1812,8 +1811,6 @@
                                 reference book for travellers.</p>
                         </div>
                     </div>
-                
-               
                     <div type="section" feature="weather">
                         <head>DAILY WEATHER REPORT</head>
                         <p>OBSERVATIONS BY THE SURVEY DEPARTMENT.</p>
@@ -2108,7 +2105,6 @@
                             day want to call for, i.e., the capitalists of the world.</p>
                     </div>
                 </div>
-          
             <pb n="3"/>
             <div type="page" n="3"><head>THB EGYPTIAN GAZETTE, FK1DAT, AUGUST 3. 1906</head>
                     <div type="section" feature="local">
@@ -2157,7 +2153,7 @@
                             end of the month, doing the voyage in a little over seven days,—reoord
                             breaking time.</p>
                         <p>New Employment Registry.</p>
-                        <p>The British Chamber of Commerce gives notioe that it has commenced an
+                        <p>The British Chamber of Commerce gives notice that it has commenced an
                             employment register, which may be consulted by member^ requiring
                             clerical or other assistance. Ap­plications will be received, free of
                             charge, from clerks and others wishing to obtain posts in Egypt.
@@ -2266,11 +2262,10 @@
                         <p>Late last night we received the following telegram from our correspondent
                             at Sohag Inspector Ortod, of the Sleeping Gar Company, was sitting npon
                             the roof of the sleeping oar while the train was passing under Sohag
-                            bridge, when he oame in contact with the bridge and his head was ont
+                            bridge, when he came in contact with the bridge and his head was ont
                             off. His body was afterwards conveyed to hospital here for an
                             autopsy.</p></div>
                     <div type="item">
-                        
                         <head>MUSTAPHA PASHA KAMEL’S VISIT TO ENGLAND. </head>
                         <p>THE PAN-ISLAMIC SOCIETY. </p>
                         <p>(From our Correspondent.)</p>
@@ -2325,7 +2320,7 @@
                             Hindoos, Parsees, Baddhists, Jews, Christians, and Moslems. That is why
                             I regard this even­ing as on:qae and unparalleled in my life, an evening
                             whose sweet and inspiring reminiscence will never fade from my memory. I
-                            am spe­cially glad to notioe this sentiment of sym­pathy and goodwill
+                            am spe­cially glad to notice this sentiment of sym­pathy and goodwill
                             towards Islam which is dawning upon the thoughtfal followers of other
                             creeds. They are wise in encouraging this feeling of friendship. For the
                             Renaissance of Islam mean8 the Renaissance of humanity. I therefore deem
@@ -2525,7 +2520,7 @@
                     </div>
                     <div type="item">
                         <head>CASINO FOR ALEXANDRIA.</head>
-                        <p>The oommittee appointed by the Alex andria Municipal Delegation have
+                        <p>The committee appointed by the Alex andria Municipal Delegation have
                             agreed to lend their support to Mr. George Ralli’s propo­sal for a
                             concession for a Casino on the new quay, provided that the following
                             conditions be fulfilled</p>
@@ -2659,7 +2654,6 @@
                             more for yoar kind words &lt; weloome and expression of sympathy.</p>
                         <p/>
                     </div>
-                
             </div>
             <pb n="4"/>
             <div type="page" n="4">
@@ -2668,7 +2662,7 @@
                         <head>COMMISSION MUNICIPALE {Communication Officielle)</head>
                         <p>( Suite et Fin )</p>
                         <p>Communication est ensuite donnée d’une lettre du 20 juin de la Société
-                            des tramways aooeptant le renouvellement pour une année de l’entente
+                            des tramways acceptant le renouvellement pour une année de l’entente
                             relative à l’entietien des rues tra versées par ses lignes aux
                             conditions fixées par la Commission dans une de ses dernières sé
                             anoes.</p>
@@ -2960,8 +2954,6 @@
                         <p>Gibraltar, Germ. sM oapt. Hooke a, Malta and</p>
                         <p>Hambnrg.</p>
                     </div>
-                
-               
                     <div type="advert" xml:id="deg-ad-aan04">
                         <head>Hamburg &amp; Anglo-American Nile Co.</head>
                         <p>Weekly departure during Winter Season by the<lb/> Luxurious First Class Tourist
@@ -5104,7 +5096,6 @@
                             </row>
                         </table>
                     </div>
-                
             </div>
             <pb n="5"/>
             <div type="page" n="5"><p>THE EGYPTIAN GAZETTE, FRIDAY, AUGUST 3, 1906.</p> <p>5</p>
@@ -5551,7 +5542,6 @@
                         <p></p>
                         <p></p>
                     </div>
-                
                     <div type="advert" xml:id="deg-ad-nkh02">
                         <head>NEW KHEDIVIAL HOTEL CAIRO.</head>
                         <p>Built In 1904. Modern House. Splendid situation. Eectric Light<lb/> Lift, Pension
@@ -5600,113 +5590,8 @@
             <pb n="6"/>
             <div type="page" n="6">
                 <cb n="1"/>
-                    <div type="item" feature="exportManifests">
+                    <div type="item" feature="exportManifests" status="empty">
                         <head>Export Manifests</head>
-                        <table rows="15" cols="3" xml:id="deg-ta-exma01">
-                            <head>For <placeName>MALTA</placeName> and <placeName>LIVERPOOL</placeName>, by
-                                the S.S. "Rameses," sailed on the <date when="1905-06-30">30th
-                                    June</date>:</head>
-                            <row>
-                                <cell>E. Toriel &amp; fils,</cell>
-                                <cell><measure>44</measure></cell>
-                                <cell>bales cotton</cell>
-                            </row>
-                            <row>
-                                <cell>Cattaui fr. &amp; Co.,</cell>
-                                <cell><measure>106</measure></cell>
-                                <cell>,, ,,</cell>
-                            </row>
-                            <row>
-                                <cell>Walker &amp; Meimarachi Ltd,</cell>
-                                <cell><measure>300</measure></cell>
-                                <cell>empty casks</cell>
-                            </row>
-                            <row>
-                                <cell>E. Barber &amp; Son</cell>
-                                <cell><measure>71</measure></cell>
-                                <cell>empty casks</cell>
-                            </row>
-                            <row>
-                                <cell>John B. Caffari</cell>
-                                <cell><measure>173</measure></cell>
-                                <cell>empty casks</cell>
-                            </row>
-                            <row>
-                                <cell>M. L. Carasso,</cell>
-                                <cell><measure>1</measure></cell>
-                                <cell>case cigarettes</cell>
-                            </row>
-                            <row>
-                                <cell>N. Soussa frères,</cell>
-                                <cell><measure>1</measure></cell>
-                                <cell>,, ,,</cell>
-                            </row>
-                            <row>
-                                <cell>Alexandria Bonded Warehouse,</cell>
-                                <cell><measure>1</measure></cell>
-                                <cell>,, ,,</cell>
-                            </row>
-                            <row>
-                                <cell>B. Hazan &amp; Co.,</cell>
-                                <cell><measure>3</measure></cell>
-                                <cell>,, ,,</cell>
-                            </row>
-                            <row>
-                                <cell>C. N. Tocos &amp; Co.,</cell>
-                                <cell><measure>1</measure></cell>
-                                <cell>,, ,,</cell>
-                            </row>
-                            <row>
-                                <cell>Sucreries &amp; Raff. d'Egypte,</cell>
-                                <cell><measure>2000</measure></cell>
-                                <cell>bags sugar</cell>
-                            </row>
-                            <row>
-                                <cell>John B. Caffari,</cell>
-                                <cell><measure>5</measure></cell>
-                                <cell>packages tobacco</cell>
-                            </row>
-                            <row>
-                                <cell>E. Hatoun,</cell>
-                                <cell><measure>3</measure></cell>
-                                <cell>cases curios</cell>
-                            </row>
-                            <row>
-                                <cell>Mrs. Richmond,</cell>
-                                <cell><measure>3</measure></cell>
-                                <cell>packages effects</cell>
-                            </row>
-                            <row>
-                                <cell>A. B. Burns,</cell>
-                                <cell><measure>2</measure></cell>
-                                <cell>,, ,,</cell>
-                            </row>
-                            <row>
-                                <cell>W. Snow Esq.,</cell>
-                                <cell><measure>6</measure></cell>
-                                <cell>,, ,,</cell>
-                            </row>
-                            <row>
-                                <cell>Thos. Cook &amp; Son,</cell>
-                                <cell><measure>7</measure></cell>
-                                <cell>,, ,,</cell>
-                            </row>
-                            <row>
-                                <cell>C. H. Baldwin,</cell>
-                                <cell><measure>12</measure></cell>
-                                <cell>,, ,,</cell>
-                            </row>
-                            <row>
-                                <cell>J. Setton &amp; Co.,</cell>
-                                <cell><measure>2</measure></cell>
-                                <cell>cases furniture</cell>
-                            </row>
-                            <row>
-                                <cell>Various,</cell>
-                                <cell><measure>11</measure></cell>
-                                <cell>packages sundries</cell>
-                            </row>
-                        </table>
                     </div>
                 <!-- douanes -->
                 <cb n="2"/>
@@ -6018,7 +5903,7 @@
                             information</hi> apply to the offices at Cairo, Alexandria Damanhour, Tantah
                         or Zagazig. <measure type="indexNo">21416 31-12.905</measure></p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.20</cell>
@@ -6145,8 +6030,6 @@
                     <p>R. F. &amp; E. TURNER, LTD., Ipswich.—Floor Mills.</p>
                     <p>21188-24.5.905</p>
                 </div>
-                
-                 
             </div>
         </body>
     </text>

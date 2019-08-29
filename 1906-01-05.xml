@@ -650,7 +650,7 @@
                             31-03-06 </p>
                     </div>
                     <div type="advert">
-                        <head> Reise-Bureau der Hamburg Amerika Linie.</head>
+                        <head>Reise-Bureau der Hamburg Amerika Linie.</head>
                         <p>Tickets for Railways and Steamers to all parts of the World.<lb/> NILE
                             TOURS <lb/> In connection with the Anglo- American Line<lb/>CAMPING
                             TOURS<lb/> Fayoum, Mount Sinai, Sudan, Uganda.<lb/> Pleasure Cruises by
@@ -1444,7 +1444,6 @@
                 <div type="masthead">
                     <head>THE EGYPTIAN GAZETTE, TUESDAY, JANUARY 02, 1906</head>
                 </div>
-                
                     <cols n="6"/>
                     <cb n="1"/>
                     <div type="section" feature="local">
@@ -1755,7 +1754,7 @@
                     </div>
                     <cb n="4"/>
                     <div type="section" feature="letters"><div type="item">
-                        <head> FINANCIAL ADVISER’S NOTE.</head>
+                        <head>FINANCIAL ADVISER’S NOTE.</head>
                         <p>THE SPECULATION BOGEY.</p>
                         <p>CRITICISMS BY OUR READERS.</p>
                         <p>TO THE EDITOR OF THE EGYPTIAN GAZETTE.</p>
@@ -1949,9 +1948,7 @@
                                 <persName>Mr. Weil</persName>, <persName>Mr. Agostino
                                 Jannone</persName>. </p>
                     </div>
-                
                 <cb n="6"/>
-               
                     <div type="section" feature="social">
                     <head>PERSONAL AND SOCIAL.</head>
                         <p>H. R. R. Prince William of Sweden is probably leaving Alexandria for
@@ -2030,7 +2027,6 @@
                             climatological stations ; (d) The measurements of rainfall and the river
                             gauge readings of the Nile. </p>
                     </div>
-                
                 <div type="section" scope="advertisement">
                     <div type="item" scope="advertisement">
                         <head>LASSAVE'S.</head>
@@ -2724,7 +2720,7 @@
                     <p>Alexandrie le 4 janvier 1906. 27065-3-1 </p>
                 </div>
                 <div type="item">
-                    <head> The Egyptian Enterprise and Development Company,</head>
+                    <head>The Egyptian Enterprise and Development Company,</head>
                     <p>AVIS</p>
                     <p>Le Conseil d’Administration a l’honneur l’informer MM. les Actionnaires que
                         sur les 24.000 actions nouvelles, doit l’émission a été décidée par
@@ -2788,7 +2784,7 @@
                 </div>
                 <cols n="6"/>
                 <cb n="1"/>
-                <div type="item">
+                <div type="item" feature="parisLetter">
                     <head>OUR PARIS LETTER.</head>
                     <p>(FROM OUR CORRESPONDENT).</p>
                     <p>
@@ -3263,7 +3259,7 @@
                         francs acquise dans la séanoe précédente. </p>
                     <p>Ici, ce matin, le marché des valeurs présente enoore une certaine animation.
                         La National a été très soutenue à 26 3/16 avec de nombreuses s flaires.
-                        L'Agricole a clôturé ferme à 9 11/16. L'action Crédit Fonoiera ouvert h 800
+                        L'Agricole a clôturé ferme à 9 11/16. L'action Crédit Fonciera ouvert h 800
                         pour finir à 804, aveo de forte acheteurs ; les obligations 1886 ont
                         progressé h 836 et les nouvelles à 974. La Daïts s'est iniorite h 17 11/16.
                         Le Banque d’Abyssinie a coté 7 1/8 vendeurs. Le Comptoir Financier a avancé
@@ -4676,8 +4672,6 @@
                     <p>Disponible : Rien</p>
                     <p>" Cond. Saha P.T. <measure unit="pt">71</measure> à <measure unit="pt"
                             >77</measure></p>
-
-
                     <table cols="5" xml:id="deg-ta-mmeb05">
                         <head>Les prix suivants ont été pratiqués ce jour</head>
                         <head>COTON C.M.E. (Basse-Egypte)</head>
@@ -6641,8 +6635,6 @@
                             <p>Beautiful new hotel.</p>
                             <p>First class. Electric light. Central heating and every modern
                                 comfort.</p>
-
-
                         </div>
                         <div type="item" scope="advertisement">
                             <head>Paris HOTEL BELLEVUE.</head>
@@ -8387,7 +8379,7 @@
                             and information</hi> apply to the offices at Cairo, Alexandria
                         Damanhour, Tantah, Zagazig, or Saida Zenab.</p>
                     <table rows="4" cols="16">
-                        <head> A.M. ( HELOUAN BRANCH. ) P.M.</head>
+                        <head>A.M. ( HELOUAN BRANCH. ) P.M.</head>
                         <row>
                             <cell>Bab-el-Louck...Dep.</cell>
                             <cell>6.40</cell>
